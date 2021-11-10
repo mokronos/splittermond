@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="1" expinv="147" race="dwarf" splinter="BLOODMOON" telare="7000">
+   <name>Plö Stark aus Sarnburg</name>
+   <culturelores>
+      <cultloreref ref="selenia"/>
+   </culturelores>
+   <languages>
+      <languageref ref="basargnomisch"/>
+      <languageref ref="dragoreisch"/>
+   </languages>
+   <powerrefs>
+      <powerref count="1" ref="resistpoison"/>
+      <powerref count="1" ref="sturdy"/>
+      <powerref count="1" ref="senseorient"/>
+      <powerref count="1" ref="socialable"/>
+      <powerref count="2" ref="focuspool"/>
+      <powerref count="1" ref="naturalarmor"/>
+      <powerref count="1" ref="literate"/>
+   </powerrefs>
+   <resourcerefs>
+      <resourceref ref="reputation"/>
+      <resourceref ref="status"/>
+      <resourceref description="Kontakte in Städten durch Handwerk meines Vaters" ref="contacts" val="2"/>
+      <resourceref description="Bisschen Geld" ref="wealth" val="1"/>
+      <resourceref description="Anderthalbhänder" idRef="6208d072-014e-43e5-8457-4773f669c83e" ref="relic" val="4"/>
+      <resourceref description="In Sarnburg besitze ich noch die Schmiede meines Vaters" ref="refuge" val="1"/>
+   </resourcerefs>
+   <attributes>
+      <attr id="CHARISMA" start="2" value="3"/>
+      <attr id="AGILITY" start="1" value="2"/>
+      <attr id="INTUITION" start="2" value="2"/>
+      <attr id="CONSTITUTION" start="4" value="6"/>
+      <attr id="MYSTIC" start="3" value="4"/>
+      <attr id="STRENGTH" start="3" value="5"/>
+      <attr id="MIND" start="2" value="3"/>
+      <attr id="WILLPOWER" start="3" value="4"/>
+   </attributes>
+   <skillvals>
+      <skillval skill="melee"/>
+      <skillval skill="slashing" val="6">
+         <masterref free="1" ref="slashing/berserk"/>
+      </skillval>
+      <skillval skill="chains"/>
+      <skillval skill="blades" val="9">
+         <masterref free="1" ref="blades/whirlingdefense"/>
+         <masterref free="1" ref="blades/defender"/>
+      </skillval>
+      <skillval skill="longrange"/>
+      <skillval skill="staffs"/>
+      <skillval skill="throwing"/>
+      <skillval skill="acrobatics" val="2"/>
+      <skillval skill="alchemy"/>
+      <skillval skill="leadership"/>
+      <skillval skill="arcanelore" val="3"/>
+      <skillval skill="athletics" val="2"/>
+      <skillval skill="performance" val="2"/>
+      <skillval skill="diplomacy"/>
+      <skillval skill="clscraft"/>
+      <skillval skill="empathy" val="4"/>
+      <skillval skill="determination" val="3"/>
+      <skillval skill="dexterity"/>
+      <skillval skill="history" val="3">
+         <masterref free="1" spec="history/theme/1"/>
+      </skillval>
+      <skillval skill="craftmanship" val="4"/>
+      <skillval skill="heal"/>
+      <skillval skill="stealth"/>
+      <skillval skill="hunting"/>
+      <skillval skill="countrylore" val="2"/>
+      <skillval skill="nature"/>
+      <skillval skill="eloquence" val="1"/>
+      <skillval skill="locksntraps"/>
+      <skillval skill="swim"/>
+      <skillval skill="seafaring"/>
+      <skillval skill="streetlore" val="2"/>
+      <skillval skill="animals"/>
+      <skillval skill="survival" val="1"/>
+      <skillval skill="perception" val="2"/>
+      <skillval skill="endurance" val="3"/>
+      <skillval skill="antimagic"/>
+      <skillval skill="controlmagic"/>
+      <skillval skill="motionmagic"/>
+      <skillval skill="insightmagic" val="3"/>
+      <skillval skill="stonemagic"/>
+      <skillval skill="firemagic"/>
+      <skillval skill="healmagic"/>
+      <skillval skill="illusionmagic"/>
+      <skillval skill="combatmagic"/>
+      <skillval skill="lightmagic"/>
+      <skillval skill="naturemagic"/>
+      <skillval skill="shadowmagic"/>
+      <skillval skill="fatemagic"/>
+      <skillval skill="protectionmagic" val="6">
+         <masterref free="1" ref="protectionmagic/savingcaster"/>
+         <masterref free="1" ref="protectionmagic/castershand"/>
+      </skillval>
+      <skillval skill="enhancemagic" val="6">
+         <masterref free="1" ref="enhancemagic/savingcaster"/>
+      </skillval>
+      <skillval skill="deathmagic"/>
+      <skillval skill="transformationmagic"/>
+      <skillval skill="watermagic"/>
+      <skillval skill="windmagic"/>
+   </skillvals>
+   <spellvals>
+      <spellval school="enhancemagic" spell="enhanceconst"/>
+      <spellval free="2" school="enhancemagic" spell="enhancevitality"/>
+      <spellval free="1" school="enhancemagic" spell="enhancesight"/>
+      <spellval free="2" school="protectionmagic" spell="stoneskin"/>
+      <spellval free="1" school="protectionmagic" spell="minormagicarmor"/>
+      <spellval school="insightmagic" spell="magiccompass"/>
+      <spellval free="1" school="insightmagic" spell="magicmessage"/>
+      <spellval school="protectionmagic" spell="minorprotectmagic"/>
+   </spellvals>
+   <hairColor>dunkelbraun</hairColor>
+   <eyeColor>dunkelbraun</eyeColor>
+   <birthPlace>Sarnburg</birthPlace>
+   <size>150</size>
+   <weight>90</weight>
+   <gender>MALE</gender>
+   <carries>
+      <item count="1" location="CONTAINER" ref="decke" uniqueid="b384129c-9fc9-47a0-954a-a28f59459690"/>
+      <item count="1" location="CONTAINER" ref="essgeschirr" uniqueid="eedb0816-00b6-4876-bccb-626b28d03a7a"/>
+      <item count="1" location="CONTAINER" ref="feuersteinstahlundzunder" uniqueid="75b665b2-3e32-4e91-8fbd-8d9c0cd56ca4"/>
+      <item count="5" location="CONTAINER" ref="fackel" uniqueid="0ff60961-a601-450f-9e0f-62f8c09a8842"/>
+      <item count="3" location="CONTAINER" ref="marschrationprotag" uniqueid="692c19d5-a639-4348-9213-5735f698fc87"/>
+      <item count="1" location="CONTAINER" ref="mace" uniqueid="59b36f32-5fc5-4102-8885-4c6cbc88f1bc"/>
+      <item count="1" customName="Schwert des Stark" location="BODY" ref="oneandhalf" uniqueid="6208d072-014e-43e5-8457-4773f669c83e">
+         <personalizations>
+            <personalization ref="weapon_changeattr">
+               <modifications>
+                  <attrchgmod from="AGILITY" to="CONSTITUTION"/>
+               </modifications>
+            </personalization>
+         </personalizations>
+      </item>
+      <item count="1" location="CONTAINER" material="common_wood" ref="rundschild" uniqueid="e9424413-a09a-47b0-9c10-3f49d9f4cbca"/>
+      <item count="1" location="CONTAINER" ref="platteschwer" uniqueid="9b6b4a17-0a74-492b-984e-ccbdc625033a"/>
+      <item count="1" location="BODY" material="alabasteriron" ref="amulett" uniqueid="5e6e8506-94b6-4353-afe9-cdac465edd71">
+         <enhancements>
+            <enhancement ref="mindresist"/>
+         </enhancements>
+         <description>+1 GW</description>
+      </item>
+      <item count="1" location="BODY" material="common_other" ref="armreif_schildpatt" uniqueid="453b2642-560b-4cfd-9067-7c6fb2f6f11f">
+         <enhancements>
+            <enhancement ref="embedspell1">
+               <spellval free="-1" school="arcanelore" spell="objectillusion"/>
+            </enhancement>
+         </enhancements>
+         <description>Objektillusion Armreif (auf Arkane Kunde)</description>
+      </item>
+      <item count="1" customName="Anti-Schmerz Droge" location="CONTAINER" material="common_other" ref="basepotion" uniqueid="59cf7924-e2cf-4eba-9be2-d2f7b76a2bfe">
+         <description>- 1 Malus
+Dauer unbekannt</description>
+      </item>
+      <item count="1" customName="Angel und Schnur" location="CONTAINER" material="common_other" ref="angelhakenUndSchnur" uniqueid="7b1f7d3f-cae3-43bb-8d47-966e0c59b15e">
+         <description>gewöhnliche Angel</description>
+      </item>
+      <item count="1" customName="Köder" location="CONTAINER" material="common_other" ref="constrictor" uniqueid="fe32f8c5-decc-4928-9503-846d59606568">
+         <description>Köder für Angel
+Menge unbestimmt</description>
+      </item>
+      <item count="1" customName="Lederbeutel" location="CONTAINER" material="common_other" ref="leinensack" uniqueid="557839bc-c3e8-4353-8fdb-c35449bb401e">
+         <description>Lederbeutel mit Wappen und Asche innen drin
+Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</description>
+      </item>
+      <item count="1" customName="Zanger(Hammer/Zange)" location="CONTAINER" material="common_metal" ref="hammer" uniqueid="257c7065-759a-43c0-8d35-e05ea80b90b4">
+         <description>zanger - hammer und zange gleichzeitig | stammt von zimmermann der durch ganzes land gereist ist nur mit diesem werkzeug (bringt nichts)</description>
+      </item>
+      <item count="1" customName="Handwerkshammer" location="CONTAINER" material="common_metal" ref="hammer" uniqueid="cf634a38-8798-44f0-b035-5187deaba3aa">
+         <description>+3 auf Holzhandwerk</description>
+      </item>
+      <item count="1" customName="Handwerksset" location="CONTAINER" material="common_metal" ref="schmiedehammer" uniqueid="1de52d99-a1bf-4bfa-8048-ec6c32842e55">
+         <description>+2 auf jedes Handwerk, Einstellung verbessert bei Interaktion mit höherem Stand (solange es edel bleibt | Abnutzung)</description>
+      </item>
+   </carries>
+   <history>
+      <powermod date="2021-01-03T19:41:30.815+01:00" expCost="14" ref="focuspool"/>
+      <mastermod date="2021-01-03T19:41:30.815+01:00" level="1" ref="protectionmagic/castershand" skill="protectionmagic"/>
+      <attrmod attr="CONSTITUTION" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="5"/>
+      <attrmod attr="MYSTIC" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="4"/>
+      <attrmod attr="STRENGTH" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="4"/>
+      <attrmod attr="MIND" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="3"/>
+      <attrmod attr="WILLPOWER" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="4"/>
+      <attrmod attr="AGILITY" date="2021-01-03T19:41:30.815+01:00" expCost="10" type="abs" val="2"/>
+      <spellmod date="2021-01-03T19:41:30.815+01:00">
+         <spell free="1" school="protectionmagic" spell="minormagicarmor"/>
+      </spellmod>
+      <mastermod date="2021-01-03T19:56:43.626+01:00" level="1" ref="slashing/berserk" skill="slashing"/>
+      <skillmod date="2021-01-24T20:27:24.053+01:00" expCost="3" ref="blades" type="abs" value="4"/>
+      <skillmod date="2021-01-24T20:27:24.053+01:00" expCost="3" ref="blades" type="abs" value="5"/>
+      <skillmod date="2021-01-24T20:27:24.053+01:00" expCost="3" ref="blades" type="abs" value="6"/>
+      <mastermod date="2021-01-24T20:27:24.053+01:00" level="1" ref="blades/defender" skill="blades"/>
+      <attrmod attr="CHARISMA" date="2021-01-24T20:27:24.053+01:00" expCost="10" type="abs" val="3"/>
+      <skillmod date="2021-03-22T00:27:22.811+01:00" expCost="3" ref="insightmagic" type="abs" value="1"/>
+      <skillmod date="2021-03-22T00:27:22.811+01:00" expCost="3" ref="insightmagic" type="abs" value="2"/>
+      <skillmod date="2021-03-22T00:27:22.811+01:00" expCost="3" ref="insightmagic" type="abs" value="3"/>
+      <spellmod date="2021-03-22T00:27:22.811+01:00">
+         <spell school="insightmagic" spell="magiccompass"/>
+      </spellmod>
+      <spellmod date="2021-03-22T00:27:22.811+01:00">
+         <spell free="1" school="insightmagic" spell="magicmessage"/>
+      </spellmod>
+      <attrmod attr="CONSTITUTION" date="2021-03-22T00:27:22.811+01:00" expCost="15" type="abs" val="6"/>
+      <attrmod attr="STRENGTH" date="2021-05-04T23:28:26.286+02:00" expCost="15" type="abs" val="5"/>
+      <spellmod date="2021-06-14T20:17:56.337+02:00">
+         <spell school="protectionmagic" spell="minorprotectmagic"/>
+      </spellmod>
+      <skillmod date="2021-06-14T20:18:57.519+02:00" expCost="5" ref="blades" type="abs" value="7"/>
+      <skillmod date="2021-06-15T00:32:53.674+02:00" expCost="5" ref="blades" type="abs" value="8"/>
+      <skillmod date="2021-06-15T00:32:53.674+02:00" expCost="5" ref="blades" type="abs" value="9"/>
+   </history>
+   <rewards>
+      <reward date="2021-01-03T17:11:17.573+01:00" exp="15">
+         <title>Erschaffung</title>
+      </reward>
+      <reward date="2021-01-03T20:03:23.000+01:00" exp="85">
+         <title>bis nach Wüste</title>
+      </reward>
+      <reward date="2021-03-21T20:41:08.000+01:00" exp="15">
+         <title>Vor Triathlon auf Insel/Blumen-Wettlauf, Auf Weg zum Dämmerwald</title>
+      </reward>
+      <reward date="2021-03-22T00:21:46.000+01:00" exp="5">
+         <title>Vulkan Höhlen</title>
+      </reward>
+      <reward date="2021-04-04T17:43:40.000+02:00" exp="5">
+         <title>Vulkan Höhle - Vulkan Drache - Schiff Rochenangriff</title>
+      </reward>
+      <reward date="2021-05-04T22:45:02.000+02:00" exp="10">
+         <title>Mord in Zirkus</title>
+      </reward>
+      <reward date="2021-05-24T19:50:38.000+02:00" exp="5">
+         <title>Ankunft im Jungle </title>
+      </reward>
+      <reward date="2021-06-15T00:32:13.000+02:00" exp="8">
+         <title>T-REX</title>
+      </reward>
+   </rewards>
+   <notes>Feinde der Affali | -2 Einstellung</notes>
+</splimochar>

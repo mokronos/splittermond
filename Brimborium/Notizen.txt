@@ -752,7 +752,7 @@ o o o o o o o
 fokus:
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
-o o o o o o
+v v o o o o
 o o o o o o
 o o o o o o
 o o o o o o
@@ -786,8 +786,8 @@ Schicksalsmagie:
 +0 auf fertigkeiten (segnung)
 
 
-1 chillisamen angepflanzt mit walderde (10mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 kleine schwarze frucht(etwas größer))
+1 chillisamen angepflanzt mit walderde (12mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+Intuitionstrank (+1 INT)
 
-
-105ep + ?ep --> ep
-FAZIT: ???
+105ep + 10ep --> 115ep
+FAZIT: Caressa hat verwandlung geschafft(werwolf überwunden), juvius "verflucht", wandern blind in wald

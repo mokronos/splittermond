@@ -20,7 +20,7 @@
       <resourceref ref="reputation"/>
       <resourceref ref="status"/>
       <resourceref ref="contacts"/>
-      <resourceref description="Geld von Eltern mitgenommen!!!" ref="wealth" val="4"/>
+      <resourceref description="Geld von Eltern mitgenommen" ref="wealth" val="4"/>
       <resourceref description="Dolch" idRef="a9cb44cf-d84e-46fc-9ac5-f593b346be56" ref="relic" val="2"/>
       <resourceref ref="refuge"/>
       <resourceref description="Zuflucht bei Eltern in Ioria suchen" ref="mentor" val="2"/>

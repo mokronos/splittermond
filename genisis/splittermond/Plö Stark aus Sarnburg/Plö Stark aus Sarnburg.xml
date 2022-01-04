@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="1" expinv="147" race="dwarf" splinter="BLOODMOON" telare="7000">
+<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="11" expinv="162" race="dwarf" splinter="BLOODMOON" telare="7000">
    <name>Plö Stark aus Sarnburg</name>
    <culturelores>
       <cultloreref ref="selenia"/>
@@ -30,7 +30,7 @@
       <attr id="AGILITY" start="1" value="2"/>
       <attr id="INTUITION" start="2" value="2"/>
       <attr id="CONSTITUTION" start="4" value="6"/>
-      <attr id="MYSTIC" start="3" value="4"/>
+      <attr id="MYSTIC" start="3" value="5"/>
       <attr id="STRENGTH" start="3" value="5"/>
       <attr id="MIND" start="2" value="3"/>
       <attr id="WILLPOWER" start="3" value="4"/>
@@ -44,6 +44,7 @@
       <skillval skill="blades" val="9">
          <masterref free="1" ref="blades/whirlingdefense"/>
          <masterref free="1" ref="blades/defender"/>
+         <masterref free="2" ref="blades/whirlingblades"/>
       </skillval>
       <skillval skill="longrange"/>
       <skillval skill="staffs"/>
@@ -106,11 +107,11 @@
       <spellval school="enhancemagic" spell="enhanceconst"/>
       <spellval free="2" school="enhancemagic" spell="enhancevitality"/>
       <spellval free="1" school="enhancemagic" spell="enhancesight"/>
-      <spellval free="2" school="protectionmagic" spell="stoneskin"/>
       <spellval free="1" school="protectionmagic" spell="minormagicarmor"/>
       <spellval school="insightmagic" spell="magiccompass"/>
       <spellval free="1" school="insightmagic" spell="magicmessage"/>
       <spellval school="protectionmagic" spell="minorprotectmagic"/>
+      <spellval free="2" school="protectionmagic" spell="stoneskin"/>
    </spellvals>
    <hairColor>dunkelbraun</hairColor>
    <eyeColor>dunkelbraun</eyeColor>
@@ -210,6 +211,11 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       <skillmod date="2021-06-14T20:18:57.519+02:00" expCost="5" ref="blades" type="abs" value="7"/>
       <skillmod date="2021-06-15T00:32:53.674+02:00" expCost="5" ref="blades" type="abs" value="8"/>
       <skillmod date="2021-06-15T00:32:53.674+02:00" expCost="5" ref="blades" type="abs" value="9"/>
+      <mastermod date="2021-10-27T13:59:45.567+02:00" ref="blades/whirlingblades" skill="blades"/>
+      <spellmod date="2021-10-27T13:59:45.567+02:00">
+         <spell free="2" school="protectionmagic" spell="stoneskin"/>
+      </spellmod>
+      <attrmod attr="MYSTIC" date="2021-10-27T13:59:45.567+02:00" expCost="15" type="abs" val="5"/>
    </history>
    <rewards>
       <reward date="2021-01-03T17:11:17.573+01:00" exp="15">
@@ -235,6 +241,15 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       </reward>
       <reward date="2021-06-15T00:32:13.000+02:00" exp="8">
          <title>T-REX</title>
+      </reward>
+      <reward date="2021-06-28T20:09:20.000+02:00" exp="5">
+         <title>Ankunft im Jungledorf</title>
+      </reward>
+      <reward date="2021-08-09T20:10:35.000+02:00" exp="5">
+         <title>Ruinen und 2 Gnome</title>
+      </reward>
+      <reward date="2021-08-23T20:11:25.000+02:00" exp="15">
+         <title>Das Innere der Ruinen und Bilder der Prophezeihung</title>
       </reward>
    </rewards>
    <notes>Feinde der Affali | -2 Einstellung</notes>

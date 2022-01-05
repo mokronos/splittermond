@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="11" expinv="162" race="dwarf" splinter="BLOODMOON" telare="7000">
+<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="26" expinv="162" race="dwarf" splinter="BLOODMOON" telare="6970">
    <name>Plö Stark aus Sarnburg</name>
    <culturelores>
       <cultloreref ref="selenia"/>
@@ -175,6 +175,10 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       <item count="1" customName="Handwerksset" location="CONTAINER" material="common_metal" ref="schmiedehammer" uniqueid="1de52d99-a1bf-4bfa-8048-ec6c32842e55">
          <description>+2 auf jedes Handwerk, Einstellung verbessert bei Interaktion mit höherem Stand (solange es edel bleibt | Abnutzung)</description>
       </item>
+      <item count="1" location="CONTAINER" ref="papyrus10Bögen" uniqueid="1ba87c3b-ab72-49e1-a500-2a4a142ca630"/>
+      <item count="1" customName="Ring mit Schildrune" location="BODY" material="common_metal" ref="ringSilber" uniqueid="5c4748e2-e249-4e22-9552-11a9d91c61dc">
+         <description>Beschört Schild welches Schaden auf den Träger transferiert.</description>
+      </item>
    </carries>
    <history>
       <powermod date="2021-01-03T19:41:30.815+01:00" expCost="14" ref="focuspool"/>
@@ -250,6 +254,15 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       </reward>
       <reward date="2021-08-23T20:11:25.000+02:00" exp="15">
          <title>Das Innere der Ruinen und Bilder der Prophezeihung</title>
+      </reward>
+      <reward date="2021-10-27T18:34:38.000+02:00" exp="5">
+         <title>Geröllfeld, Harpien, Finsterschwinge ritual</title>
+      </reward>
+      <reward date="2021-12-01T18:35:01.000+01:00" exp="5">
+         <title>In Stadt mit Seuche am Feenportal</title>
+      </reward>
+      <reward date="2021-12-16T18:35:50.000+01:00" exp="5">
+         <title>Tuniervorbereitung</title>
       </reward>
    </rewards>
    <notes>Feinde der Affali | -2 Einstellung</notes>

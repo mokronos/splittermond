@@ -883,7 +883,6 @@ Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
 
-+10 Lunare von alina
 
 
 158ep + 15ep --> 173ep
@@ -1015,7 +1014,7 @@ FAZIT: Ulreich Familie in Furgant, Teilnahme an Tunier
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-17. Tunier[16.12.2021]
+17. Tuniervorbereitung[16.12.2021]
 
 splitterpunkte:
 
@@ -1139,10 +1138,6 @@ Schutzmagie:
 Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
--30 Telare
-+ 10 seiten papyros(papier) 
-schildplatt ring (schild das schaden auf mich richtet)
-ulreichs überleben 1000 jahre, runenschmiede, schmieden immer noch
 
 188ep + ?ep --> ??ep
 FAZIT: ???

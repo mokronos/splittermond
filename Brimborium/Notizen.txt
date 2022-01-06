@@ -847,5 +847,62 @@ Schicksalsmagie:
 1 chillisamen angepflanzt mit walderde (12mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
 Intuitionstrank (+1 INT)
 
-115ep + ?ep --> ep
+115ep + 5ep --> 120ep
 FAZIT: durch wald geirrt und dinge erlebt
+
+
+=================================================================================== ??.??.2021
+
+
+splitterpunkte:
+o o o o o
+
+hp:
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 0 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o v v
+o o o o o o
+o o o o o o
+o o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+
+
+1 chillisamen angepflanzt mit walderde (12mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+
+120ep + ?ep --> ?ep
+FAZIT: ???

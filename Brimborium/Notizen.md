@@ -1059,4 +1059,72 @@ und lederhandwerksladen: taschen in mantel innen für tränke und extra außenta
 + trank (alkohol) mit durchgestrichener schwangerer frau
 
 135ep + 7ep --> 142ep
-FAZIT: haben sve versteinert, aber sind alle angeschlagen
+FAZIT: haben sven versteinert, aber sind alle angeschlagen
+
+
+=================================================================================== ??.??.2022
+
+
+splitterpunkte:
+o o o x x x
+
+hp:
+x x x x x x x
+x x x x x x x
+x x x o o o o
+o o o o o o o
+o o o o o o o
+--> 1 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+e e v e v o
+v e v e e e
+v v e v v e
+v e e e e e
+v o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 19 = 2W10 + 21 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+1 chillisamen angepflanzt mit walderde (13mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+
+orange/grün/blaue zeichen an häusern und kleidungen
+blau: drachen
+orange: tiger
+grün: jadeschlangen
+
+TODO: lederhandwerksladen: taschen in mantel innen für tränke und extra außentaschen an rucksack
+
+142ep + ?ep --> ??ep
+FAZIT: ???

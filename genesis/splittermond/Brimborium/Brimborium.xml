@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<splimochar bground="wizard" culture="ioria" deity="ulmon" edu="elementalist" expfree="3" expinv="117" race="human" splinter="GHOSTTHOUGHT" telare="7135">
+<splimochar bground="wizard" culture="ioria" deity="ulmon" edu="elementalist" expinv="142" race="human" splinter="GHOSTTHOUGHT" telare="7130">
    <name>Brimborium</name>
    <culturelores>
       <cultloreref ref="ioria"/>
@@ -30,7 +30,7 @@
       <attr id="AGILITY" start="2" value="3"/>
       <attr id="INTUITION" start="2" value="3"/>
       <attr id="CONSTITUTION" start="2" value="2"/>
-      <attr id="MYSTIC" start="4" value="5"/>
+      <attr id="MYSTIC" start="4" value="6"/>
       <attr id="STRENGTH" start="2" value="2"/>
       <attr id="MIND" start="2" value="3"/>
       <attr id="WILLPOWER" start="2" value="3"/>
@@ -44,7 +44,7 @@
       <skillval skill="staffs"/>
       <skillval skill="throwing"/>
       <skillval skill="acrobatics"/>
-      <skillval skill="alchemy" val="6">
+      <skillval skill="alchemy" val="8">
          <masterref free="1" ref="alchemy/journeyman"/>
       </skillval>
       <skillval skill="leadership"/>
@@ -194,6 +194,15 @@ von drachenchilis</description>
       <item count="1" customName="Intuitionstrunk" location="CONTAINER" material="common_other" ref="ausdauertrunk" uniqueid="55170803-95ec-42b2-9eea-825467f852ff">
          <description>+1 INT</description>
       </item>
+      <item count="1" customName="Schwarzpulver" location="CONTAINER" material="common_other" ref="fireleaf" uniqueid="90b62530-9be6-4ae4-a7a3-7da4c2d403d6">
+         <description>kleines Gefäß</description>
+      </item>
+      <item count="1" customName="Trank mit Fischgeruch" location="CONTAINER" material="common_other" ref="colorfulGrass" uniqueid="36489420-7bd9-4287-a191-7f74a3d2404c"/>
+      <item count="1" customName="Trank mit durchgestrichener schwangerer Frau" location="CONTAINER" material="common_other" ref="ausdauertrunk" uniqueid="dac3ad92-46cd-46a7-8f2b-81b53f756201">
+         <description></description>
+      </item>
+      <item count="15" location="CONTAINER" ref="phiole4Cl" uniqueid="713a605f-dd44-4759-8a0b-586d408ad508"/>
+      <item count="4" customName="Baumwandlersaft (Harz)" location="CONTAINER" material="common_other" ref="aulolaPollen" uniqueid="692b3c8b-5fa4-42b5-9984-de463342b601"/>
    </carries>
    <history>
       <attrmod attr="MYSTIC" date="2021-01-10T07:08:10.021+01:00" expCost="10" type="abs" val="5"/>
@@ -242,17 +251,20 @@ von drachenchilis</description>
       <skillmod date="2021-07-04T20:34:08.421+02:00" expCost="3" ref="insightmagic" type="abs" value="6"/>
       <attrmod attr="AGILITY" date="2022-01-06T03:44:16.326+01:00" expCost="10" type="abs" val="3"/>
       <attrmod attr="INTUITION" date="2022-01-06T03:44:16.326+01:00" expCost="10" type="abs" val="3"/>
-      <mastermod date="2022-01-06T03:51:05.557+01:00" ref="insightmagic/magic_senses" skill="insightmagic"/>
+      <mastermod date="2022-01-06T03:51:05.557+01:00" level="1" ref="insightmagic/magic_senses" skill="insightmagic"/>
       <spellmod date="2022-01-06T03:51:05.557+01:00">
          <spell free="2" school="insightmagic" spell="understandlanguage"/>
       </spellmod>
       <skillmod date="2022-01-06T03:51:05.557+01:00" expCost="5" ref="firemagic" type="abs" value="7"/>
       <skillmod date="2022-01-06T03:51:05.557+01:00" expCost="5" ref="firemagic" type="abs" value="8"/>
       <skillmod date="2022-01-06T04:31:41.781+01:00" expCost="5" ref="firemagic" type="abs" value="9"/>
-      <mastermod date="2022-01-06T04:31:41.781+01:00" ref="firemagic/firemastery" skill="firemagic"/>
+      <mastermod date="2022-01-06T04:31:41.781+01:00" level="1" ref="firemagic/firemastery" skill="firemagic"/>
       <spellmod date="2022-01-06T04:31:41.781+01:00">
          <spell free="2" school="firemagic" spell="controlfire"/>
       </spellmod>
+      <attrmod attr="MYSTIC" date="2022-04-04T06:18:15.692+02:00" expCost="15" type="abs" val="6"/>
+      <skillmod date="2022-04-04T06:18:15.692+02:00" expCost="5" ref="alchemy" type="abs" value="7"/>
+      <skillmod date="2022-04-04T06:18:15.692+02:00" expCost="5" ref="alchemy" type="abs" value="8"/>
    </history>
    <rewards>
       <reward date="2021-01-09T23:35:27.537+01:00" exp="15">
@@ -305,6 +317,15 @@ von drachenchilis</description>
       </reward>
       <reward date="2021-12-08T03:51:17.000+01:00" exp="5">
          <title>durch wald geirrt und dinge erlebt</title>
+      </reward>
+      <reward date="2022-01-16T22:42:25.000+01:00" exp="5">
+         <title>Krater mit Camps + Auf weg zum raschelnden Pfad</title>
+      </reward>
+      <reward date="2022-01-31T22:43:47.000+01:00" exp="10">
+         <title>3 Fraktionen Stadt Ankunft</title>
+      </reward>
+      <reward date="2022-03-02T22:50:41.000+01:00" exp="7">
+         <title>Sven versteinert</title>
       </reward>
    </rewards>
    <notes>Geboren in Ioria, Sohn von 1 Priester und 1 Magierin. Den Eltern war beiden von religiöser und kultureller Seite verboten Kinder zu bekommen.

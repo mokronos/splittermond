@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="1" expinv="187" race="dwarf" splinter="BLOODMOON" telare="6970">
+<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expinv="198" race="dwarf" splinter="BLOODMOON" telare="6970">
    <name>Plö Stark aus Sarnburg</name>
    <culturelores>
       <cultloreref ref="selenia"/>
@@ -63,7 +63,10 @@
       <skillval skill="history" val="3">
          <masterref free="1" spec="history/theme/1"/>
       </skillval>
-      <skillval skill="craftmanship" val="4"/>
+      <skillval skill="craftmanship" val="6">
+         <masterref free="1" ref="craftmanship/journeyman_forging"/>
+         <masterref ref="craftmanship/journeyman_woodworking"/>
+      </skillval>
       <skillval skill="heal"/>
       <skillval skill="stealth"/>
       <skillval skill="hunting"/>
@@ -223,6 +226,10 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       <attrmod attr="MYSTIC" date="2021-10-27T13:59:45.567+02:00" expCost="15" type="abs" val="5"/>
       <attrmod attr="MIND" date="2022-01-06T05:09:13.737+01:00" expCost="15" type="abs" val="4"/>
       <attrmod attr="INTUITION" date="2022-01-06T05:09:13.737+01:00" expCost="10" type="abs" val="3"/>
+      <skillmod date="2022-04-04T05:38:01.123+02:00" expCost="3" ref="craftmanship" type="abs" value="5"/>
+      <skillmod date="2022-04-04T05:38:01.123+02:00" expCost="3" ref="craftmanship" type="abs" value="6"/>
+      <mastermod date="2022-04-04T05:38:01.123+02:00" ref="craftmanship/journeyman_forging" skill="craftmanship"/>
+      <mastermod date="2022-04-04T05:38:01.123+02:00" expCost="5" ref="craftmanship/journeyman_woodworking" skill="craftmanship"/>
    </history>
    <rewards>
       <reward date="2021-01-03T17:11:17.573+01:00" exp="15">
@@ -266,6 +273,9 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       </reward>
       <reward date="2021-12-16T18:35:50.000+01:00" exp="5">
          <title>Tuniervorbereitung</title>
+      </reward>
+      <reward date="2022-02-09T22:34:33.000+01:00" exp="10">
+         <title>Tunier vorzeitig beendet</title>
       </reward>
    </rewards>
    <notes>Feinde der Affali | -2 Einstellung</notes>

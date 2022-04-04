@@ -1,5 +1,6 @@
 # splittermond pen and paper
 
+## create symlink from wsl (where git repo is) to win10 (where genesis is)
 run (modifiy for setup)
 
 ```shell

@@ -1,7 +1,7 @@
 # splittermond pen and paper
 
-run 
+run (modifiy for setup)
 
 ```shell
-mklink /D %USERPROFILE%\rpgframework\player\myself\splittermond %USERPROFILE%\splittermond\genesis\splittermond
+mklink /D %USERPROFILE%\rpgframework\player\myself\splittermond \\wsl$\Ubuntu\home\mokronos\splittermond\genesis\splittermond
 ```

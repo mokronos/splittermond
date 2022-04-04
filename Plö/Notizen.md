@@ -891,7 +891,7 @@ FAZIT: wieder zurück ins dorf, ruine geschlossen --> gnome verschwinden
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-17. Geröllfeld, Harpien, Finsterschwinge ritual[27.10.2021]
+18. Geröllfeld, Harpien, Finsterschwinge ritual[27.10.2021]
 
 splitterpunkte:
 
@@ -952,7 +952,7 @@ FAZIT: Japetus wieder nackt wieder gefunden
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-17. In Stadt mit Seuche am Feenportal[01.12.2021]
+19. In Stadt mit Seuche am Feenportal[01.12.2021]
 
 splitterpunkte:
 
@@ -1014,7 +1014,7 @@ FAZIT: Ulreich Familie in Furgant, Teilnahme an Tunier
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-17. Tuniervorbereitung[16.12.2021]
+20. Tuniervorbereitung[16.12.2021]
 
 splitterpunkte:
 
@@ -1082,7 +1082,7 @@ FAZIT: mehr info über furgant und ulreichs, für tunier vorbereitet
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-17. Tunier[16.12.2021]
+21. Tunier[24.01.2022]
 
 splitterpunkte:
 
@@ -1139,5 +1139,135 @@ Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
 
-188ep + ?ep --> ??ep
+188ep + 0ep --> 188ep
+FAZIT: sind von arena heimgelaufen, naira + japetus crazy
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+22. Tunier[09.02.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+x x x x x x x x x x x [| (o o o o o o)]
+o o o o o o o o o x x
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o
+o o o o o
+o
+
+Verteidigungswirbel!! +?
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-1 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 25 (+0 VTDWirbel) = 25
+- SR: 1(natural) + [2(steinhaut)] + [4(rüstung)] = 1
+- Beh.: [2(schild)] + [3(rüstung)] = 0 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (0/2 = 0 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben(Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+
+188ep + 10ep --> 198ep
+FAZIT: In Tunier sind roter und pinker schmied verschwunden, und finaler kampf wurde unterbrochen, falls wir finalen kampf gewonnen hätten wäre es gleichstand insgesamt. Gremli tot, düstere gestalt aufgetaucht und flieht in feenportal.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+23. Nach Tunier[??.02.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o [| (o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o
+o o o o o
+o
+
+Verteidigungswirbel!! +?
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 25 (+0 VTDWirbel) = 25
+- SR: 1(natural) + [2(steinhaut)] + [4(rüstung)] = 1
+- Beh.: [2(schild)] + [3(rüstung)] = 0 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (0/2 = 0 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben(Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+
+198ep + ?ep --> ??ep
 FAZIT: ???

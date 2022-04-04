@@ -851,14 +851,14 @@ Intuitionstrank (+1 INT)
 FAZIT: durch wald geirrt und dinge erlebt
 
 
-=================================================================================== ??.??.2021
+=================================================================================== 16.1.2022
 
 
 splitterpunkte:
 o o o o o
 
 hp:
-o o o o o o o
+o o o o o x x
 o o o o o o o
 o o o o o o o
 o o o o o o o
@@ -868,7 +868,7 @@ o o o o o o o
 fokus:
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
-o o o o v v
+e v v v v v
 o o o o o o
 o o o o o o
 o o o o o o
@@ -890,6 +890,7 @@ Beherrschungsmagie:
  -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
 Feuermagie:
  +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
  -1 Fokus(verzehrter) um Verstärkung auszulösen
  -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
@@ -902,7 +903,160 @@ Schicksalsmagie:
 +0 auf fertigkeiten (segnung)
 
 
-1 chillisamen angepflanzt mit walderde (12mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+1 chillisamen angepflanzt mit walderde (13mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
 
-120ep + ?ep --> ?ep
-FAZIT: ???
+120ep + 5ep --> 125ep
+FAZIT: durch Kraterlandschaft mit 2 camps gewandert, sind im Wald und schlafen, auf dem weg zum raschelnden Pfad
+
+=================================================================================== 31.1.2022
+
+
+splitterpunkte:
+o o o o o
+
+hp:
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 0 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+o o o o o o
+o o o o o o
+o o o o o o
+o o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+
+
+1 chillisamen angepflanzt mit walderde (13mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+
+4 gefäse voller baumwandlersaft(harz)
+
+orange/grün/blaue zeichen an häusern und kleidungen
+blau: drachen
+orange: tiger
+grün: jadeschlangen
+
+brim hat kaki(grünes) kopftuch
+
+hinter bar in bordell ist geheimausgang (bilde ich mir ein wegen patzer)
+
+-5 telare
+
+muss noch in alchemieladen: behältnisse und trankgefäse kaufen
+und lederhandwerksladen: taschen in mantel innen für tränke und extra außentaschen an rucksack
+
+125ep + 10ep --> 135ep
+FAZIT: noch in stadt, aber versuchen einfach abzureisen richtung ioria oder andere städte
+
+
+=================================================================================== 2.3.2022
+
+
+splitterpunkte:
+o o o x x x
+
+hp:
+x x x x x x x
+x x x x x x x
+x x x o o o o
+o o o o o o o
+o o o o o o o
+--> 1 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+e e v e v o
+v e v e e e
+v v e v v e
+v e e e e e
+v o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 19 = 2W10 + 21 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+1 chillisamen angepflanzt mit walderde (13mal mit flamme versorgt | 5 Blätter, 1 Knospe, 1 Chilli(etwas größer, warm))
+
+4 gefäse voller baumwandlersaft(harz)
+
+orange/grün/blaue zeichen an häusern und kleidungen
+blau: drachen
+orange: tiger
+grün: jadeschlangen
+
+brim hat kaki(grünes) kopftuch
+
+hinter bar in bordell ist geheimausgang (bilde ich mir ein wegen patzer)
+
+done: muss noch in alchemieladen: behältnisse und trankgefäse kaufen
+und lederhandwerksladen: taschen in mantel innen für tränke und extra außentaschen an rucksack
+
++ schwarzpulver
++ trank mit fischgeruch (fishöl + ??)
++ trank (alkohol) mit durchgestrichener schwangerer frau
+
+135ep + 7ep --> 142ep
+FAZIT: haben sve versteinert, aber sind alle angeschlagen

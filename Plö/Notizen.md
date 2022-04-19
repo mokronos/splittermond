@@ -1211,7 +1211,87 @@ FAZIT: In Tunier sind roter und pinker schmied verschwunden, und finaler kampf w
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-23. Nach Tunier[??.02.2022]
+23. Nach Tunier[04.04.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o [| (o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+k k k k k
+k v v v v
+o o o o o
+o o o o o
+o o o o o
+o
+
+Verteidigungswirbel!! +?
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + 2(steinhaut) = 27 (+0 VTDWirbel) = 25
+- SR: 1(natural) + 2(3 Verstärkung)(steinhaut) + [4(rüstung)] = 4
+- Beh.: 2(schild) + [3(rüstung)] = 2 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben(Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
++ Holz (10 kleine balken (1/3 meter))
++ dose Nägel (50x)
++ 5 kurze Seile
++ Schnur
+
+- Geschirr
+
+nezinos(bauer) in dorf in feenwelt (lichtungen) getroffen
+
+Dorf Kiems:
+magarete(frau von nezinos)
+kunze (bürgermeisterin)
+
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+
+198ep + ?ep --> ??ep
+FAZIT: In Dorf in Feenwelt, Bewohner kennen nur eigenes Dorf
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+23. ???[??.??.2022]
 
 splitterpunkte:
 
@@ -1268,6 +1348,7 @@ Schutzmagie:
 Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
 
-198ep + ?ep --> ??ep
+??ep + ?ep --> ??ep
 FAZIT: ???

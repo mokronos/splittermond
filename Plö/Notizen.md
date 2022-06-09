@@ -1284,14 +1284,14 @@ kunze (bürgermeisterin)
 
 ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
 
-198ep + ?ep --> ??ep
+198ep + 0ep --> 198ep
 FAZIT: In Dorf in Feenwelt, Bewohner kennen nur eigenes Dorf
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-23. ???[??.??.2022]
+24. In Feenwelt[11.05.2022]
 
 splitterpunkte:
 
@@ -1299,7 +1299,7 @@ o o o o
 
 LP:
 
-o o o o o o o o o o o [| (o o o o o o)]
+o o o o o o o o o o o | (o o o o o o)
 o o o o o o o o o o o
 o o o o o o o o o o o
 o o o o o o o o o o o
@@ -1309,11 +1309,11 @@ focus:
 
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
-o o o o o
-o o o o o
-o o o o o
-o o o o o
-o o o o o
+v v v v v
+k k v v v
+k k k k k 
+k k k k k 
+k k k o o
 o
 
 Verteidigungswirbel!! +?
@@ -1327,9 +1327,9 @@ waffe : -wert:19
 
 temporary:
 
-- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 25 (+0 VTDWirbel) = 25
-- SR: 1(natural) + [2(steinhaut)] + [4(rüstung)] = 1
-- Beh.: [2(schild)] + [3(rüstung)] = 0 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (0/2 = 0 malus auf gsw)
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + 3(magische rüstung) + 2(steinhaut) = 30 (+0 VTDWirbel) = 25
+- SR: 1(natural) + 3(steinhaut) + [4(rüstung)] = 4
+- Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
 - Tick Zuschlag: [3(rüstung)] = 0
 
 
@@ -1350,5 +1350,143 @@ Stärkungsmagie:
 
 ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
 
-??ep + ?ep --> ??ep
-FAZIT: ???
+amur(schmied): lustig, zahnlücke, kräftig
+
+198ep + 0ep --> 198ep
+FAZIT: sind auf Weg zu "zweitem Dorf", durch Wald nach "verboten" schild
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+25. In Feenwelt[1.6.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o | (o o o o o o)
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+v v v v v
+k k v v v
+k k k k k 
+k k k k k 
+k k k o o
+o
+
+Verteidigungswirbel!! +?
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + 3(magische rüstung) + 2(steinhaut) = 30 (+0 VTDWirbel) = 30
+- SR: 1(natural) + 3(steinhaut) + [4(rüstung)] = 4
+- Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben(Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+
+amur(schmied): lustig, zahnlücke, kräftig
+tumsa: fee die unsere hilfe braucht
+
+198ep + 20ep --> 218ep
+FAZIT: fee umgebracht, welt löst sich auf und es wird schwarz
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+25. ??[?.?.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o | (o o o o o o)
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+v v v v v
+k k v v v
+k k k k k 
+k k k k k 
+k k k o o
+o
+
+Verteidigungswirbel!! +?
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + 3(magische rüstung) + 2(steinhaut) = 30 (+0 VTDWirbel) = 30
+- SR: 1(natural) + 3(steinhaut) + [4(rüstung)] = 4
+- Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben(Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+
+
+218ep + ?ep --> ?ep
+FAZIT: ?
+

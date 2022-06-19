@@ -88,6 +88,31 @@ Beschreibt und leitet Rätsel.
     > wenn, nein --> Säure füllt Raum bis auf Kniehöhe und Türen tauchen auf --> 5W10 Schaden  
     > Erklärung: 1/3 Wahrscheinlichkeit für Preis für jede Tür am Anfang --> andere beiden Optionen sind 2/3 --> 1 Option weggenommen --> 2/3 Chance bleibt für andere Tür --> Wahl ändern ist besser (vorstellen mit 100 Türen)  
 - simon says
+- Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
+- Zwei Wächter, einer lügt nur, anderer erzählt nur Wahrheit
+- Runen für bestimmte Zauber von allen Abenteurern die in bestimmter Reihenfolge ausgelöst werden müssen
+- Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
+    > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
+    > Wenn Knopf wieder gedrückt wird --> Countdown reset  
+    > Wenn Countdown 0 --> Tür öffnet sich  
+- Raum mit Statue in Mitte und 2 Türen + Eingang in 120° Winkel
+    > Statue bekommt keinen Schaden, aus unzerstörbarem magischem Material und kann keine debuffs erhalten  
+    > greift mit 15 + 2W10 an und macht 2W6 Schaden  
+    > wenn man Statue von Richtung einer Tür angreift, öffnet sich die jeweilige Tür  
+    > Eingangstür führt in selben gespiegelten Raum falls geöffnet (kann nicht verlassen werden)  
+    > anderen beiden Türen führen in neue Räume, falls ein Abenteurer in neuen Raum geht, bewirken angriffe nichts mehr  
+    > es ist möglich zur zweiten Tür zu wechseln, oder wieder zurück, falls erste noch nicht betreten wurde  
+- Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
+    > neben Schlössern steht entweder "öffnen" oder "schließen" in verschiedenen Sprachen (immer abwechselnd offen, geschlossen, offen, ...)  
+    > Sprachen: Farukanisch, Dragoreisch, Vaigro, vierte Sprache  
+    > Abenteurer müssen ihre jeweilige Sprache entschlüsseln und die Schlösser entweder aufmachen oder geschlossen lassen  
+    > Wenn mit Rad/Kurbel geöffnet wird und richtig --> Belohnung und zwei Türen in Tresor  
+    > falls falsch --> 2W10 Schaden für Abenteurer der öffnet  
+- Über Ausgangsrichtung ist großes Gesicht mit grüner Zunge, "Gift läuft im Mund zusammen" und streckt Ärmchen nach Gift Flasche in Mitte des Raumes aus
+    > Ziel: Gesicht die Flasche reichen --> trinkt Gift, Türen erscheinen  
+    > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
+    > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
+
 
 ### Normale Gegner
 
@@ -113,9 +138,21 @@ Beschreibt und leitet Rätsel.
 
 2. [ ] ksdma
 
+### Etagen
+
+#### Erste
+
+6 Räume
+
+#### Zweite
+
+4 Räume
+
 ### Erste Etage Boss
 
 Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)
+
+Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset führt über Glas Boden über Bossraum (Skip)
 
 ### Final Boss
 

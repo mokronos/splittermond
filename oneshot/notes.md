@@ -61,12 +61,16 @@ Legendär:
 2. 1mal pro Kampf insta-cast
 3. Tausch Fokus mit Leben (Max Fokus / 5 Stufen = HP pro Stufe, Fokus = HP*5)
 4. Abenteurer erhält doppelten schaden und verteilt doppelten Schaden
+5. Magischer Schaden verdoppelt, kein physischer schaden mehr.
 
 Artefakt:
-Nur im kampf aktiv
+Nur 1mal im kampf einsetzbar, 2 Ticks zum auslösen, in Rätsel- und Fertigkeitsräumen nicht aktiv
 1. Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen
 2. Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks
 3. Gravitation langsam umdrehen (für 5 sec)
+4. Nächster Angriff ignoriert Verteidigung (nicht die Raupe)
+5. Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen (außer Raupe)
+6. Erhält 3 Schadensreduktion und kann nicht mehr CCed werden
 
 ### Belohnungen
 

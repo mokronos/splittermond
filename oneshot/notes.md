@@ -184,6 +184,7 @@ Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset fü
 
 ### Final Boss
 
+Vielleicht sister Friede?
 Schwerster Gegner 2-3 Phasen
 
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)

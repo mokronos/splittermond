@@ -62,6 +62,12 @@ Legendär:
 3. Tausch Fokus mit Leben (Max Fokus / 5 Stufen = HP pro Stufe, Fokus = HP*5)
 4. Abenteurer erhält doppelten schaden und verteilt doppelten Schaden
 
+Artefakt:
+Nur im kampf aktiv
+1. Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen
+2. Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks
+3. Gravitation langsam umdrehen (für 5 sec)
+
 ### Belohnungen
 
 - Normale Gegner:
@@ -149,6 +155,24 @@ Beschreibt und leitet Rätsel.
 4 Räume
 
 ### Erste Etage Boss
+
+Riesige Raupe --> Schmetterling
+
+Raupe 2m breit in langem 10m breitem Raum:  
+Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer
+8 Beine mit 4HP, Panzer unzerstörbar  
+Rollt alle 15 ticks 2W10 Schaden an alle, außer sie stehen davor
+Beine zerstören --> hochklettern und von oben an Kopf Schachstell 10HP
+Scheint tot zu sein, wirft dann ihren panzer ab, breitet Flügel aus und beginnt zu fliegen.
+
+
+Schmetterling:
+Wirft mit Windstößen der Flügel alle 15 Ticks 2 Abenteurer um, falls sie zu nahe nebeneinander stehen.  
+Greift direkt folgend mit Stachel als Füße einen gefallenen an, 2W10 + 20 --> 4W6 + 3 Schaden.  
+Falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.  
+30 Verteidigung, 40HP
+2 Flügel 10HP 15 Verteidigung, falls erreichbar, pro kaputtem Flügel -5 Verteidigung. 
+
 
 Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)
 

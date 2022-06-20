@@ -1427,7 +1427,7 @@ FAZIT: fee umgebracht, welt löst sich auf und es wird schwarz
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-25. ??[?.?.2022]
+26. Durch Schilf  [20.6.2022]
 
 splitterpunkte:
 
@@ -1435,7 +1435,7 @@ o o o o
 
 LP:
 
-o o o o o o o o o o o | (o o o o o o)
+o o o o o o x x x x x | [(o o o o o o)]
 o o o o o o o o o o o
 o o o o o o o o o o o
 o o o o o o o o o o o
@@ -1445,17 +1445,17 @@ focus:
 
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
-v v v v v
-k k v v v
-k k k k k 
-k k k k k 
-k k k o o
+o o o o o
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
 o
 
-Verteidigungswirbel!! +?
+Verteidigungswirbel!! +2
 Klingenwirbel!!
 waffe : -wert:19
-	-dmg: 2w6 [(+3)]
+	-dmg: 2w6 (+3)
 	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
 
 -0 malus
@@ -1463,8 +1463,8 @@ waffe : -wert:19
 
 temporary:
 
-- VTD: 23(natural) + 2(schild) + [4(rüstung)] + 3(magische rüstung) + 2(steinhaut) = 30 (+0 VTDWirbel) = 30
-- SR: 1(natural) + 3(steinhaut) + [4(rüstung)] = 4
+- VTD: 23(natural) + [2(schild)] + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 23
+- SR: 1(natural) + [3(steinhaut)] + [4(rüstung)] = 1
 - Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
 - Tick Zuschlag: [3(rüstung)] = 0
 
@@ -1473,7 +1473,7 @@ Wahrnehmung:
  +3 bei Orientierung (Orientierungssinn)
  (+3 bei Sicht(Zauber))
 Zähigkeit:
- +3 bei Zähigkeitsproben(Giftresistenz)
+ +3 bei Zähigkeitsproben (Giftresistenz)
 Handwerk:
  +3 bei Holzhandwerk(Handwerkshammer)
  +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
@@ -1484,9 +1484,88 @@ Schutzmagie:
 Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
+Schwert Griff Bänder: T-Rex, Schwertdommel
+Artefakte: Rüstung, Schwert, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+
 ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
 
+ulreichs schild in Heiligtum des Kaschrok Tempel in Furgant
+sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
 
-218ep + ?ep --> ?ep
+
+218ep + 5ep --> 223ep
+FAZIT: sind in Einhornwald und haben Naira mit Flüsterhörnchen wieder gefunden
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+27. ??? [?.?.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o x x x x x | [(o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
+o
+
+Verteidigungswirbel!! +2
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 (+3)
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+-0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + [2(schild)] + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 23
+- SR: 1(natural) + [3(steinhaut)] + [4(rüstung)] = 1
+- Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben (Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+Schwert Griff Bänder: T-Rex, Schwertdommel
+Artefakte: Rüstung, Schwert, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+ulreichs schild in Heiligtum des Kaschrok Tempel in Furgant
+sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
+
+
+
+
+223ep + ?ep --> ?ep
 FAZIT: ?
-

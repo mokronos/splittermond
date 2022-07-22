@@ -143,10 +143,13 @@ Beschreibt und leitet Rätsel.
 
 ### Mini-Bosse
 
-1. [ ] 2 Kobold Bombenwerfer (sehr mobil, werfen bomben mit großem Radius alle 5 Ticks, 1W10 Schaden, 3 HP)
+1. [ ] 2 Kobold Bombenwerfer (sehr mobil --> 25 Verteidigung, werfen bomben mit großem Radius alle 5 Ticks, 1W10 Schaden, 10 HP)
 ![Kobold](images/Inferno-Bomber.webp "Kobold")
 
-2. [ ] ksdma
+2. [ ] Brimborium mit 20HP, Raum 10mx10m
+    > sitzt mit Mantel und Kapuze umgekehrt im Schneidersitz am Boden und meditiert.  
+    > reagiert nicht auf Worte, falls er in irgendeiner Weise angegriffen wird, schleudert er alle im Umkreis von 5m Weg, wirft sie um und fügt 2W6 Schaden zu.
+    > 16 Verteidigung, 25 Feuermagie, Feuerstrahl (gegen Verteidigung) alle 3 Ticks, 3W6 + 4 Schaden
 
 ### Etagen
 
@@ -162,35 +165,36 @@ Beschreibt und leitet Rätsel.
 
 Riesige Raupe --> Schmetterling
 
-Raupe 2m breit in langem 10m breitem Raum:  
-Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer
+#### Raupe
+2m breit in langem 10m breitem Raum:  
+Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer  
 8 Beine mit 4HP, Panzer unzerstörbar  
-Rollt alle 15 ticks 2W10 Schaden an alle, außer sie stehen davor
-Beine zerstören --> hochklettern und von oben an Kopf Schachstell 10HP
-Scheint tot zu sein, wirft dann ihren panzer ab, breitet Flügel aus und beginnt zu fliegen.
+Rollt alle 15 Ticks 2W10 Schaden an alle, außer sie stehen davor  
+Beine zerstören --> hochklettern und von oben an Kopf Schachstell 10HP  
+Scheint tot zu sein, wirft dann ihren Panzer ab, breitet Flügel aus und beginnt zu fliegen.  
 
 
-Schmetterling:
-Wirft mit Windstößen der Flügel alle 15 Ticks 2 Abenteurer um, falls sie zu nahe nebeneinander stehen.  
-Greift direkt folgend mit Stachel als Füße einen gefallenen an, 2W10 + 20 --> 4W6 + 3 Schaden.  
-Falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.  
-30 Verteidigung, 40HP
-2 Flügel 10HP 15 Verteidigung, falls erreichbar, pro kaputtem Flügel -5 Verteidigung. 
+#### Schmetterling
+Wirft mit Windstößen der Flügel alle 15 Ticks 2 Abenteurer um, falls sie zu nahe nebeneinander stehen.    
+Greift direkt folgend mit Stachel als Füße einen gefallenen an, 2W10 + 20 --> 4W6 + 3 Schaden.    
+Falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.    
+30 Verteidigung, 40HP  
+2 Flügel 10HP 15 Verteidigung, falls erreichbar, pro kaputtem Flügel -5 Verteidigung.   
 
 
-Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)
+Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)  
 
-Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset führt über Glas Boden über Bossraum (Skip)
+Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset führt über Glas Boden über Bossraum (Skip)  
 
 ### Final Boss
 
-Vielleicht sister Friede?
-Schwerster Gegner 2-3 Phasen
+Vielleicht Friede?  
+Schwerster Gegner 2-3 Phasen  
 
-Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)
+Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  
 
 ## Ende
 
 Nach Finalem Boss und Belohnungen werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
-Fee gratuliert den Abenteurern, bietet Essen an und führt sie durch magisches Portal in anderem Raum.  
+Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum durch magisches Portal.  
  --> Ende

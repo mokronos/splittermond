@@ -1573,7 +1573,80 @@ FAZIT: sind bei Kaschrok Tempel und versuchen in Heiligtum zu kommen
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-28. Ankunft in Furgant [??.??.2022]
+28. Erkundung des Temples [19.10.2022]
+
+splitterpunkte:
+
+x o o o
+
+LP:
+
+o o o o o o o o o o o | [(o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
+o
+
+Verteidigungswirbel!! +0
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 (+3)
+	-gschw: 10 + 3(Tick-Zuschlag|Rüstung) = 13
+
+erschöpft 3
+--> 3 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + [2(steinhaut)] = 29
+- SR: 1(natural) + [3(steinhaut)] + 4(rüstung) = 5
+- Beh.: 2(schild) + 3(rüstung) = 2 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (5/2 = 2 malus auf gsw)
+- Tick Zuschlag: 3(rüstung) = 3
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben (Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+Schwert Griff Bänder: T-Rex(dunkelgrün), Schwertdommel, Einhorn(weiß)
+Artefakte: Rüstung, Schwert, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+ulreichs schild in Heiligtum des Kaschrok in Furgant
+sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
+
+Priester laufen über Lava (mit viel glaube) um in die Mitte des Lava Sees zu kommen, wo sich das Heiligtum (Schild) befindet.
+233ep + 0ep --> 233ep
+FAZIT: haben geträumt und sind im traum gestorben, fühlt sich an als ob deja vu kommen könnte
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+28. ?? [?.?.2022]
 
 splitterpunkte:
 
@@ -1581,7 +1654,7 @@ o o o o
 
 LP:
 
-x x x x x x x x x x x | [(o o o o o o)]
+o o o o o o o o o o o | [(o o o o o o)]
 o o o o o o o o o o o
 o o o o o o o o o o o
 o o o o o o o o o o o
@@ -1639,5 +1712,5 @@ ulreichs schild in Heiligtum des Kaschrok Tempel in Furgant
 sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
 
 
-233ep + ?ep --> ?ep
+??ep + ?ep --> ?ep
 FAZIT: ??

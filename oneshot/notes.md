@@ -170,7 +170,7 @@ Riesige Raupe --> Schmetterling
 Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer  
 8 Beine mit 4HP, Panzer unzerstörbar  
 Rollt alle 15 Ticks 2W10 Schaden an alle, außer sie stehen davor  
-Beine zerstören --> hochklettern und von oben an Kopf Schachstell 10HP  
+Beine zerstören --> hochklettern und von oben an Kopf Schwachstelle 10HP  
 Scheint tot zu sein, wirft dann ihren Panzer ab, breitet Flügel aus und beginnt zu fliegen.  
 
 

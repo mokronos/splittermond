@@ -1,4 +1,4 @@
-drdurch wald geirrt und dinge erlebt deckenschreck: auftrag unterstadt untersuchen (Krankheit)
+durch wald geirrt und dinge erlebt deckenschreck: auftrag unterstadt untersuchen (Krankheit)
 weißer vaarge, blind, mag caressa, hilft uns in unterstadt
 rezept für heiltrank
 halimar pilze hellbraune
@@ -1405,7 +1405,7 @@ TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für trän
 165ep + 5ep --> 170ep
 FAZIT: stehen in tür und sehen flammen
 
-========================================================================?.?.2022
+========================================================================26.10.2022
 
 
 splitterpunkte:
@@ -1414,6 +1414,72 @@ o o o o o o
 hp:
 x x x x x x x
 o o o o o o x
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 0 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+v v v v e e
+e e e e e e
+v e e e v o
+o o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+1 chillisamen angepflanzt mit walderde (2mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+
+TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für tränke und extra außentaschen an rucksack
+
+kann mir "anderes design/form für dolch" auswählen
+schutz vor feuer
+1kg kuhmille
+
+170ep + 5ep --> 175ep
+FAZIT: sind aus hölle, haben aber eltern noch nicht gefunden
+
+========================================================================?.?.2022
+
+
+splitterpunkte:
+o o o o o o
+
+hp:
+o o o o o o o
+o o o o o o o
 o o o o o o o
 o o o o o o o
 o o o o o o o
@@ -1464,7 +1530,6 @@ feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
 
 TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für tränke und extra außentaschen an rucksack
 
-- kann mir "upgrade zu dolch" auswählen
 
-170ep + ?ep --> ???ep
-FAZIT: ?
+175ep + ?ep --> ??ep
+FAZIT: ??

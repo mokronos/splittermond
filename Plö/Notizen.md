@@ -1646,7 +1646,7 @@ FAZIT: haben geträumt und sind im traum gestorben, fühlt sich an als ob deja v
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-28. ?? [?.?.2022]
+29. 5 Säulen in Furgant [02.11.2022]
 
 splitterpunkte:
 
@@ -1678,15 +1678,15 @@ waffe : -wert:19
 	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
 
 0 malus
-erschöpft 1
+erschöpft 3
 
 
 temporary:
 
-- VTD: 23(natural) + [2(schild)] + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 23
-- SR: 1(natural) + [3(steinhaut)] + [4(rüstung)] = 1
-- Beh.: 2(schild) + [3(rüstung)] = 1 --> malus auf bewegungsfähigkeiten(zb. akrobatik) (2/2 = 1 malus auf gsw)
-- Tick Zuschlag: [3(rüstung)] = 0
+- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + [2(steinhaut)] = 29
+- SR: 1(natural) + [3(steinhaut)] + 4(rüstung) = 5
+- Beh.: 2(schild) + 3(rüstung) = 5 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (5/2 = 2 malus auf gsw)
+- Tick Zuschlag: 3(rüstung) = 3
 
 
 Wahrnehmung:
@@ -1705,12 +1705,84 @@ Stärkungsmagie:
  -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
 
 Schwert Griff Bänder: T-Rex(dunkelgrün), Schwertdommel, Einhorn(weiß)
-Artefakte: Rüstung, Schwert, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+Artefakte: Schwert, Rüstung, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
 
 ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
 ulreichs schild in Heiligtum des Kaschrok Tempel in Furgant
 sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
 
 
-??ep + ?ep --> ?ep
+233ep + 30ep --> 263ep
+FAZIT: 5 Säulen zerstört, ritual beendet, Sigmunds Schild erhalten
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+30. ?? [?.?.2022]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o | [(o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
+o
+
+Verteidigungswirbel!! +2
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 (+3)
+	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+
+0 malus
+erschöpft 3
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + [2(steinhaut)] = 29
+- SR: 1(natural) + [3(steinhaut)] + 4(rüstung) = 5
+- Beh.: 2(schild) + 3(rüstung) = 5 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (5/2 = 2 malus auf gsw)
+- Tick Zuschlag: 3(rüstung) = 3
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben (Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+Schwert Griff Bänder: T-Rex(dunkelgrün), Schwertdommel, Einhorn(weiß)
+Artefakte: Schwert, Rüstung, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+ulreichs überleben 1000 jahre, runenschmiede, Familie schmiedet immer noch in Furgant
+ulreichs schild in Heiligtum des Kaschrok Tempel in Furgant
+sigmar aus zwingard, wanderschaft und meisterschaft der schmiedekunst in shong yuan
+
+
+263ep + ?ep --> ?ep
 FAZIT: ??

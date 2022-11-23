@@ -1,3 +1,7 @@
+---
+title: Oneshot notes
+layout: base
+---
 # Im Feenland
 
 ## Ankunft
@@ -189,6 +193,9 @@ Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset fü
 ### Final Boss
 
 Vielleicht Friede?  
+![Friede Phase 1](images/sister_friede_journey.jpg "Sister Friede")
+![Friede Phase 1](images/sister_friede_1.avif "Sister Friede")
+![Friede Phase 1](images/sister_friede_2.jpg "Sister Friede")
 Schwerster Gegner 2-3 Phasen  
 
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  

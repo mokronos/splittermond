@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expinv="198" race="dwarf" splinter="BLOODMOON" telare="6970">
+<splimochar bground="craftsmen" culture="selenia" edu="mysticwarrior" expfree="7" expinv="256" race="dwarf" splinter="BLOODMOON" telare="6570">
    <name>Plö Stark aus Sarnburg</name>
    <culturelores>
       <cultloreref ref="selenia"/>
@@ -26,7 +26,7 @@
       <resourceref description="In Sarnburg besitze ich noch die Schmiede meines Vaters" ref="refuge" val="1"/>
    </resourcerefs>
    <attributes>
-      <attr id="CHARISMA" start="2" value="3"/>
+      <attr id="CHARISMA" start="2" value="4"/>
       <attr id="AGILITY" start="1" value="2"/>
       <attr id="INTUITION" start="2" value="3"/>
       <attr id="CONSTITUTION" start="4" value="6"/>
@@ -63,9 +63,11 @@
       <skillval skill="history" val="3">
          <masterref free="1" spec="history/theme/1"/>
       </skillval>
-      <skillval skill="craftmanship" val="6">
+      <skillval skill="craftmanship" val="9">
          <masterref free="1" ref="craftmanship/journeyman_forging"/>
          <masterref ref="craftmanship/journeyman_woodworking"/>
+         <masterref free="2" ref="craftmanship/expert_woodworking"/>
+         <masterref ref="craftmanship/expert_forging"/>
       </skillval>
       <skillval skill="heal"/>
       <skillval skill="stealth"/>
@@ -77,7 +79,9 @@
       <skillval skill="swim"/>
       <skillval skill="seafaring"/>
       <skillval skill="streetlore" val="2"/>
-      <skillval skill="animals"/>
+      <skillval skill="animals" val="6">
+         <masterref free="1" ref="animals/dompteur"/>
+      </skillval>
       <skillval skill="survival" val="1"/>
       <skillval skill="perception" val="2"/>
       <skillval skill="endurance" val="3"/>
@@ -125,12 +129,11 @@
    <gender>MALE</gender>
    <carries>
       <item count="1" location="CONTAINER" ref="decke" uniqueid="b384129c-9fc9-47a0-954a-a28f59459690"/>
-      <item count="1" location="CONTAINER" ref="essgeschirr" uniqueid="eedb0816-00b6-4876-bccb-626b28d03a7a"/>
       <item count="1" location="CONTAINER" ref="feuersteinstahlundzunder" uniqueid="75b665b2-3e32-4e91-8fbd-8d9c0cd56ca4"/>
       <item count="5" location="CONTAINER" ref="fackel" uniqueid="0ff60961-a601-450f-9e0f-62f8c09a8842"/>
       <item count="3" location="CONTAINER" ref="marschrationprotag" uniqueid="692c19d5-a639-4348-9213-5735f698fc87"/>
       <item count="1" location="CONTAINER" ref="mace" uniqueid="59b36f32-5fc5-4102-8885-4c6cbc88f1bc"/>
-      <item count="1" customName="Schwert des Stark" location="BODY" ref="oneandhalf" uniqueid="6208d072-014e-43e5-8457-4773f669c83e">
+      <item count="1" customName="Schwert des Stark" location="BODY" material="common_metal" ref="oneandhalf" uniqueid="6208d072-014e-43e5-8457-4773f669c83e">
          <personalizations>
             <personalization ref="weapon_changeattr">
                <modifications>
@@ -183,6 +186,11 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       <item count="1" customName="Ring mit Schildrune" location="BODY" material="common_metal" ref="ringSilber" uniqueid="5c4748e2-e249-4e22-9552-11a9d91c61dc">
          <description>Beschört Schild welches Schaden auf den Träger transferiert.</description>
       </item>
+      <item count="1" location="CONTAINER" ref="nägel50Stück" uniqueid="ebb5f090-86d7-4a72-a792-87e02f33771f"/>
+      <item count="10" customName="Holz 0.3m balken" location="CONTAINER" material="common_wood" ref="gradstock" uniqueid="1000f662-b56a-4c0e-9083-0edd5bc94b39"/>
+      <item count="3" location="CONTAINER" ref="seil10m" uniqueid="38851f9d-f071-4e42-99c5-137e72e960d2"/>
+      <item count="1" customName="Schnur, 10m" location="CONTAINER" material="common_other" ref="seil10m" uniqueid="eb3ad003-44e7-40f6-9e8d-4102a43c2b08"/>
+      <item count="1" customName="Sigmunds Schild" location="CONTAINER" material="common_wood" ref="rundschild" uniqueid="c11bf598-c7ac-4c99-b439-0f9368c4436d"/>
    </carries>
    <history>
       <powermod date="2021-01-03T19:41:30.815+01:00" expCost="14" ref="focuspool"/>
@@ -228,8 +236,21 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       <attrmod attr="INTUITION" date="2022-01-06T05:09:13.737+01:00" expCost="10" type="abs" val="3"/>
       <skillmod date="2022-04-04T05:38:01.123+02:00" expCost="3" ref="craftmanship" type="abs" value="5"/>
       <skillmod date="2022-04-04T05:38:01.123+02:00" expCost="3" ref="craftmanship" type="abs" value="6"/>
-      <mastermod date="2022-04-04T05:38:01.123+02:00" ref="craftmanship/journeyman_forging" skill="craftmanship"/>
-      <mastermod date="2022-04-04T05:38:01.123+02:00" expCost="5" ref="craftmanship/journeyman_woodworking" skill="craftmanship"/>
+      <mastermod date="2022-04-04T05:38:01.123+02:00" level="1" ref="craftmanship/journeyman_forging" skill="craftmanship"/>
+      <mastermod date="2022-04-04T05:38:01.123+02:00" expCost="5" level="1" ref="craftmanship/journeyman_woodworking" skill="craftmanship"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="5" ref="craftmanship" type="abs" value="7"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="5" ref="craftmanship" type="abs" value="8"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="5" ref="craftmanship" type="abs" value="9"/>
+      <mastermod date="2022-11-23T17:45:45.413+01:00" ref="craftmanship/expert_woodworking" skill="craftmanship"/>
+      <mastermod date="2022-11-23T17:45:45.413+01:00" expCost="10" ref="craftmanship/expert_forging" skill="craftmanship"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="1"/>
+      <attrmod attr="CHARISMA" date="2022-11-23T17:45:45.413+01:00" expCost="15" type="abs" val="4"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="2"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="3"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="4"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="5"/>
+      <skillmod date="2022-11-23T17:45:45.413+01:00" expCost="3" ref="animals" type="abs" value="6"/>
+      <mastermod date="2022-11-23T17:45:45.413+01:00" ref="animals/dompteur" skill="animals"/>
    </history>
    <rewards>
       <reward date="2021-01-03T17:11:17.573+01:00" exp="15">
@@ -276,6 +297,9 @@ Asche stammt von Stein? nicht sicher - hat was mit Prophezeihung zu tun.</descri
       </reward>
       <reward date="2022-02-09T22:34:33.000+01:00" exp="10">
          <title>Tunier vorzeitig beendet</title>
+      </reward>
+      <reward date="2022-11-23T17:23:38.000+01:00" exp="65">
+         <title>Erhalten von Sigmunds Schild</title>
       </reward>
    </rewards>
    <notes>Feinde der Affali | -2 Einstellung</notes>

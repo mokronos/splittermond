@@ -1466,12 +1466,13 @@ TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für trän
 
 kann mir "anderes design/form für dolch" auswählen
 schutz vor feuer
+20 Telare gespendet
 1kg kuhmille
 
 170ep + 5ep --> 175ep
 FAZIT: sind aus hölle, haben aber eltern noch nicht gefunden
 
-========================================================================?.?.2022
+========================================================================9.11.2022
 
 
 splitterpunkte:
@@ -1489,10 +1490,10 @@ fokus:
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
 
-o o o o o o
-o o o o o o
-o o o o o o
-o o o o o o
+k k k k k k
+k k v v v v
+v v e e e e
+e o o o o o
 o o o o o o
 o
 
@@ -1530,6 +1531,123 @@ feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
 
 TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für tränke und extra außentaschen an rucksack
 
+3 Telare weniger
+
+Brim, Caressa, Dalyan und Juvius teleportieren sich wieder in die Hölle.
+Gehen in 5. Etage mit Aufzug.
+Juvius geht mit Karl in 6. Etage.
+
+Eltern Vertrag: Unendliche magische kraft, müssen erstgeborenen opfern.
+Vater nicht gedacht, dass er je ein kind (mich) bekommt.
+Daher haben mich meine Eltern weggeschickt, und konnten den Pakt nicht vollenden.
+Müssen weg finden um den Pakt zu brechen.
+Versuchen mit der Verwalterin Fr. Mahlzahn zu sprechen und sie zu überzeugen meine Eltern vorzeitig freilassen.
+Caressa schleift Juvius mit nach unten zu Fr. Mahlzahn.
+Brim bleibt mit Dalyan oben, weil er zu emotional ist.
+Juvius und Caressa kommen zu Fr. Mahlzahn.
+Juvius peitscht Árbeiter, um authentischer zu wirken.
+Er diskutiert mit Fr. Mahlzahn. Sie ist sehr hartnäckig.
+Er überzeugt sie jedoch und sie dankt ihm, und frägt ihn welche Ideen er noch hat.
+Er sagt, dass Bürokratie schlecht ist und vermindert oder automatisiert werden sollte.
+Er schlägt ein Orchester vor, das extrem schlecht spielt, um die Arbeiter zu nerven.
+Das Orchester hat keinen Dirigenten, und darf nicht üben.
+Juvius geht daraufhin zu der Automatisierungs Abteilung, um seine Ideen zu teilen.
+Er will eine Automatisierungs Folter Maschine bauen.
+Juvius erzählt Unsinn aber wirkt sehr intelligent, aber überzeugt die Wächter.
+Er kann an der Wand einen Schaltplan für die Laufbänder in der unteren Etage erkennen.
+Damit könnte es möglich sein die Fee in der untersten Etage zu finden.
+Caressa versucht den Vertrag noch einmal genauer zu lesen, kann ihn aber nicht lesen.
+Sie nimmt eine magische Feder um ihn zu lesen.
+Müssen Fee finden, um den Vertrag zu brechen.
+Wir gehen alle zusammen in die 6. Etage, um den Weg in die unterste Etage zu finden.
+Wir verlassen uns auf Juvius und seine Orientierung, welche normal sehr schlecht ist.
+Wir müssen durch ein kompliziertes Labyrinth von Laufbändern, Paketen und Portalen.
+Wir geben uns als Paket aus und finden zum Maschinenraum, um in die unterste Etage zu gelangen.
+Wir finden eine Tür, die nur mit einem Schlüssel geöffnet werden kann.
+Caressa knackt mit einer Gräte das Schloss auf.
+Juvis geht selbstbewusst durch die Tür und findet eine andere Tür, die nicht aufgeht weil etwas dagegen lehnt.
+Zwängen und hinein.
+Sehen Innenraum von riesiger Kathedrale, voller Goldmünzen.
+Juvius ruft nach dem "Chef". Der Goldhaufen bewegt sich leicht und ein paar Münzen rollen nach unten.
+Er ruft erneut und der Haufen bewegt sich mehr.
+Juvius sagt wir wollen uns vorstellen.
+Wir sinken ein und die Münzen verschwinden, eine Treppe erscheint.
+Die Goldmünzen formen einen Schädel und schmelzen zusammen.
+Sie bilden einen menschlichen Kopf mit einer Glaze aus purem Gold.
+Wir versuchen ihn zu überzeugen den Pakt meiner Eltern zu brechen.
+Der Teufel schlägt vor 3 Verbrecher zu jagen. Dafür löst sich der Pakt und jeder erhält 1 Solar. Falls wir es nicht schaffen, müssen wir 25 Jahre lang arbeiten.
+Juvius und Brim nehmen die Aufgabe an, Dalyan und Caressa nicht.
+Er zeigt uns 3 Gnome, die Verbrecher, in einer Sumpflandschaft.
+Sie verstecken sich vor der Fee.
+
+Schahir Kurkuma
+
+
++ 1 Pakt mit Belbezos(1 Solar)
+
+175ep + 10ep --> 185ep
+FAZIT: ??
+
+
+========================================================================?.?.2022
+
+
+splitterpunkte:
+o o o o o o
+
+hp:
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 0 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+k k k k k k
+k k v v v v
+v v e e e e
+e o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+1 chillisamen angepflanzt mit walderde (2mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+
+TODO: lederhandwerksladen: 3 taschen in mantel auf andere seite innen für tränke und extra außentaschen an rucksack
 
 175ep + ?ep --> ??ep
 FAZIT: ??
+

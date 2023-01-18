@@ -1621,30 +1621,30 @@ zutaten für:
 talenttransfer (- tränen)--> 1 juvius sammelt für mich 
 
 
-175ep + 5ep --> 180ep
+185ep + 5ep --> 190ep
 FAZIT: sind auf party von polizeichef und wollen papier stehlen
 
-========================================================================?.?.2022
+========================================================================18.01.2022
 
 splitterpunkte:
 o o o o o o
 
 hp:
+x x x x x x x (o o o o o o)
+x x x x x o o
 o o o o o o o
 o o o o o o o
 o o o o o o o
-o o o o o o o
-o o o o o o o
---> 0 malus
+--> 1 malus
 
 fokus:
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
 
 e e e e e e 
-e e v v v v
-o o o o o o
-o o o o o o
+v v v v v v
+e v v e e e
+o o o o v v
 o o o o o o
 o
 
@@ -1680,8 +1680,8 @@ feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
 
 3 taschen für tränke in mantel innen. 3 ticks zum nutzen statt 5
 - eistrank, erinnerungstrank, Intuitionstrank
-extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
-- rauschwand, pflanzenwachstum, rosentrunk(schlaf), heil 4hp, heil 4hp, 
+6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
+- rauchwand, pflanzenwachstum, rosentrunk(schlaf), heil 4hp, heil 4hp, 
 
 1 chillisamen angepflanzt mit walderde (2mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
 
@@ -1691,17 +1691,90 @@ bekommen super coole stadt, für x, aber haben x nicht erledigt --> müssen sie 
 + 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
 falls wir es nicht schaffen, 25 jahre gefängnis
 weissagung: 3 tyrannen fallen und stadt geht unter
-
 --> darkatsmir ist die richtige stadt
 
-- 20 lunare für rucksack und ausbesserungen
-- 2 Lunare für zutaten
 
 zutaten für:
-talenttransfer (- tränen)--> 1 juvius sammelt für mich 
+talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
 
++ 19 Lunare
 
-180ep + ?ep --> ??ep
-FAZIT: ??
+190ep + 10ep --> 200ep
+FAZIT: haben das haus abgeschlachtet und gehen nach hause
 
 ========================================================================?.?.2022
+
+splitterpunkte:
+o o o o o o
+
+hp:
+x x x x x x x
+x x x x x o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 1 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+e e e e e e 
+v v v v v v
+e v v e e e
+o o o o v v
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+3 taschen für tränke in mantel innen. 3 ticks zum nutzen statt 5
+- eistrank, erinnerungstrank, Intuitionstrank
+6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
+- rauchwand, pflanzenwachstum, rosentrunk(schlaf), heil 4hp, heil 4hp, 
+
+1 chillisamen angepflanzt mit walderde (2mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+
+
+3 Gnome jagen
+bekommen super coole stadt, für x, aber haben x nicht erledigt --> müssen sie jagen
++ 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
+falls wir es nicht schaffen, 25 jahre gefängnis
+weissagung: 3 tyrannen fallen und stadt geht unter
+--> darkatsmir ist die richtige stadt
+
+
+zutaten für:
+talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
+
+
+200ep + ?ep --> ?ep
+FAZIT: ??

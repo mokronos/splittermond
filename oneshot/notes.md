@@ -51,7 +51,7 @@ Common:
 1. Waffe/Spell +1 Schaden
 2. Waffe/Spell -1 Geschwindigkeit
 3. Geistiger Widerstand +1
-4. +1 Verteidigung
+4. +1 VTD
 
 Rare:
 
@@ -72,7 +72,7 @@ Nur 1mal im kampf einsetzbar, 2 Ticks zum auslösen, in Rätsel- und Fertigkeits
 1. Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen
 2. Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks
 3. Gravitation langsam umdrehen (für 5 sec)
-4. Nächster Angriff ignoriert Verteidigung (nicht die Raupe)
+4. Nächster Angriff ignoriert VTD (nicht die Raupe)
 5. Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen (außer Raupe)
 6. Erhält 3 Schadensreduktion und kann nicht mehr CCed werden
 
@@ -130,7 +130,11 @@ Beschreibt und leitet Rätsel.
 
 ### Normale Gegner
 
-1. 
+1. Trap Master
+    <img src="images/trapmaster.png"  width="auto" height="200" />
+    > ability: "The room is a 5x5 grid. Runs in a random direction, away from the party and places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks."
+    > VTD 22
+    > 25 HP
 
 ### Fähigkeiten Check
 
@@ -147,13 +151,14 @@ Beschreibt und leitet Rätsel.
 
 ### Mini-Bosse
 
-1. [ ] 2 Kobold Bombenwerfer (sehr mobil --> 25 Verteidigung, werfen bomben mit großem Radius alle 5 Ticks, 1W10 Schaden, 10 HP)
-![Kobold](images/Inferno-Bomber.webp "Kobold")
+1. [ ] 2 Kobold Bombenwerfer (sehr mobil --> 25 VTD, werfen bomben mit großem Radius alle 5 Ticks, 1W10 Schaden, 10 HP)
+<img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
 
 2. [ ] Brimborium mit 20HP, Raum 10mx10m
+    <img src="images/brim.jpg"  width="auto" height="200" />
     > sitzt mit Mantel und Kapuze umgekehrt im Schneidersitz am Boden und meditiert.  
     > reagiert nicht auf Worte, falls er in irgendeiner Weise angegriffen wird, schleudert er alle im Umkreis von 5m Weg, wirft sie um und fügt 2W6 Schaden zu.
-    > 16 Verteidigung, 25 Feuermagie, Feuerstrahl (gegen Verteidigung) alle 3 Ticks, 3W6 + 4 Schaden
+    > 16 VTD, 25 Feuermagie, Feuerstrahl (gegen VTD) alle 3 Ticks, 3W6 + 4 Schaden
 
 ### Etagen
 
@@ -182,8 +187,8 @@ Scheint tot zu sein, wirft dann ihren Panzer ab, breitet Flügel aus und beginnt
 Wirft mit Windstößen der Flügel alle 15 Ticks 2 Abenteurer um, falls sie zu nahe nebeneinander stehen.    
 Greift direkt folgend mit Stachel als Füße einen gefallenen an, 2W10 + 20 --> 4W6 + 3 Schaden.    
 Falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.    
-30 Verteidigung, 40HP  
-2 Flügel 10HP 15 Verteidigung, falls erreichbar, pro kaputtem Flügel -5 Verteidigung.   
+30 VTD, 40HP  
+2 Flügel 10HP 15 VTD, falls erreichbar, pro kaputtem Flügel -5 VTD.   
 
 
 Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)  
@@ -193,9 +198,9 @@ Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset fü
 ### Final Boss
 
 Vielleicht Friede?  
-![Friede Phase 1](images/sister_friede_journey.jpg "Sister Friede")
-![Friede Phase 1](images/sister_friede_1.avif "Sister Friede")
-![Friede Phase 1](images/sister_friede_2.jpg "Sister Friede")
+<img src="images/sister_friede_journey.jpg"  width="auto" height="200" />
+<img src="images/sister_friede_1.jpg"  width="auto" height="200" />
+<img src="images/sister_friede_2.jpg"  width="auto" height="200" />
 Schwerster Gegner 2-3 Phasen  
 
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  

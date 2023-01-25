@@ -26,7 +26,8 @@ Tür öffnet sich zu nächstem Raum.
 
 Immer 1 Raum --> 2-3 Optionen mit Zeichen über Raum (Herz, Lila Edelstein, Schädel)
 
-![Lila Edelstein](images/Darkness.webp "Lila Edelstein")
+<img src="images/Darkness.webp"  width="auto" height="50" />
+<img src="images/skull.jpg"  width="auto" height="50" />
 
 ### Räume
 
@@ -42,7 +43,6 @@ Zeichen über Türen beschreiben Belohnung (lila Edelstein, Herz), Extra Mini-Sc
 Alle Räume werden zurückgesetzt und alle außer Boss Räume werden randomized.  
 Kleiner Shop taucht in erstem Raum auf. 3 Upgrades werden angeboten, reseten nach Kauf (lila Edelsteine können zusammengelegt werden).  
 Kleine Schlange sitzt auf kleinem Tisch. Kann 1 Upgrade entfernen. (Kriecht in Nase und kommt nach 30s wieder aus anderem Nasenloch)  
-
 
 ### Upgrades
 
@@ -132,9 +132,47 @@ Beschreibt und leitet Rätsel.
 
 1. Trap Master
     <img src="images/trapmaster.png"  width="auto" height="200" />
-    > ability: "The room is a 5x5 grid. Runs in a random direction, away from the party and places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks."
-    > VTD 22
-    > 25 HP
+    - Der raum ist 5x5 grid. Rennt in random Richtung, weg von party.
+    - ability: Places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks.
+    - VTD 20
+    - 25 HP
+    - 1 SR
+    - 6 INI
+2. Wasser Elementar
+    <img src="images/waterelemental.jpg"  width="auto" height="200" />
+    - Raum voller Wasser, füllt alten Raum wenn geöffnet. 20cm Luft unter decke. Alle 5 Malus, außer Schwimmen Probe gegen 20.
+    - ability: whirlpool um Ziel, 15 gg VTD, 3W6 Schaden. 7 ticks. Bewegt sich während vorbereitung.
+    - VTD 22
+    - 10 HP
+    - 5 SR
+    - 4 INI
+
+3. Giant Dwarf
+    <img src="images/dwarfhammer.jpg"  width="auto" height="200" />
+    - Großer Zwerg, 3m groß. Riesiger Hammer, Zweihänder.
+    - ability: Hammer Erdbeben, 15 gg VTD, 4W10 Schaden, in 3m Radius Umkreis. 10 ticks Verzögerung wenn getroffen. 15 ticks.
+    - VTD 20
+    - 30 HP
+    - 2 SR
+    - 2 INI
+
+4. Mammoth
+    <img src="images/mammoth.jpg"  width="auto" height="200" />
+    - Mammoth mit 2m langem Stoßzahn. 3m groß.
+    - ability: Stoßzahn, 15 gg VTD, 3W10 Schaden. Rennt auf weitest entfernten Abenteurer zu und spießt auf. 10 ticks.
+    - VTD 18
+    - 40 HP
+    - 0 SR
+    - 2 INI
+
+5. Imps
+    <img src="images/imps.jpg"  width="auto" height="200" />
+    - 3 grüne Imps, 50cm groß. Hängen sich an Wände und Decken und springen auf Gesicht.
+    - ability: Kratzen mit klauen, 15 gg VTD, 1W6 + 3 Schaden. 5 ticks.
+    - VTD 22
+    - 5 HP
+    - 0 SR
+    - 6 INI
 
 ### Fähigkeiten Check
 
@@ -151,14 +189,25 @@ Beschreibt und leitet Rätsel.
 
 ### Mini-Bosse
 
-1. [ ] 2 Kobold Bombenwerfer (sehr mobil --> 25 VTD, werfen bomben mit großem Radius alle 5 Ticks, 1W10 Schaden, 10 HP)
-<img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
+1. Kobold Bombenwerfer
+    <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
+    - 2 Kobolde
+    - ability: rennen umher und werfen bomben auf Abenteurer, 15 gg VTD, 1W10 + 3 Schaden. 5 ticks.
+    - VTD 25
+    - 10 HP
+    - 2 SR
+    - 6 INI
 
-2. [ ] Brimborium mit 20HP, Raum 10mx10m
+2. Brim
     <img src="images/brim.jpg"  width="auto" height="200" />
-    > sitzt mit Mantel und Kapuze umgekehrt im Schneidersitz am Boden und meditiert.  
-    > reagiert nicht auf Worte, falls er in irgendeiner Weise angegriffen wird, schleudert er alle im Umkreis von 5m Weg, wirft sie um und fügt 2W6 Schaden zu.
-    > 16 VTD, 25 Feuermagie, Feuerstrahl (gegen VTD) alle 3 Ticks, 3W6 + 4 Schaden
+    - Brimborium sitzt mit Mantel und Kapuze umgekehrt im Schneidersitz auf dem Boden.
+    - ability:
+        - reagiert nicht auf Worte, falls er in irgendeiner Weise angegriffen wird, schleudert er mit einer Flammenwelle alle im Umkreis von 5m weg, wirft sie um (+ 5 Ticks) und fügt 2W6 Schaden zu.
+        - Feuerstrahl, 25 gg VTD, 3W6 + 4 Schaden, alle 3 Ticks
+    - VTD 16
+    - 10 HP
+    - 2 SR
+    - ? INI (Abwartefeld)
 
 ### Etagen
 
@@ -174,22 +223,33 @@ Beschreibt und leitet Rätsel.
 
 Riesige Raupe --> Schmetterling
 
-#### Raupe
-2m breit in langem 10m breitem Raum:  
-Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer  
-8 Beine mit 4HP, Panzer unzerstörbar  
-Rollt alle 15 Ticks 2W10 Schaden an alle, außer sie stehen davor  
-Beine zerstören --> hochklettern und von oben an Kopf Schwachstelle 10HP  
-Scheint tot zu sein, wirft dann ihren Panzer ab, breitet Flügel aus und beginnt zu fliegen.  
+1. Raupe
 
+    <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
+    - 2m breit in langem 10m breitem Raum. Ist so lange wie der Raum + 2m vor Kopf, kann Kopf nicht drehen, starrer Panzer  
+    - ability:
+        - Rolle, wenn Abenteurer neben Raupe, trifft immer (außer sie stehen davor), 6W6 Schaden an alle, 15 Ticks
+        - kann mit Athletik gg. 25 ausweichen
+    - notes:
+        - Beine zerstören --> hochklettern und von oben an Kopf Schwachstelle 10HP  
+        - Scheint tot zu sein, wirft dann ihren Panzer ab, breitet Flügel aus und beginnt zu fliegen.  
+    - 8 Beine mit 18 VTD, Panzer unzerstörbar
+    - 8 Beine mit 4HP, Kopf oben 10 HP
+    - 1 SR Beine, 0 SR Kopf
+    - ? INI (Abwartefeld)
 
-#### Schmetterling
-Wirft mit Windstößen der Flügel alle 15 Ticks 2 Abenteurer um, falls sie zu nahe nebeneinander stehen.    
-Greift direkt folgend mit Stachel als Füße einen gefallenen an, 2W10 + 20 --> 4W6 + 3 Schaden.    
-Falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.    
-30 VTD, 40HP  
-2 Flügel 10HP 15 VTD, falls erreichbar, pro kaputtem Flügel -5 VTD.   
-
+2. Schmetterling
+    <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
+    - Vier Flügel, 3m groß
+    - ability:
+        - wirft mit windstößen 2 Abenteurer um, falls sie zu nahe nebeneinander stehen, + 10 Ticks; alle 15 Ticks.
+        - danach direkt Stachel als "Fuß", 20 gg VTD, 4W6 + 3 Schaden, falls jemand in Nähe von angriff ist, wird er derjenige auch umgeworfen.
+    - notes:
+        - 4 Flügel (2 in 3m Höhe, 2 unten) 10HP 15 VTD, falls erreichbar, pro kaputtem Flügel -5 VTD.
+    - 30 VTD
+    - 40HP
+    - 1 SR
+    - ? INI (auf Feld von Raupe)
 
 Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)  
 

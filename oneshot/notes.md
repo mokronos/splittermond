@@ -3,7 +3,7 @@ title: Oneshot notes
 layout: base
 ---
 # Im Feenland
-<img src="images/tickleiste.jpg"  width="auto" height="200" />
+<img src="images/tickleiste.png"  width="auto" height="200" />
 
 ## Ankunft
 
@@ -96,32 +96,54 @@ Erst wird Seltenheitsverteilung mit 1d20 ausgewürfelt. Dann wird Upgrade ausgew
 
 **Common:**
 
-| Würfel | Upgrade |
-|-------|--------|
-|1|Waffe/Spell +1 Schaden|
-|2|Waffe/Spell -1 Geschwindigkeit|
-|3|Geistiger Widerstand +1|
-|4|+1 VTD|
+| Würfel | Upgrade | Item | Aussehen |
+|-------|--------|--------|--------|
+|1|Waffe/Spell +1 Schaden|Pulver das Waffe schärft, Edelstein fließt in Stab der Magie verstärkt|<img src="images/powder.webp"  width="auto" height="50" /><img src="images/gempower.jpg"  width="auto" height="50" />|
+|2|Waffe/Spell -1 Ticks|Edelstein der in Waffe oder Stab einfließt und Ticks verringert|<img src="images/gemspeed.jpg"  width="auto" height="50" />|
+|3|Geistiger Widerstand +1| Armreif der Geistigen Widerstand erhöht|<img src="images/bracelet.png"  width="auto" height="50" />|
+|4|+1 VTD|Schuppe die an Rüstung befestigt werden kann und VTD erhöht|<img src="images/scale.webp"  width="auto" height="50" />|
+|5|+2 Fokus|Ring der Fokus erhöht|<img src="images/ringfocus.webp"  width="auto" height="50" />|
+|6|+2 HP|kleiner Apfel der HP erhöht|<img src="images/apple.webp"  width="auto" height="50" />|
+|7|-1 INI|Adrenalin Syringe die einen schneller kampfbereit macht|<img src="images/syringeadrenaline.png"  width="auto" height="50" />|
+|8|schwacher Heiltrank +3 HP|Trank der HP regeneriert|<img src="images/potionhpsmall.webp"  width="auto" height="50" />|
+|9|schwacher Fokustrank +5 Fokus|Trank der Fokus regeneriert|<img src="images/potionfocussmall.webp"  width="auto" height="50" />|
+|10|Fähigkeitentrank +3 auf Fähigkeit die Spieler in die Flasche flüstern kann|Trank der Fähigkeit regeneriert|<img src="images/potionability.avif"  width="auto" height="50" />|
+
+Vielleicht die permanenten Upgrades teurer machen nach bestimmter Zeit, Balance Problem.
 
 **Rare:**
 
-| Würfel | Upgrade |
-|-------|--------|
-|1|Waffe +3 Schaden|
-|2|Waffe -3 Geschwindigkeit|
-|3|Waffe/Spell +1 Würfel für Waffenfertigkeit/Magieschule|
-|4|Schuppen die auf Rüstung befestigt werden können; +2 VTD + 1SR + 1 Ticks im Kampf|
+| Würfel | Upgrade | Item | Aussehen |
+|-------|--------|--------|--------|
+|1|Waffe/Spell +3 Schaden|Pulver das Waffe schärft, Edelstein fließt in Stab der Magie verstärkt|<img src="images/powder.webp"  width="auto" height="50" /><img src="images/gempower.jpg"  width="auto" height="50" />|
+|2|Waffe/Spell -2 Ticks|Edelstein der in Waffe oder Stab einfließt und Ticks verringert|<img src="images/gemspeed.jpg"  width="auto" height="50" />|
+|3|Waffe/Spell +1 W6 Würfel für Waffenfertigkeit/Magieschule|magischer Würfel, der aus unerklärlichen Gründen die Waffenfertigkeit/Magieschule mit beeinflust (patzer sind immer noch 2 1/0 !!!).|<img src="images/dice.png"  width="auto" height="50" />|
+|4|Schuppen die auf Rüstung befestigt werden können; +2 VTD + 1SR + 1 Ticks im Kampf|Schuppe die an Rüstung befestigt werden kann und VTD erhöht|<img src="images/scalellarge.webp"  width="auto" height="50" />|
+|5|supa Heiltrank +9HP|Trank der HP regeneriert|<img src="images/potionhpsupa.webp"  width="auto" height="50" />|
+|6|supa Fokustrank +15 Fokus|Trank der Fokus regeneriert|<img src="images/potionfocussupa.webp"  width="auto" height="50" onclick="window.open(this.src, '_blank');" />|
+
+Müssen wahrscheinlich begrenzt werden, da sonst zu stark. 1 von jedem pro Spieler?
 
 **Legendary:**
 
-| Würfel | Upgrade |
-|-------|--------|
-|1|1mal pro Kampf 1 Wurf von Gegner oder Verbündetem reseten|
-|2|1mal pro Kampf insta-cast|
+| Würfel | Upgrade | Item | Aussehen |
+|-------|--------|--------|--------|
+|1|1mal pro Kampf 1 Wurf von Gegner oder Verbündetem reseten| Stundenglass welches Zeit für ein paar Millisekunden zurücksetzen kann bei Berührung. | <img src="images/hourglass.jpg"  width="auto" height="50" />|
+|2|1mal pro Kampf insta-cast (keine Vorbereitung)|
 |3|Tausch Fokus mit Leben (Max Fokus / 5 Stufen = HP pro Stufe, Fokus = HP*5)|
 |4|Abenteurer erhält doppelten schaden und verteilt doppelten Schaden|
 |5|Magischer Schaden verdoppelt, kein physischer schaden mehr.|
 |6|Blutrausch, -2 Schaden, +1 Schaden für jeden Kill, setzt sich auf 0 wenn Schaden genommen wird.|
+
+
+**Special:**
+
+Als Shop item, oder als Belohnung von Raum.
+
+- Schlüssel für Kisten Challenge (falls noch nicht gemacht) | 2 dunkle Seelen
+- Glocke die Gael zur Hilfe ruft | 5 dunkle Seelen
+
+<img src="images/bell.png"  width="auto" height="100" />
 
 
 **Artefakte:**
@@ -129,14 +151,14 @@ Nur 1mal im kampf einsetzbar, 2 Ticks zum auslösen, in Rätsel- und Fertigkeits
 Vermutlich Belohnungen für Minibosse und Bosse.
 Sollten beim nächsten Kampf mit dem jeweiligen Boss helfen diesen zu besiegen.
 
-| Würfel | Artefakt |
-|-------|--------|
-|1|Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen|
-|2|Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks|
-|3|Gravitation langsam umdrehen (für 5 sec)|
-|4|Nächster Angriff ignoriert VTD (nicht die Raupe)|
-|5|Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen (außer Raupe)|
-|6|Erhält 3 Schadensreduktion und kann nicht mehr CCed werden|
+| Würfel | Effekt | Artefakt | Quelle | Aussehen |
+|-------|--------|--------|--------|--------|
+|1|Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen| Stopuhr |?|<img src="images/stopwatch.jpg"  width="auto" height="100" />|
+|2|Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks| Magische Schuhe |Raupe|<img src="images/bootsquick.jpeg"  width="auto" height="100" />|
+|3|Gravitation langsam umdrehen (für 5 sec) kann kurz bisschen fliegen, Gegner sind verwirrt|Magische Schuhe|Schmetterling|<img src="images/bootsgravity.png"  width="auto" height="100" />|
+|4|Nächster Angriff ignoriert Großteil VTD (nicht die Raupe)| verfluchter Ring, der die Rüstung des Gegners für einen Angriff durchdringbar macht | ? | <img src="images/ringcursed.jpg"  width="auto" height="100" />|
+|5|Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen, wenn Check gg. 25 Wahrnehmung| Brille/Visor welches Schwachstellen etwas highlighted | ? | <img src="images/snipergoggles.webp"  width="auto" height="100" />|
+|6|Erhält 3 Schadensreduktion und kann nicht mehr CCed werden, -2 bei Bewegungsaktionen/2 Behinderung|Schwere Rüstung, zum überstecken|?|<img src="images/armorheavy.png"  width="auto" height="100" />|
 
 ### Belohnungen
 
@@ -307,6 +329,7 @@ Beschreibt und leitet Rätsel.
 Juvius: Akrobatik, Darbietung, Redegewandtheit
 Dalyan: Zähigkeit, Arkane Kunde, Athletik
 Caressa: Überleben, Arkane Kunde, Heimlichkeit, Geschichten und Mythen
+Tamme: Diplomatie, Redegewandtheit, Städtekunde, Länderkunde, Seefahrt, Darbietung
 
 **Offenbart sich nur wenn unbedingt nötig:**
 Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man bekommt jedoch 2W10 Schaden von Stacheln und wenn man in die nächsten 3 Räume eintritt 5 Gift Schaden.
@@ -323,7 +346,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > Tür geht auf wenn Kiste geöffnet
 
 3. 30m hoher runder Raum mit kleinen Steinen (Dark Knight Rises). Steine bilden eigentlich runde Treppe um den Raum, sind jedoch in Wand eingezogen. Perfekt glatt. Boden ist Grass mit weichem Moss.
-    > 3 Checks gegen 22 Akrobatik
+    > 3 Checks gegen 22 Akrobatik, 1 gg. 20 Athletik
     > Treppenstufen fahren aus, wenn geschafft.
     > 1/3W10 Schaden für Kletterer
     > <img src="images/climb.jpg"  width="auto" height="200" />
@@ -359,8 +382,19 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
 
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 10 | 16 | 2 | ? (Abwartefeld) |
+      | 15 | 16 | 2 | ? (Abwartefeld) |
 
+3. Crucible Knight
+    <img src="images/crucible.jpg_large"  width="auto" height="200" />
+    - 1 Ritter, Spieler bekommen +1 pro Spieler in Rücken
+    - Fähigkeit:
+        - Immer aktive Verteidigung, falls verteidigt 2W6 Schaden
+        - Schwert, 20 gg VTD, 2W6 + 3 Schaden, alle 6 Ticks
+        - bei 50% HP, schwingt magischen Schwanz um ihn herum, 2W6 Schaden für alle im Umkreis von 5m, wirft alle zu Boden --> liegend (6 Ticks zum aufstehen)
+
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 20 | 25 | 3 | 6 |
 ### Etagen
 
 #### Erste
@@ -556,8 +590,9 @@ Flammen brennen die Welt nieder und Gruppe wird bewusstlos und wachen an dem gro
 Nach Finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  
 Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum durch magisches Portal.  
+Charaktere erinnern sich nicht an die Details der ganzen Ereignisse, aber sie haben das Gefühl, dass sie trotzdem etwas mitgenommen haben (haben unterbewusst Erfahrung gewonnen, aber kennen nicht die ganzen Kreaturen).
 --> Ende
 
 ## Small stuff
 - Crits: Spieler findet bei Fähigkeitscrit etwas über den Raum/Herausforderung heraus --> bekommt beim nächsten mal einen Bonus
-- Maybe nameless king als 2. Boss
+- Maybe radahn als 2. Boss

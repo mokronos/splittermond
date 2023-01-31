@@ -5,13 +5,25 @@ layout: base
 # Im Feenland
 <img src="images/tickleiste.png"  width="auto" height="200" />
 
+## Start
+
+Brim geht Heim um sich auszuruhen/bleibt daheim.
+Restlichen Spieler werden mit Magie bewusstlos geschlagen und in Keller von einem Haus getragen.
+
+Werden an eine "Inception"like magische Traum Maschine angeschlossen. Entführer geht mit ihnen in Traum.
+Will das mit Menschen machen, da das menschliche Gehirn besonderer ist als seine eigene Vorstellung.
+
 ## Ankunft
 
 In schön geschmückten Räumen. Großer Tisch in Mitte des größten (mittleren Raumes) mit leeren Tellern.
 
-Frage von Fee: Lieblingsgericht? Alles vorstellbare. Werden in anderem Zimmer magisch zubereitet und anschließend schwebend auf Teller geflogen.
+Unbekannter taucht mit Magie aus oranger Rauchwolke auf.
 
-Freund (Brimborium) durch Anomalie nicht hier angekommen. Fee hat keine Kontrolle über Anomalien.
+<img src="images/hades.webp"  width="auto" height="200" />
+
+Frage von Unbekanntem: Lieblingsgericht? Alles vorstellbare. Werden in anderem Zimmer magisch zubereitet und anschließend schwebend auf Teller geflogen.
+
+<img src="images/hadessit.webp"  width="auto" height="200" />
 
 ## Herausforderung
 
@@ -20,7 +32,7 @@ Jeder darf 2 Gegenstände für Herausforderung aus Rucksack auswählen. (Gesamte
 3 Regeln:
 - Versucht auf keinen Fall in 3 Räumen gleichzeitig zu sein. (Wenn 1 Tür geöffnet wird, wird andere verriegelt. Dinge beginnen erst wenn alle in einem Raum sind und Tür hinter einem wird verriegelt)
 - Magie ist erlaubt
-- Versucht nicht mich auszutricksen.
+- Versucht nicht mich zu hintergehen.
 
 Magisches Gefühl überkommt alle Abenteurer (fühlt sich nicht wie normale Magie an). Boden unter Füßen verschwindet und alle Abenteurer landen in perfekt eckigem Raum.
 In Shop Raum ist nur eine Tür zu einem Raum mit 2 Türen.(Vorbereitungs Raum)
@@ -170,17 +182,22 @@ Reward Table:
 |Mini-Boss|15|+5 alle oder +15 einer|-|
 |Boss (alle drei)|15|+10 alle|Artefakt|
 
+### Kampf Bewegung
+
+- 2 Ticks = 1 m
+- 1 Feld = 1m x 1m
+- Spieler muss für Nahkampf in Feld neben Gegner stehen
 ### Rätsel
 
 Kleine Schlange taucht aus Ritze in Decke auf und setzt sich auf Gegenstand in Raum.
 Beschreibt und leitet Rätsel.
 
-1. monty hall problem
+1. Monty hall problem
     > 3 Luken in Decke, 2 Fluten Raum, 1 Dunkle Seelen, entscheidet euch für einen.  
     > Boss öffnet eine Luke (Säure geht durch 2. Luke durch Boden) und frägt, ob Abenteurer ihre Wahl ändern wollen.  
     > wenn, ja --> Dunkle Seelen und Türen tauchen auf.  
     > wenn, nein --> Säure füllt Raum bis auf Kniehöhe und Türen tauchen auf --> 5W10 Schaden  
-    > Erklärung: 1/3 Wahrscheinlichkeit für Preis für jede Tür am Anfang --> andere beiden Optionen sind 2/3 --> 1 Option weggenommen --> 2/3 Chance bleibt für andere Tür --> Wahl ändern ist besser (vorstellen mit 100 Türen)  
+    > Erklärung: 1/3 Wahrscheinlichkeit für Preis für jede Tür am Anfang --> andere beiden Optionen sind 2/3 --> 1 Option weggenommen --> 2/3 Chance bleibt für andere Tür --> Wahl ändern ist besser (vorstellen mit 100 Türen, 1 auswählen, dann alle außer 1 werden geöffnet --> diese 1 wurde von 99 gefiltert --> viel wahrscheinlicher dass es der preis ist)
 
 2. Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
     > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
@@ -188,8 +205,9 @@ Beschreibt und leitet Rätsel.
     > Wenn Countdown 0 --> Tür öffnet sich  
 
 3. Raum mit Statue in Mitte und 2 Türen + Eingang in 120° Winkel
+    <img src="images/statue.png"  width="auto" height="100" />
     > Statue bekommt keinen Schaden, aus unzerstörbarem magischem Material und kann keine debuffs erhalten  
-    > greift mit 15 + 2W10 an und macht 2W6 Schaden  
+    > greift mit 15 + 2W10 an und macht 2W10 Schaden  
     > wenn man Statue von Richtung einer Tür angreift, öffnet sich die jeweilige Tür  
     > Eingangstür führt in selben gespiegelten Raum falls geöffnet (kann nicht verlassen werden)  
     > anderen beiden Türen führen in neue Räume, falls ein Abenteurer in neuen Raum geht, bewirken angriffe nichts mehr  
@@ -212,6 +230,12 @@ Beschreibt und leitet Rätsel.
     > wenn sie es schaffen, öffnet sich die Tür
     > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
+7. Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
+    <img src="images/fountain.jpg"  width="auto" height="200" />
+    > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
+    > Tür ist direkt offen
+
+
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
 - Zwei Wächter, einer lügt nur, anderer erzählt nur Wahrheit
@@ -221,8 +245,10 @@ Beschreibt und leitet Rätsel.
 
 1. Trap Master
     <img src="images/trapmaster.png"  width="auto" height="200" />
-    - Der raum ist 5x5 grid. Rennt in random Richtung, weg von party.
-    - Fähigkeit: Places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks.
+    - Der raum ist Spielfeld grid. Rennt in random Richtung, weg von party.
+    - Fähigkeit:
+        - Lässt Falle auf Feld von dem er weggeht fallen. 2W10 Schaden. Bewegt sich alle 3 ticks um 2m (2 Felder).
+        - Wenn auf Feld mit Spieler, oder durch Feld durch, 15 gg VTD mit Schwert, 2W6 Schaden
 
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
@@ -352,22 +378,32 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > <img src="images/climb.jpg"  width="auto" height="200" />
 
 4. Minenfeld, Minen können am ende des Feldes deaktiviert werden. Man muss leise sein und wenig Vibrationen erzeugen, um die Minen nicht auszulösen.
+    <img src="images/minefield.png"  width="auto" height="200" />
     > 3 Checks gegen 22 Heimlichkeit
     > 3W10 Schaden für alle wenn failed
     > Belohnung und Tür am Ende des Feldes
 
-5. Identifizierung von Giftpflanzen, 3 Pflanzen
+5. Identifizierung von Giftpflanzen, 5 Pflanzen
     > Check gegen 25 Überleben (1 Hauptprobe + 2 Hilfen)
     > Erfolg bedeutet, dass Abenteurer wissen, welche Pflanzen sicher zu essen sind
     > Scheitern bedeutet, dass Abenteurer möglicherweise giftige Pflanzen essen
     > giftige, 2W6 Schaden bei Eintritt in die nächsten 3 Räume
+
+6. Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
+    > Schlüssel können in der Mitte des Raumes eingesetzt werden, mit kleinen Schildchen mit jeweils Namen der Stadt
+    > Stadt Identifizierung: gg. 30 Straßenkunde/Länderkunde mit Hilfe, bei jeder Karte ein mal
+    > Städte: Aurigion, Burno, Dyrinor, Fulnia, Nuum, Taupio, Tivana, Drevilna, Talaberis, Mydalis
+    > muss alle 10 Schlüssel richtig einführen
+    > falscher Schlüssel in Schloss, 2W10 Schock Schaden für Abenteurer der den Schlüssel einführt
+    > wenn richtig --> Tür öffnet sich
 
 ### Mini-Bosse
 
 1. Kobold Bombenwerfer
     <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
     - 2 Kobolde
-    - Fähigkeit: rennen umher und werfen bomben auf Abenteurer, 15 gg VTD, 1W10 + 3 Schaden. 5 ticks.
+    - Fähigkeit: rennen umher und werfen bomben auf Abenteurer 3x3 Radius, 15 gg VTD, 1W10 + 3 Schaden. 5 ticks.
+    - laufen immer 2 Felder von Abenteurern weg.
 
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
@@ -590,6 +626,7 @@ Flammen brennen die Welt nieder und Gruppe wird bewusstlos und wachen an dem gro
 Nach Finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  
 Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum durch magisches Portal.  
+Oder weckt sie auf.
 Charaktere erinnern sich nicht an die Details der ganzen Ereignisse, aber sie haben das Gefühl, dass sie trotzdem etwas mitgenommen haben (haben unterbewusst Erfahrung gewonnen, aber kennen nicht die ganzen Kreaturen).
 --> Ende
 

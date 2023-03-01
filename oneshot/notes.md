@@ -2,7 +2,7 @@
 title: Oneshot notes
 layout: base
 ---
-# Im Feenland
+# Im ???
 <img src="images/tickleiste.png"  width="auto" height="200" />
 
 ## Start
@@ -275,11 +275,13 @@ Beschreibt und leitet Rätsel.
 4. Mammoth
     <img src="images/mammoth.webp"  width="auto" height="200" />
     - Mammoth mit 2m langem Stoßzahn. 3m groß.
-    - Fähigkeit: Stoßzahn, 15 gg VTD, 3W10 Schaden. Rennt auf weitest entfernten Abenteurer zu und spießt auf. 10 ticks.
+    - Fähigkeit:
+        - Stoßzahn, 15 gg VTD, 3W10 Schaden. Rennt auf weitest entfernten Abenteurer zu und spießt auf. 10 ticks.
+        - schlägt um sich, 2m umkreis, wirft um, 20 gg VTD, 3W10 schaden, 5 ticks
 
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 40 | 18 | 0 | 2 |
+      | 50 | 25 | 0 | 2 |
 
 5. Imps
     <img src="images/imps.jpg"  width="auto" height="200" />
@@ -320,7 +322,7 @@ Beschreibt und leitet Rätsel.
     - Fähigkeit: Feuerstoß, 25 gg VTD, 5W8 Schaden, in einem 3m Radius Umkreis. 8 ticks Verzögerung wenn getroffen. 20 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 20 | 24 | 3 | 3 |
+      | 60 | 26 | 3 | 3 |
 
 10. Giftiger Dämon:
   - Größe: 1,5m, Waffe: Giftige Klauen

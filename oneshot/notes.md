@@ -235,6 +235,7 @@ Beschreibt und leitet Rätsel.
     > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
     > Tür ist direkt offen
 
+8. https://www.brainzilla.com/logic/zebra/einsteins-riddle/
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit

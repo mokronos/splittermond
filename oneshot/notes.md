@@ -477,7 +477,7 @@ Riesige Raupe --> Schmetterling
     - 4 Flügel (2 in 3m Höhe, 2 unten), falls erreichbar, pro kaputtem Flügel -5 VTD an Körper.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 10 | 15 | 0 | ? (Abwartefeld) |
+      | 15 | 20 | 0 | ? (Abwartefeld) |
     
     - Körper
     - | HP | VTD | SR | INI |

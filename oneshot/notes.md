@@ -1,5 +1,4 @@
----
-title: Oneshot notes
+--- title: Oneshot notes
 layout: base
 ---
 # Im ???
@@ -103,8 +102,8 @@ Erst wird Seltenheitsverteilung mit 1d20 ausgewürfelt. Dann wird Upgrade ausgew
 | Seltenheit | Kosten |
 |-------|--------|
 |c|10|
-|r|35|
-|l|100?|
+|r|20|
+|l|40|
 
 **Common:**
 
@@ -165,12 +164,12 @@ Sollten beim nächsten Kampf mit dem jeweiligen Boss helfen diesen zu besiegen.
 
 | Würfel | Effekt | Artefakt | Quelle | Aussehen |
 |-------|--------|--------|--------|--------|
-|1|Kann Zeit stoppen, 4 Aktionen ohne Ticks vorzugehen| Stopuhr |?|<img src="images/stopwatch.jpg"  width="auto" height="100" />|
+|1|Kann Zeit stoppen, 1 Aktionen ohne Ticks vorzugehen| Stopuhr | Bombenwerfer Kobolde |<img src="images/stopwatch.jpg"  width="auto" height="100" />|
 |2|Schnell bewegen, alle Bewegungsaktionen kosten keine Ticks| Magische Schuhe |Raupe|<img src="images/bootsquick.jpeg"  width="auto" height="100" />|
 |3|Gravitation langsam umdrehen (für 5 sec) kann kurz bisschen fliegen, Gegner sind verwirrt|Magische Schuhe|Schmetterling|<img src="images/bootsgravity.png"  width="auto" height="100" />|
-|4|Nächster Angriff ignoriert Großteil VTD (nicht die Raupe)| verfluchter Ring, der die Rüstung des Gegners für einen Angriff durchdringbar macht | ? | <img src="images/ringcursed.jpg"  width="auto" height="100" />|
-|5|Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen, wenn Check gg. 25 Wahrnehmung| Brille/Visor welches Schwachstellen etwas highlighted | ? | <img src="images/snipergoggles.webp"  width="auto" height="100" />|
-|6|Erhält 3 Schadensreduktion und kann nicht mehr CCed werden, -2 bei Bewegungsaktionen/2 Behinderung|Schwere Rüstung, zum überstecken|?|<img src="images/armorheavy.png"  width="auto" height="100" />|
+|4|Nächster Angriff ignoriert Großteil VTD (nicht die Raupe)| verfluchter Ring, der die Rüstung des Gegners für einen Angriff durchdringbar macht | Miniboss | <img src="images/ringcursed.jpg"  width="auto" height="100" />|
+|5|Kann Schwachstellen erkennen und treffen, 1.5 facher Schaden mit allen angriffen, wenn Check gg. 25 Wahrnehmung| Brille/Visor welches Schwachstellen etwas highlighted | Miniboss | <img src="images/snipergoggles.webp"  width="auto" height="100" />|
+|6|Erhält 3 Schadensreduktion und kann nicht mehr CCed werden, -2 bei Bewegungsaktionen/2 Behinderung|Schwere Rüstung, zum überstecken| Miniboss |<img src="images/armorheavy.png"  width="auto" height="100" />|
 
 ### Belohnungen
 
@@ -187,25 +186,23 @@ Reward Table:
 - 2 Ticks = 1 m
 - 1 Feld = 1m x 1m
 - Spieler muss für Nahkampf in Feld neben Gegner stehen
+
 ### Rätsel
 
 Kleine Schlange taucht aus Ritze in Decke auf und setzt sich auf Gegenstand in Raum.
 Beschreibt und leitet Rätsel.
 
-1. Monty hall problem
+- [x] Monty hall problem
     > 3 Luken in Decke, 2 Fluten Raum, 1 Dunkle Seelen, entscheidet euch für einen.  
     > Boss öffnet eine Luke (Säure geht durch 2. Luke durch Boden) und frägt, ob Abenteurer ihre Wahl ändern wollen.  
     > wenn, ja --> Dunkle Seelen und Türen tauchen auf.  
     > wenn, nein --> Säure füllt Raum bis auf Kniehöhe und Türen tauchen auf --> 5W10 Schaden  
     > Erklärung: 1/3 Wahrscheinlichkeit für Preis für jede Tür am Anfang --> andere beiden Optionen sind 2/3 --> 1 Option weggenommen --> 2/3 Chance bleibt für andere Tür --> Wahl ändern ist besser (vorstellen mit 100 Türen, 1 auswählen, dann alle außer 1 werden geöffnet --> diese 1 wurde von 99 gefiltert --> viel wahrscheinlicher dass es der preis ist)
 
-2. Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
-    > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
-    > Wenn Knopf wieder gedrückt wird --> Countdown reset  
-    > Wenn Countdown 0 --> Tür öffnet sich  
+- [x] Raum mit Statue in Mitte und 2 Türen + Eingang in 120° Winkel
 
-3. Raum mit Statue in Mitte und 2 Türen + Eingang in 120° Winkel
     <img src="images/statue.png"  width="auto" height="100" />
+
     > Statue bekommt keinen Schaden, aus unzerstörbarem magischem Material und kann keine debuffs erhalten  
     > greift mit 15 + 2W10 an und macht 2W10 Schaden  
     > wenn man Statue von Richtung einer Tür angreift, öffnet sich die jeweilige Tür  
@@ -213,29 +210,36 @@ Beschreibt und leitet Rätsel.
     > anderen beiden Türen führen in neue Räume, falls ein Abenteurer in neuen Raum geht, bewirken angriffe nichts mehr  
     > es ist möglich zur zweiten Tür zu wechseln, oder wieder zurück, falls erste noch nicht betreten wurde  
 
-4. Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
+- [ ] Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
+    > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
+    > Wenn Knopf wieder gedrückt wird --> Countdown reset  
+    > Wenn Countdown 0 --> Tür öffnet sich  
+
+- [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
     > neben Schlössern steht entweder "öffnen" oder "schließen" in verschiedenen Sprachen (immer abwechselnd offen, geschlossen, offen, ...)  
     > Sprachen: Farukanisch, Dragoreisch, Vaigro, Basargnomisch, Olelo(kann wschl keiner)
     > Abenteurer müssen ihre jeweilige Sprache entschlüsseln und die Schlösser entweder aufmachen oder geschlossen lassen  
     > Wenn mit Rad/Kurbel geöffnet wird und richtig --> Belohnung und zwei Türen in Tresor  
     > falls falsch --> 2W10 Schaden für Abenteurer der öffnet  
 
-5. Über Ausgangsrichtung ist großes Gesicht mit grüner Zunge, "Gift läuft im Mund zusammen" und streckt Ärmchen nach Gift Flasche in Mitte des Raumes aus
+- [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
+ Über Ausgangsrichtung ist großes Gesicht mit grüner Zunge, "Gift läuft im Mund zusammen" und streckt Ärmchen nach Gift Flasche in Mitte des Raumes aus
     > Ziel: Gesicht die Flasche reichen --> trinkt Gift, Türen erscheinen  
     > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
     > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
 
-6. Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
+- [ ] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
     > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
     > wenn sie es schaffen, öffnet sich die Tür
     > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
-7. Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
+- [ ] Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
     <img src="images/fountain.jpg"  width="auto" height="200" />
     > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
     > Tür ist direkt offen
 
-8. https://www.brainzilla.com/logic/zebra/einsteins-riddle/
+- [ ] https://www.brainzilla.com/logic/zebra/einsteins-riddle/
+    > 10 min Zeitlimit
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
@@ -244,8 +248,10 @@ Beschreibt und leitet Rätsel.
 
 ### Normale Gegner
 
-1. Trap Master
+- [x] Trap Master
+
     <img src="images/trapmaster.png"  width="auto" height="200" />
+
     - Der raum ist Spielfeld grid. Rennt in random Richtung, weg von party.
     - Fähigkeit:
         - Lässt Falle auf Feld von dem er weggeht fallen. 2W10 Schaden. Bewegt sich alle 3 ticks um 2m (2 Felder).
@@ -255,8 +261,10 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 25 | 20 | 1 | 6 |
 
-2. Wasser Elementar
+- [x] Wasser Elementar
+
     <img src="images/waterelemental.jpg"  width="auto" height="200" />
+
     - Raum voller Wasser, füllt alten Raum wenn geöffnet. 20cm Luft unter decke. Alle 5 Malus, außer Schwimmen Probe gegen 20.
     - Fähigkeit: whirlpool um Ziel, 15 gg VTD, 3W6 Schaden. 7 ticks. Bewegt sich während vorbereitung.
 
@@ -264,8 +272,10 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 10 | 22 | 5 | 4 |
 
-3. Giant Dwarf
+- [x] Giant Dwarf
+
     <img src="images/dwarfhammer.jpg"  width="auto" height="200" />
+
     - Großer Zwerg, 3m groß. Riesiger Hammer, Zweihänder.
     - Fähigkeit: Hammer Erdbeben, 15 gg VTD, 4W10 Schaden, in 3m Radius Umkreis. 10 ticks Verzögerung wenn getroffen. 15 ticks.
 
@@ -273,8 +283,10 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 30 | 20 | 2 | 2 |
 
-4. Mammoth
+- [x] Mammoth
+
     <img src="images/mammoth.webp"  width="auto" height="200" />
+
     - Mammoth mit 2m langem Stoßzahn. 3m groß.
     - Fähigkeit:
         - Stoßzahn, 15 gg VTD, 3W10 Schaden. Rennt auf weitest entfernten Abenteurer zu und spießt auf. 10 ticks.
@@ -284,8 +296,40 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 50 | 25 | 0 | 2 |
 
-5. Imps
+- [x] Riesenspinne:
+
+    <img src="images/spider.jpg"  width="auto" height="200" />
+
+    - Größe: 1,5m, Waffe: Spinnenfäden und Beißzangen
+    - Fähigkeit: Giftige Beißattacke, 15 gg VTD, 2W8 Schaden und Vergiftungseffekt. 10 ticks.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 20 | 10 | 4 | 4 |
+
+- [x] Untoter Ritter:
+
+    <img src="images/deathknight.jpg"  width="auto" height="200" />
+
+    - Größe: 2m, Waffe: Schwert und Schild
+    - Fähigkeit: Dunkler Schlag, 20 gg VTD, 4W6 Schaden und Dunkeleffekt. 5 Malus auf Kampffähigkeiten wenn getroffen. 15 ticks.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 25 | 25 | 2 | 2 |
+
+- [x] Wyvern:
+
+    <img src="images/wyvern.jpg"  width="auto" height="200" />
+
+    - Größe: 4m, Waffe: Klauen und Feueratem
+    - Fähigkeit: Feuerstoß, 25 gg VTD, 5W8 Schaden, in einem 3m Radius Umkreis. 8 ticks Verzögerung wenn getroffen. 20 ticks.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 60 | 26 | 3 | 3 |
+
+- [ ] Imps
+
     <img src="images/imps.jpg"  width="auto" height="200" />
+
     - 3 grüne Imps, 50cm groß. Hängen sich an Wände und Decken und springen auf Gesicht.
     - Fähigkeit: Kratzen mit klauen, 15 gg VTD, 1W6 + 3 Schaden. 5 ticks.
 
@@ -293,60 +337,58 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 5 | 22 | 0 | 6 |
 
-6. Gargoyle:
+- [ ] Gargoyle:
+
     <img src="images/gargoyle.png"  width="auto" height="200" />
+
     - Größe: 2m, Waffe: Klauen und Zähne
     - Fähigkeit: Feuerbreath, 10 gg VTD, 3W6 Schaden, in einem 5m Radius Umkreis. 10 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 25 | 15 | 3 | 3 |
 
-7. Riesenspinne:
-    <img src="images/spider.jpg"  width="auto" height="200" />
-    - Größe: 1,5m, Waffe: Spinnenfäden und Beißzangen
-    - Fähigkeit: Giftige Beißattacke, 15 gg VTD, 2W8 Schaden und Vergiftungseffekt. 10 ticks.
+- [ ] Goblin:
+
+    <img src="./images/goblinhammer.jpg"  width="auto" height="200" />
+
+    - Größe: 1.5m, Waffe: big hammer
+    - Fähigkeit: Hammer Wirbel , 20 gg VTD, 3W10 Schaden, in einer Aktion in einer 6m Reihe mit 2m radius allen Schaden, 15 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 20 | 10 | 4 | 4 |
+      | 60 | 24 | 3 | 5 |
 
-8. Untoter Ritter:
-    <img src="images/deathknight.jpg"  width="auto" height="200" />
-    - Größe: 2m, Waffe: Schwert und Schild
-    - Fähigkeit: Dunkler Schlag, 20 gg VTD, 4W6 Schaden und Dunkeleffekt. 5 Malus auf Kampffähigkeiten wenn getroffen. 15 ticks.
+- [ ] Mimic Chest (dark souls):
+    
+    <img src="./images/mimicchest.jpg"  width="auto" height="200" />
+
+    - Größe: 1.5m, Waffe: Klauen und Zähne
+    - Fähigkeit: Grab, 15 gg VTD/2, 5W6 Schaden (mehrere Bisse), 10 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 25 | 25 | 2 | 2 |
+      | 40 | 25 | 3 | ? |
 
-9. Wyvern:
-    <img src="images/wyvern.jpg"  width="auto" height="200" />
-    - Größe: 4m, Waffe: Klauen und Feueratem
-    - Fähigkeit: Feuerstoß, 25 gg VTD, 5W8 Schaden, in einem 3m Radius Umkreis. 8 ticks Verzögerung wenn getroffen. 20 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 60 | 26 | 3 | 3 |
-
-10. Giftiger Dämon:
+- [ ] Giftiger Dämon:
   - Größe: 1,5m, Waffe: Giftige Klauen
     - Fähigkeit: Giftiger Biss, 25 gg VTD, 3W8 Schaden und Giftstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 20 | 20 | 2 | 3 |
 
-11. Feuerdrache:
+- [ ] Feuerdrache:
   - Größe: 4m, Waffe: Feueratem
     - Fähigkeit: Feuerstoß, 30 gg VTD, 6W6 Schaden und Feuerstatus. 15 ticks Verzögerung wenn getroffen. 20 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 20 | 25 | 4 | 4 |
 
-12. Eiszauberin:
+- [ ] Eiszauberin:
   - Größe: 1,7m, Waffe: Eisstab
     - Fähigkeit: Eisblitz, 25 gg VTD, 4W6 Schaden und Eisstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 15 | 25 | 1 | 3 |
 
-13. Blitzdämon:
+- [ ] Blitzdämon:
   - Größe: 2m, Waffe: Blitzschwert
     - Fähigkeit: Blitzschlag, 20 gg VTD, 5W6 Schaden und Blitzstatus. 5 ticks Verzögerung wenn getroffen. 10 ticks.
     - | HP | VTD | SR | INI |
@@ -363,36 +405,40 @@ Tamme: Diplomatie, Redegewandtheit, Städtekunde, Länderkunde, Seefahrt, Darbie
 **Offenbart sich nur wenn unbedingt nötig:**
 Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man bekommt jedoch 2W10 Schaden von Stacheln und wenn man in die nächsten 3 Räume eintritt 5 Gift Schaden.
 
-1. Zusammen Brücke bauen
+- [x] Zusammen Brücke bauen
     > Check gegen 25 Handwerk (1 Hauptprobe + 3 Hilfen)
     > Kein Schaden wenn geschafft
     > Abenteurer müssen über Dornen rennen --> 3W10 Schaden für alle
     > Tür ist auf anderer Seite der Dornen
 
-2. Sehr stabile Kiste mit 3 Vorhängeschlössern
-    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
-    > Belohnung des Raumes in Kiste
-    > Tür geht auf wenn Kiste geöffnet
+- [x] 30m hoher runder Raum mit kleinen Steinen (Dark Knight Rises). Steine bilden eigentlich runde Treppe um den Raum, sind jedoch in Wand eingezogen. Perfekt glatt. Boden ist Grass mit weichem Moss.
 
-3. 30m hoher runder Raum mit kleinen Steinen (Dark Knight Rises). Steine bilden eigentlich runde Treppe um den Raum, sind jedoch in Wand eingezogen. Perfekt glatt. Boden ist Grass mit weichem Moss.
+    <img src="images/climb.jpg"  width="auto" height="200" />
+
     > 3 Checks gegen 22 Akrobatik, 1 gg. 20 Athletik
     > Treppenstufen fahren aus, wenn geschafft.
     > 1/3W10 Schaden für Kletterer
-    > <img src="images/climb.jpg"  width="auto" height="200" />
 
-4. Minenfeld, Minen können am ende des Feldes deaktiviert werden. Man muss leise sein und wenig Vibrationen erzeugen, um die Minen nicht auszulösen.
+- [x] Minenfeld, Minen können am ende des Feldes deaktiviert werden. Man muss leise sein und wenig Vibrationen erzeugen, um die Minen nicht auszulösen.
+
     <img src="images/minefield.png"  width="auto" height="200" />
+
     > 3 Checks gegen 22 Heimlichkeit
     > 3W10 Schaden für alle wenn failed
     > Belohnung und Tür am Ende des Feldes
 
-5. Identifizierung von Giftpflanzen, 5 Pflanzen
+- [x] Identifizierung von Giftpflanzen, 5 Pflanzen
     > Check gegen 25 Überleben (1 Hauptprobe + 2 Hilfen)
     > Erfolg bedeutet, dass Abenteurer wissen, welche Pflanzen sicher zu essen sind
     > Scheitern bedeutet, dass Abenteurer möglicherweise giftige Pflanzen essen
     > giftige, 2W6 Schaden bei Eintritt in die nächsten 3 Räume
 
-6. Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
+- [ ] Sehr stabile Kiste mit 3 Vorhängeschlössern
+    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
+    > Belohnung des Raumes in Kiste
+    > Tür geht auf wenn Kiste geöffnet
+
+- [ ] Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
     > Schlüssel können in der Mitte des Raumes eingesetzt werden, mit kleinen Schildchen mit jeweils Namen der Stadt
     > Stadt Identifizierung: gg. 30 Straßenkunde/Länderkunde mit Hilfe, bei jeder Karte ein mal
     > Städte: Aurigion, Burno, Dyrinor, Fulnia, Nuum, Taupio, Tivana, Drevilna, Talaberis, Mydalis
@@ -400,20 +446,17 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > falscher Schlüssel in Schloss, 2W10 Schock Schaden für Abenteurer der den Schlüssel einführt
     > wenn richtig --> Tür öffnet sich
 
+- [ ] Bewohner der gemalten Welt streiten. Müssen überzeugt werden sich nicht umzubringen.
+    > haben Ewigkeiten miteinander zusammen gelebt, ihnen ist langweilig
+    > sind aber eifersüchtig Dinge mit anderen leuten auszuprobieren
+
 ### Mini-Bosse
 
-1. Kobold Bombenwerfer
-    <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
-    - 2 Kobolde
-    - Fähigkeit: rennen umher und werfen bomben auf Abenteurer 3x3 Radius, 15 gg VTD, 1W10 + 3 Schaden. 5 ticks.
-    - laufen immer 2 Felder von Abenteurern weg.
 
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 10 | 25 | 2 | 6 |
+- [x] Dark Brim
 
-2. Dark Brim
     <img src="images/brim.jpg"  width="auto" height="200" />
+
     - Brimborium sitzt mit Mantel und Kapuze umgekehrt im Schneidersitz auf dem Boden.
     - Fähigkeit:
         - reagiert nicht auf Worte, falls er in irgendeiner Weise angegriffen wird, schleudert er mit einer Flammenwelle alle im Umkreis von 5m weg, wirft sie um (+ 5 Ticks) und fügt 2W6 Schaden zu.
@@ -423,8 +466,10 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
       |-------|--------|--------|--------|
       | 15 | 16 | 2 | ? (Abwartefeld) |
 
-3. Crucible Knight
+- [ ] Crucible Knight
+
     <img src="images/crucible.jpg_large"  width="auto" height="200" />
+
     - 1 Ritter, Spieler bekommen +1 pro Spieler in Rücken
     - Fähigkeit:
         - Immer aktive Verteidigung, falls verteidigt 2W6 Schaden
@@ -434,15 +479,28 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 20 | 25 | 3 | 6 |
+
+- [ ] Kobold Bombenwerfer
+
+    <img src="images/Inferno-Bomber.webp"  width="auto" height="200" />
+
+    - 2 Kobolde
+    - Fähigkeit: rennen umher und werfen bomben auf Abenteurer 3x3 Radius, 15 gg VTD, 1W10 + 3 Schaden. 5 ticks.
+    - laufen immer 2 Felder von Abenteurern weg.
+
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 10 | 25 | 2 | 6 |
+
 ### Etagen
 
 #### Erste
 
-10 Räume
+6 Räume
 
 #### Zweite
 
-8 Räume
+4 Räume
 
 ### Erste Etage Boss
 
@@ -485,9 +543,7 @@ Riesige Raupe --> Schmetterling
       |-------|--------|--------|--------|
       | 40 | 40 | 1 | ? (Abwartefeld) |
 
-Braucht deutliche Vereinfachung nach erstem mal (vielleicht das Artefakt)  
-
-Falls geschlagen ohne (viel) HP verloren zu haben --> Erster Raum nach reset führt über Glas Boden über Bossraum (Skip)  
+Falls geschlagen ohne (viel) HP verloren zu haben oder alle am leben --> Erster Raum nach reset führt über Glas Boden über Bossraum (Skip)  
 
 ### Final Boss - Sister Friede
 
@@ -568,8 +624,11 @@ Hilft Gruppe in entscheidendem Moment außerhalb eines Boss Kampfes. Man kann da
 Friede taucht auch auf und warnt Gruppe vor Gael und dem Gemälde.
 
 In finalem Raum Gemälde berühren.
+
 <img src="images/paintedworld.png"  width="auto" height="200" /> 
+
 Dann in Schneewelt teleportieren. Über Hängebrücke in Kirche.
+
 <img src="images/friedearrival.jpg"  width="auto" height="200" />
 <img src="images/friedefather2.jpg"  width="auto" height="200" /> 
 
@@ -632,7 +691,3 @@ Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum d
 Oder weckt sie auf.
 Charaktere erinnern sich nicht an die Details der ganzen Ereignisse, aber sie haben das Gefühl, dass sie trotzdem etwas mitgenommen haben (haben unterbewusst Erfahrung gewonnen, aber kennen nicht die ganzen Kreaturen).
 --> Ende
-
-## Small stuff
-- Crits: Spieler findet bei Fähigkeitscrit etwas über den Raum/Herausforderung heraus --> bekommt beim nächsten mal einen Bonus
-- Maybe radahn als 2. Boss

@@ -228,7 +228,7 @@ Beschreibt und leitet Rätsel.
     > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
     > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
 
-- [ ] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
+- [x] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
     > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
     > wenn sie es schaffen, öffnet sich die Tür
     > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
@@ -326,7 +326,7 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 60 | 26 | 3 | 3 |
 
-- [ ] Imps
+- [x] Imps
 
     <img src="images/imps.jpg"  width="auto" height="200" />
 
@@ -438,7 +438,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > Belohnung des Raumes in Kiste
     > Tür geht auf wenn Kiste geöffnet
 
-- [ ] Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
+- [x] Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
     > Schlüssel können in der Mitte des Raumes eingesetzt werden, mit kleinen Schildchen mit jeweils Namen der Stadt
     > Stadt Identifizierung: gg. 30 Straßenkunde/Länderkunde mit Hilfe, bei jeder Karte ein mal
     > Städte: Aurigion, Burno, Dyrinor, Fulnia, Nuum, Taupio, Tivana, Drevilna, Talaberis, Mydalis
@@ -466,19 +466,19 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
       |-------|--------|--------|--------|
       | 15 | 16 | 2 | ? (Abwartefeld) |
 
-- [ ] Crucible Knight
+- [x] Crucible Knight
 
     <img src="images/crucible.jpg_large"  width="auto" height="200" />
 
     - 1 Ritter, Spieler bekommen +1 pro Spieler in Rücken
     - Fähigkeit:
         - Immer aktive Verteidigung, falls verteidigt 2W6 Schaden
-        - Schwert, 20 gg VTD, 2W6 + 3 Schaden, alle 6 Ticks
+        - Schwert, 14 gg VTD, 2W6 + 3 Schaden, alle 7 Ticks 
         - bei 50% HP, schwingt magischen Schwanz um ihn herum, 2W6 Schaden für alle im Umkreis von 5m, wirft alle zu Boden --> liegend (6 Ticks zum aufstehen)
 
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 20 | 25 | 3 | 6 |
+      | 7 | 25 | 3 | 6 |
 
 - [ ] Kobold Bombenwerfer
 
@@ -558,18 +558,18 @@ Ariandel ist ein Bewohner, Vater der Kirche und wird von Friede überzeugt mit s
 
 | Würfel | Sprecher | Story Snippets |
 |---|---|---|
-| 1 | Schriftrolle | Ich male diese Welt, um vor der Grausamkeit der Realität zu schützen.|
-| 2 | Schriftrolle | Selbst die gemalte Welt zerfällt irgendwann.|
-| 3 | Schriftrolle/Gael | Das Feuer erneuert die Welt, damit die Bewohner in eine neue Welt umziehen können.|
-| 4 | Gemälde | Welt von Ariandel.|
-| 5 | Schriftrolle/Gael | Gael ist (Ich bin) der Hüter des natürlichen Zyklus.|
-| 6 | Gael | Ich brauche eure Hilfe um Feuer zu entfachen.|
-| 7 | Schriftrolle/Friede |Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
-| 8 | Schriftrolle/Friede | Sie ist müde von der andauernden Veränderung.|
-| 9 | Schriftrolle/Friede | Lügt: Die Bewohner der jetztigen Welt würden durch das Feuer sterben.|
-| 10 | Schriftrolle |Ariandel ist ein Bewohner, Vater der Kirche |
-| 11 | Schriftrolle | Ariandel wurde von Friede überzeugt, das Feuer mit seinem Blut aufzuhalten.
-| 12 | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
+| x | Schriftrolle | Ich male diese Welt, um vor der Grausamkeit der Realität zu schützen.|
+| x| Schriftrolle | Selbst die gemalte Welt zerfällt irgendwann.|
+|  | Schriftrolle/Gael | Das Feuer erneuert die Welt, damit die Bewohner in eine neue Welt umziehen können.|
+| x| Gemälde | Welt von Ariandel.|
+|  | Schriftrolle/Gael | Gael ist (Ich bin) der Hüter des natürlichen Zyklus.|
+| x| Gael | Ich brauche eure Hilfe um Feuer zu entfachen.|
+| x| Schriftrolle/Friede |Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
+|  | Schriftrolle/Friede | Sie ist müde von der andauernden Veränderung.|
+|  | Schriftrolle/Friede | Lügt: Die Bewohner der jetztigen Welt würden durch das Feuer sterben.|
+| x | Schriftrolle |Ariandel ist ein Bewohner, Vater der Kirche |
+|  | Schriftrolle | Ariandel wurde von Friede überzeugt, das Feuer mit seinem Blut aufzuhalten.
+| x | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
 
 ##### Friede
 ###### Hintergrund

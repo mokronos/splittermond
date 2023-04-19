@@ -45,3 +45,10 @@ tot
 - story progression!!!
 - shop after 1st boss
 - maybe reach final boss
+
+rooms
+- fake button
+- imps
+- city maps
+- musik
+- crucible knight

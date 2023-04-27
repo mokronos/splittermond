@@ -1973,7 +1973,7 @@ FAZIT: haben 4 überzeugt, 3 noch nicht, wächter in kanalisation
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-33. ??? [?.?.2023]
+33. Escort durch Hoehle [27.4.2023]
 
 splitterpunkte:
 
@@ -1991,27 +1991,26 @@ focus:
 
 o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
 
-o o o o o
+k k k v v
 o o o o o
 o o o o o
 o o o o o 
 o o o o o
 o
 
-Verteidigungswirbel!! +2
+Verteidigungswirbel!! 
 Klingenwirbel!!
 waffe : -wert:19
-	-dmg: 2w6 (+3)
-	-gschw: 10 + [3(Tick-Zuschlag|Rüstung)] = 10
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + 3(Tick-Zuschlag|Rüstung) = 13
 
 0 malus
-erschöpft 3
 
 
 temporary:
 
-- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + [2(steinhaut)] = 29
-- SR: 1(natural) + [3(steinhaut)] + 4(rüstung) = 5
+- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + 2(steinhaut) = 31
+- SR: 1(natural) + 3(steinhaut) + 4(rüstung) = 8
 - Beh.: 2(schild) + 3(rüstung) = 5 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (5/2 = 2 malus auf gsw)
 - Tick Zuschlag: 3(rüstung) = 3
 
@@ -2048,17 +2047,109 @@ Idee für Schild:
 schönes grünes gewand für essen bei könig
 Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
 
-3/7 überzeugt:
+4/7 überzeugt:
 Dwalin
 Holdor eisenformer (schmied)
 Hrefnei (Feldherrin)
+Gutney Schliff (Juvelier)
 
 nicht überzeugt:
-Gutney Schliff (Juvelier)
 Freyn (König)
 Skull (Frau von König)
 Torgirm (1. Berater von König)
 
 
-278ep + ?ep --> ???ep
-FAZIT: ?
+278ep + 5ep --> 283ep
+FAZIT: Plaedoje vorbereiten
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+34. ??? [?.?.2023]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+o o o o o o o o o o o | [(o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+k k k v v
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
+o
+
+Verteidigungswirbel!! 
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + 3(Tick-Zuschlag|Rüstung) = 13
+
+0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + 2(steinhaut) = 31
+- SR: 1(natural) + 3(steinhaut) + 4(rüstung) = 8
+- Beh.: 2(schild) + 3(rüstung) = 5 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (5/2 = 2 malus auf gsw)
+- Tick Zuschlag: 3(rüstung) = 3
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben (Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+Schwert Griff Bänder: T-Rex(dunkelgrün), Schwertdommel, Einhorn(weiß)
+Artefakte: Schwert, Rüstung, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+Main quest:
+Xemail (typ in tempelgemälde) hat uns im traum vernichtet.
+Habe Schild und Schwert.
+Rüstung in zhou jiang. 2-3 Jahre mit normaler Reise.
+
+Idee für Schild:
+- verstärken und vergrößern (magisch am rand vergrößert) + heilen
+- schildstoß, magischer Stoß, Schallwelle
+- Zauber schon in Schild, kann aber nicht auslösen, ritual nötig
+- vllcht gem socket in handschuh, der dann auf schild überträgt
+
+schönes grünes gewand für essen bei könig
+Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
+
+4/7 überzeugt:
+Dwalin
+Holdor eisenformer (schmied)
+Hrefnei (Feldherrin)
+Gutney Schliff (Juvelier)
+
+nicht überzeugt:
+Freyn (König)
+Skull (Frau von König)
+Torgirm (1. Berater von König)
+
+
+283ep + ?ep --> ?ep
+FAZIT: ???

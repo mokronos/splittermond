@@ -1,4 +1,5 @@
---- title: Oneshot notes
+---
+title: Oneshot notes
 layout: base
 ---
 # Im ???
@@ -238,8 +239,10 @@ Beschreibt und leitet Rätsel.
     > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
     > Tür ist direkt offen
 
-- [ ] https://www.brainzilla.com/logic/zebra/einsteins-riddle/
-    > 10 min Zeitlimit
+- [ ] riddle
+    > https://www.brainzilla.com/logic/zebra/einsteins-riddle/ basic 5min too easy
+    > https://www.brainzilla.com/logic/zebra/painting-class/ painters 15min just right
+    > https://www.brainzilla.com/logic/zebra/rpg-campaign/ rpg 15min hard but theme fits
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
@@ -646,7 +649,15 @@ Friede greift die Gruppe an.
 
 - Friede greift direkt an. Hat eine lange Sense.
 - Fähigkeit:
-    - Wird unsichtbar und teleportiert sich, kann nicht angegriffen werden. Auf Abwartefeld. Kurz bevor sie wieder auftaucht, wahrnehmungscheck hören gg. 25 --> 5 VTD /30 --> dodge Assasin Angriff. Folgt mit Sensen Assasinen angriff gegen ein random Ziel, 20 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
+    - Assassine
+        - unsichtbar, kann nicht angegriffen werden, Abwartefeld für 5 Ticks.
+        - teleportiert sich hinter ein random Ziel, wahrnehmungscheck gegen 25 --> +5vtd --> 20 gg VTD, 4W10 + 4 Schaden.
+        - sensen angriff auf anderes ziel, 2W6 + 4 Schaden, 15 ticks.
+
+    - Frost
+        - Friere Boden ein 5m Radius, 10 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
+        - Gefrorener Boden explodiert nach 8 Ticks, 2W6 Schaden in 5m Radius.
+        
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|

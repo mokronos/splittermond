@@ -52,3 +52,11 @@ rooms
 - city maps
 - musik
 - crucible knight
+- goblin
+- Raupe
+- Schmetterling
+    - flugel
+        - 0 hp rechts oben
+        - 0 hp links unten
+        - 0 hp links oben
+        - 0 hp

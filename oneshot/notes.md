@@ -239,10 +239,8 @@ Beschreibt und leitet Rätsel.
     > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
     > Tür ist direkt offen
 
-- [ ] riddle
-    > https://www.brainzilla.com/logic/zebra/einsteins-riddle/ basic 5min too easy
-    > https://www.brainzilla.com/logic/zebra/painting-class/ painters 15min just right
-    > https://www.brainzilla.com/logic/zebra/rpg-campaign/ rpg 15min hard but theme fits
+- [ ] https://www.brainzilla.com/logic/zebra/einsteins-riddle/
+    > 10 min Zeitlimit
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
@@ -350,12 +348,12 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 25 | 15 | 3 | 3 |
 
-- [ ] Goblin:
+- [x] Goblin:
 
     <img src="./images/goblinhammer.jpg"  width="auto" height="200" />
 
     - Größe: 1.5m, Waffe: big hammer
-    - Fähigkeit: Hammer Wirbel , 20 gg VTD, 3W10 Schaden, in einer Aktion in einer 6m Reihe mit 2m radius allen Schaden, 15 ticks.
+    - Fähigkeit: Hammer Wirbel , 17 gg VTD, 2W10 Schaden, in einer Aktion in einer 6m Reihe mit 2m radius allen Schaden, 15 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 60 | 24 | 3 | 5 |
@@ -469,7 +467,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
       |-------|--------|--------|--------|
       | 15 | 16 | 2 | ? (Abwartefeld) |
 
-- [x] Crucible Knight
+- [ ] Crucible Knight
 
     <img src="images/crucible.jpg_large"  width="auto" height="200" />
 
@@ -522,7 +520,7 @@ Riesige Raupe --> Schmetterling
     - 8 Beine, Panzer unzerstörbar
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 4 | 18 | 1 | ? (Abwartefeld) |
+      | 4 | 15 | 1 | ? (Abwartefeld) |
 
     - Kopf oben
     - | HP | VTD | SR | INI |
@@ -649,15 +647,7 @@ Friede greift die Gruppe an.
 
 - Friede greift direkt an. Hat eine lange Sense.
 - Fähigkeit:
-    - Assassine
-        - unsichtbar, kann nicht angegriffen werden, Abwartefeld für 5 Ticks.
-        - teleportiert sich hinter ein random Ziel, wahrnehmungscheck gegen 25 --> +5vtd --> 20 gg VTD, 4W10 + 4 Schaden.
-        - sensen angriff auf anderes ziel, 2W6 + 4 Schaden, 15 ticks.
-
-    - Frost
-        - Friere Boden ein 5m Radius, 10 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
-        - Gefrorener Boden explodiert nach 8 Ticks, 2W6 Schaden in 5m Radius.
-        
+    - Wird unsichtbar und teleportiert sich, kann nicht angegriffen werden. Auf Abwartefeld. Kurz bevor sie wieder auftaucht, wahrnehmungscheck hören gg. 25 --> 5 VTD /30 --> dodge Assasin Angriff. Folgt mit Sensen Assasinen angriff gegen ein random Ziel, 20 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|

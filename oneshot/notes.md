@@ -143,9 +143,10 @@ Müssen wahrscheinlich begrenzt werden, da sonst zu stark. 1 von jedem pro Spiel
 |1|1mal pro Kampf 1 Wurf von Gegner oder Verbündetem reseten| Stundenglass welches Zeit für ein paar Millisekunden zurücksetzen kann bei Berührung. | <img src="images/hourglass.jpg"  width="auto" height="50" />|
 |2|1mal pro Kampf insta-cast (keine Vorbereitung)|
 |3|Tausch Fokus mit Leben (Max Fokus / 5 Stufen = HP pro Stufe, Fokus = HP*5)|
-|4|Abenteurer erhält doppelten schaden und verteilt doppelten Schaden|
-|5|Magischer Schaden verdoppelt, kein physischer schaden mehr.|
-|6|Blutrausch, -2 Schaden, +1 Schaden für jeden Kill, setzt sich auf 0 wenn Schaden genommen wird.|
+|4|Abenteurer erhält doppelten schaden und verteilt doppelten Schaden| Blauer Kristall der in Waffe einfließt und verstärkt. Verbindet Waffe mit Körper. | <img src="images/doubled.jpg"  width="auto" height="50" />|
+|5|Magischer Schaden verdoppelt, kein physischer schaden mehr.| 
+|6|Blutrausch, -2 Schaden, +1 Schaden für jeden Kill, setzt sich auf 0 wenn Schaden genommen wird.| useless, too late|
+|7|Ring der Schatten| Unsichtbar machen, 2 Ticks zum auslösen, endet bei angriff oder schaden | <img src="images/ringshadow.jpg"  width="auto" height="50" />|
 
 
 **Special:**
@@ -347,16 +348,6 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 5 | 22 | 0 | 6 |
 
-- [ ] Gargoyle:
-
-    <img src="images/gargoyle.png"  width="auto" height="200" />
-
-    - Größe: 2m, Waffe: Klauen und Zähne
-    - Fähigkeit: Feuerbreath, 10 gg VTD, 3W6 Schaden, in einem 5m Radius Umkreis. 10 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 25 | 15 | 3 | 3 |
-
 - [x] Goblin:
 
     <img src="./images/goblinhammer.jpg"  width="auto" height="200" />
@@ -366,6 +357,17 @@ Beschreibt und leitet Rätsel.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 60 | 24 | 3 | 5 |
+
+- [ ] Gargoyle:
+
+    <img src="images/gargoyle.png"  width="auto" height="200" />
+
+    - Größe: 2m, Waffe: Klauen und Zähne
+    - Fähigkeit: Feuerbreath, 15 gg VTD, 3W6 Schaden, in einem 5m Radius Umkreis. 10 ticks.
+    - Fähigkeit: Schwanzstich, 15 gg VTD, 2W6 Schaden und Blutend 3. 8 Ticks.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 25 | 15 | 3 | 3 |
 
 - [ ] Mimic Chest (dark souls):
     
@@ -377,33 +379,15 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 40 | 25 | 3 | ? |
 
-- [ ] Giftiger Dämon:
-  - Größe: 1,5m, Waffe: Giftige Klauen
-    - Fähigkeit: Giftiger Biss, 25 gg VTD, 3W8 Schaden und Giftstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 20 | 20 | 2 | 3 |
+- [ ] Blinder Wurm in Erde
 
-- [ ] Feuerdrache:
-  - Größe: 4m, Waffe: Feueratem
-    - Fähigkeit: Feuerstoß, 30 gg VTD, 6W6 Schaden und Feuerstatus. 15 ticks Verzögerung wenn getroffen. 20 ticks.
+    - Extrem heller Raum, geblendet 4, -8 auf alle Kampffähigkeiten
+    - Boden ist aus Sand, wie Wüste
+    - wahrnehmungscheck sehen gg. 25, +5 auf Kampffähigkeiten
+    - Fähigkeit: Würgegriff 15 gg VTD, 3W6+5 Schaden und Liegend. 10 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 20 | 25 | 4 | 4 |
-
-- [ ] Eiszauberin:
-  - Größe: 1,7m, Waffe: Eisstab
-    - Fähigkeit: Eisblitz, 25 gg VTD, 4W6 Schaden und Eisstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 15 | 25 | 1 | 3 |
-
-- [ ] Blitzdämon:
-  - Größe: 2m, Waffe: Blitzschwert
-    - Fähigkeit: Blitzschlag, 20 gg VTD, 5W6 Schaden und Blitzstatus. 5 ticks Verzögerung wenn getroffen. 10 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 20 | 25 | 2 | 3 |
+      | 40 | 25 | 2 | ? |
 
 ### Fähigkeiten Checks
 

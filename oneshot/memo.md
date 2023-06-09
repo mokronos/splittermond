@@ -60,3 +60,5 @@ rooms
         - 0 hp links unten
         - 0 hp links oben
         - 0 hp
+
+!!! finish story before final boss

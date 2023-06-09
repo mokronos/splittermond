@@ -211,10 +211,15 @@ Beschreibt und leitet Rätsel.
     > anderen beiden Türen führen in neue Räume, falls ein Abenteurer in neuen Raum geht, bewirken angriffe nichts mehr  
     > es ist möglich zur zweiten Tür zu wechseln, oder wieder zurück, falls erste noch nicht betreten wurde  
 
-- [ ] Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
+- [x] Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
     > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
     > Wenn Knopf wieder gedrückt wird --> Countdown reset  
     > Wenn Countdown 0 --> Tür öffnet sich  
+
+- [x] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
+    > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
+    > wenn sie es schaffen, öffnet sich die Tür
+    > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
 - [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
     > neben Schlössern steht entweder "öffnen" oder "schließen" in verschiedenen Sprachen (immer abwechselnd offen, geschlossen, offen, ...)  
@@ -229,11 +234,6 @@ Beschreibt und leitet Rätsel.
     > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
     > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
 
-- [x] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
-    > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
-    > wenn sie es schaffen, öffnet sich die Tür
-    > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
-
 - [ ] Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
     <img src="images/fountain.jpg"  width="auto" height="200" />
     > 20 HP können verteilt werden. Equivalent zur Menge an Wasser.
@@ -241,6 +241,15 @@ Beschreibt und leitet Rätsel.
 
 - [ ] https://www.brainzilla.com/logic/zebra/einsteins-riddle/
     > 10 min Zeitlimit
+
+- [ ] Zahlenreihe
+    > 1,2,4
+    > Können 3 mal neue 3x Zahlenreihen eintragen und checken
+    > sagt einem ob die Reihe der Regel folgt
+    > Regel ist, dass die darauffolgende Zahl größer ist als die vorherige sein muss
+    > Haben 3 Versuche die Regel nach der die Reihe aufgebaut ist zu erraten
+    > Wenn sie es schaffen, öffnet sich die Tür
+    > Wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
@@ -449,7 +458,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
 
 - [ ] Bewohner der gemalten Welt streiten. Müssen überzeugt werden sich nicht umzubringen.
     > haben Ewigkeiten miteinander zusammen gelebt, ihnen ist langweilig
-    > sind aber eifersüchtig Dinge mit anderen leuten auszuprobieren
+    > sind aber eifersüchtig Dinge mit anderen Leuten auszuprobieren
 
 ### Mini-Bosse
 
@@ -467,7 +476,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
       |-------|--------|--------|--------|
       | 15 | 16 | 2 | ? (Abwartefeld) |
 
-- [ ] Crucible Knight
+- [x] Crucible Knight
 
     <img src="images/crucible.jpg_large"  width="auto" height="200" />
 
@@ -561,13 +570,13 @@ Ariandel ist ein Bewohner, Vater der Kirche und wird von Friede überzeugt mit s
 |---|---|---|
 | x | Schriftrolle | Ich male diese Welt, um vor der Grausamkeit der Realität zu schützen.|
 | x| Schriftrolle | Selbst die gemalte Welt zerfällt irgendwann.|
-|  | Schriftrolle/Gael | Das Feuer erneuert die Welt, damit die Bewohner in eine neue Welt umziehen können.|
+|  | Schriftrolle/Gael | Das Feuer reinigt die Welt, um ihren Bewohnern einen Neuanfang zu ermöglichen. |
 | x| Gemälde | Welt von Ariandel.|
 |  | Schriftrolle/Gael | Gael ist (Ich bin) der Hüter des natürlichen Zyklus.|
 | x| Gael | Ich brauche eure Hilfe um Feuer zu entfachen.|
-| x| Schriftrolle/Friede |Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
+| x| Schriftrolle/Friede | Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
 |  | Schriftrolle/Friede | Sie ist müde von der andauernden Veränderung.|
-|  | Schriftrolle/Friede | Lügt: Die Bewohner der jetztigen Welt würden durch das Feuer sterben.|
+|  | Schriftrolle/Friede | Lügt: Das Feuer würde die Bewohner dieser Welt verzehren, ihre Leben in Flammen aufgehen lassen|
 | x | Schriftrolle |Ariandel ist ein Bewohner, Vater der Kirche |
 |  | Schriftrolle | Ariandel wurde von Friede überzeugt, das Feuer mit seinem Blut aufzuhalten.
 | x | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
@@ -641,46 +650,115 @@ Friede bittet Ariandel seine Augen zu schließen, um den Anblick des Kampfes zu 
 Friede greift die Gruppe an.
 #### Kampf
 
+Generell:
+- Spieler müssen versuchen ihre Ticks so zu manipulieren dass sie kurz nach Friede dran sind, um evtl auf Angriffe reagieren zu können
+- Viele Angriffe sollten 3 Ticks Vorlauf haben, damit Spieler reagieren können (visuell oder ton)
+
 1. Normale Friede
 
 <img src="images/friede.jpg"  width="auto" height="200" />
 
 - Friede greift direkt an. Hat eine lange Sense.
-- Fähigkeit:
-    - Wird unsichtbar und teleportiert sich, kann nicht angegriffen werden. Auf Abwartefeld. Kurz bevor sie wieder auftaucht, wahrnehmungscheck hören gg. 25 --> 5 VTD /30 --> dodge Assasin Angriff. Folgt mit Sensen Assasinen angriff gegen ein random Ziel, 20 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
+
+- Assassinen Fähigkeit:
+    - 3 Ticks, wird unsichtbar und teleportiert sich, kann nicht angegriffen werden
+    - wahrnehmungscheck hören gg. 25 --> 5 VTD
+    - Assasinen Angriff 2W10+25 gg VTD, 4W10+5 Schaden
+    - 2 Ticks
+    - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 4W6+4 Schaden
+    - 5 Ticks.
+- Frost Angriff:
+    - Springt in luft und Friert Boden ein
+    - Muster:
+      oox
+      oxx
+      xxx
+      oxx
+      oox
+    - 20 gg VTD, 2W6+3 Schaden
+    - Verlangsamt, nächsten 2 Aktionen +5 Ticks
+    - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
+    - 7 Ticks
+
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | 40 | 30 | 2 | ? (Abwartefeld) |
+  | 50 | 30 | 2 | ? (Abwartefeld) |
 
 Als das Blut von Friede in den Behälter mit dem Feuer fließt, öffnet Vater Ariandel seine Augen.
-Der Anblick ihres Leichnams erzürnt ihn, wodurch er sich befreit und den Behälter gegen ihr ungezündetes Blut schlägt, um die Flamme zu entzünden und sie dadurch wiederzubeleben (vllcht bessere Erklärung wie Feuer wiederbelebt).
+Der Anblick ihres Leichnams erzürnt ihn, wodurch er sich von ketten befreit und den Behälter gegen ihr ungezündetes Blut schlägt, um die Flamme zu entzünden und sie dadurch wiederzubeleben (vllcht bessere Erklärung wie Feuer wiederbelebt).
 Jetzt wieder entfacht, kehrt sie aus dem Tod zurück, um an seiner Seite zu kämpfen.
+
+Maybe show cutscene from ds3
 
 2. Friede mit Vater
 
 <img src="images/friedefather.jpg"  width="auto" height="200" /> <img src="images/friedewithfather.jpg"  width="auto" height="200" />
 
 - Friede
-- | HP | VTD | SR | INI |
-  |-------|--------|--------|--------|
-  | 40 | 30 | 2 | ? (Abwartefeld) |
+- gleiche Fähigkeiten wie Phase 1
 
 - Vater
+- Kelch Fähigkeit:
+    - Schlägt mit Kelch auf den Boden und macht Feuerschaden im Umkreis von 2 Feldern (3x3) um Feld vor ihm.
+    - Mitte: 2W10+25 gg VTD, 4W6+10
+    - Rand: 2W10+20 gg VTD, 3W6+2
+    - Bewegt sich 1 Feld vorwärts, alle 2 Ticks. Bis zu 3mal hintereinander.
+- Feuer Atem:
+    - Schießt Feuerstrahl
+    - 2W10+17 gg VTD, 3W6+5
+    - 6 Ticks
+- Lava Regen:
+    - kippt Kelch um und lässt Lava auf den Boden fließen
+    - Lava macht 2W6 Schaden alle 3 Ticks, hält 9 Ticks an (oder brennend 2/3?)
+    - Breitet sich 1 Feld (nicht diagonal) pro 3 Ticks aus
+
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | kombiniert mit Friede | 30 | 2 | ? (Abwartefeld) |
+  | kombiniert mit Friede,70 | 25 | 4 | ? (Abwartefeld) |
 
-Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feuer schwarz mit dem Dunklen in einem letzten Kampf.
+Möglichkeit Vater Ariandel zu überzeugen, dass Friede schlechtes im Sinn hat.
+Kann dann in Phase 2 mit gegen Friede kämpfen.
+Phase 3 wird er dann von Friede getötet als sie aufersteht.
 
+Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feuer schwarz in einem letzten Kampf.
 
 3. Darkflame Friede
 
 <img src="images/friedeblack.jpg"  width="auto" height="200" />
 
+- Schwarze Flamme AoE:
+    - 3 Ticks Vorlauf, erhebt sich und fokussiert dunkle Energie (schaut auf einen Spieler)
+    - macht großen AoE auf Spieler
+    - 4m Umkreis um Ziel
+    - 2W10+20 gg VTD, 4W6+10
+    - danach zielführende kleine Flammen auf alle Spieler
+    - 2W10+15 gg VTD, 1W10
+    - 7 Ticks
+- Frost Aoe:
+    - Springt in Luft und friert Boden ein
+    - Teppich muster bis ende des Raumes (trennt Raum)
+    - 20 gg VTD, 2W6+3 Schaden
+    - Verlangsamt, nächsten 2 Aktionen +5 Ticks
+    - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
+    - 7 Ticks
+- Guillotine:
+    - Sichel leuchtet blau auf, 3 Ticks
+    - Dash auf meist geschwächten Spieler
+    - Spieler können versuchen das Opfer zu schützen, indem sie sich vor ihn stellen oder
+    zum ausweichen bereit machen (+5 VTD, 1 Tick)
+    - 2W10+20 gg VTD, 4W6+10
+    - 7 Ticks
+- Heilung:
+    - 3 Ticks Vorbereitung, schwarze Flamme unter Friede wird größer
+    - Heilt sich selbst und schleudert alle Spieler weg mit schwarzer Flamme
+    - Spieler in 2m Umkreis haben liegend 2 Status
+    - 2W10+5 Heilung
+    - 4 Ticks
+
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | 50 | 35 | 2 | ? (Abwartefeld) |
+  | 70 | 32 | 3 | ? (Abwartefeld) |
 
 Flammen brennen die Welt nieder und Gruppe wird bewusstlos und wachen an dem großen Tisch auf.
 

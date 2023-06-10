@@ -634,36 +634,38 @@ Friede bittet Ariandel seine Augen zu schließen, um den Anblick des Kampfes zu 
 Friede greift die Gruppe an.
 #### Kampf
 
-Generell:
+##### 0. Generell:
 - Spieler müssen versuchen ihre Ticks so zu manipulieren dass sie kurz nach Friede dran sind, um evtl auf Angriffe reagieren zu können
 - Viele Angriffe sollten 3 Ticks Vorlauf haben, damit Spieler reagieren können (visuell oder ton)
 
-1. Normale Friede
+##### 1. Friede
 
 <img src="images/friede.jpg"  width="auto" height="200" />
 
 - Friede greift direkt an. Hat eine lange Sense.
 
-- Assassinen Fähigkeit:
-    - 3 Ticks, wird unsichtbar und teleportiert sich, kann nicht angegriffen werden
-    - wahrnehmungscheck hören gg. 25 --> 5 VTD
-    - Assasinen Angriff 2W10+25 gg VTD, 4W10+5 Schaden
-    - 2 Ticks
-    - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 4W6+4 Schaden
-    - 5 Ticks.
-- Frost Angriff:
-    - Springt in luft und Friert Boden ein
-    - Muster:
-      oox
-      oxx
-      xxx
-      oxx
-      oox
-    - 20 gg VTD, 2W6+3 Schaden
-    - Verlangsamt, nächsten 2 Aktionen +5 Ticks
-    - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
-    - 7 Ticks
-
+- Fähigkeiten:
+    - Assassinen Fähigkeit:
+        - 3 Ticks, wird unsichtbar und teleportiert sich, kann nicht angegriffen werden
+        - wahrnehmungscheck hören gg. 25 --> 5 VTD
+        - Assasinen Angriff 2W10+25 gg VTD, 4W10+5 Schaden
+        - 2 Ticks
+        - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 4W6+4 Schaden
+        - 5 Ticks.
+    - Frost Angriff:
+        - Springt in luft und Friert Boden ein
+        - Muster:  
+          ooox  
+          ooxx  
+          oxxx  
+          xxxx  
+          oxxx  
+          ooxx  
+          ooox
+        - 20 gg VTD, 2W6+3 Schaden
+        - Verlangsamt, nächsten 2 Aktionen +5 Ticks
+        - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
+        - 7 Ticks
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
@@ -675,31 +677,32 @@ Jetzt wieder entfacht, kehrt sie aus dem Tod zurück, um an seiner Seite zu käm
 
 Maybe show cutscene from ds3
 
-2. Friede mit Vater
+##### 2. Friede mit Vater
 
 <img src="images/friedefather.jpg"  width="auto" height="200" /> <img src="images/friedewithfather.jpg"  width="auto" height="200" />
 
 - Friede
-- gleiche Fähigkeiten wie Phase 1
+    - gleiche Fähigkeiten wie Phase 1
 
 - Vater
-- Kelch Fähigkeit:
-    - Schlägt mit Kelch auf den Boden und macht Feuerschaden im Umkreis von 2 Feldern (3x3) um Feld vor ihm.
-    - Mitte: 2W10+25 gg VTD, 4W6+10
-    - Rand: 2W10+20 gg VTD, 3W6+2
-    - Bewegt sich 1 Feld vorwärts, alle 2 Ticks. Bis zu 3mal hintereinander.
-- Feuer Atem:
-    - Schießt Feuerstrahl
-    - 2W10+17 gg VTD, 3W6+5
-    - 6 Ticks
-- Lava Regen:
-    - kippt Kelch um und lässt Lava auf den Boden fließen
-    - Lava macht 2W6 Schaden alle 3 Ticks, hält 9 Ticks an (oder brennend 2/3?)
-    - Breitet sich 1 Feld (nicht diagonal) pro 3 Ticks aus
+    - Fähigkeiten:
+        - Kelch Fähigkeit:
+            - Schlägt mit Kelch auf den Boden und macht Feuerschaden im Umkreis von 2 Feldern (3x3) um Feld vor ihm.
+            - Mitte: 2W10+25 gg VTD, 4W6+10
+            - Rand: 2W10+20 gg VTD, 3W6+2
+            - Bewegt sich 1 Feld vorwärts, alle 2 Ticks. Bis zu 3mal hintereinander.
+        - Feuer Atem:
+            - Schießt Feuerstrahl
+            - 2W10+17 gg VTD, 3W6+5
+            - 6 Ticks
+        - Lava Regen:
+            - kippt Kelch um und lässt Lava auf den Boden fließen
+            - Lava macht 2W6 Schaden alle 3 Ticks, hält 9 Ticks an (oder brennend 2/3?)
+            - Breitet sich 1 Feld (nicht diagonal) pro 3 Ticks aus
 
-- | HP | VTD | SR | INI |
-  |-------|--------|--------|--------|
-  | kombiniert mit Friede,70 | 25 | 4 | ? (Abwartefeld) |
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | kombiniert mit Friede,70 | 25 | 4 | ? (Abwartefeld) |
 
 Möglichkeit Vater Ariandel zu überzeugen, dass Friede schlechtes im Sinn hat.
 Kann dann in Phase 2 mit gegen Friede kämpfen.
@@ -707,7 +710,7 @@ Phase 3 wird er dann von Friede getötet als sie aufersteht.
 
 Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feuer schwarz in einem letzten Kampf.
 
-3. Darkflame Friede
+##### 3. Darkflame Friede
 
 <img src="images/friedeblack.jpg"  width="auto" height="200" />
 
@@ -728,7 +731,7 @@ Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feue
     - 7 Ticks
 - Guillotine:
     - Sichel leuchtet blau auf, 3 Ticks
-    - Dash auf meist geschwächten Spieler
+    - Dash auf meist geschwächten Spieler und spiest ihn auf
     - Spieler können versuchen das Opfer zu schützen, indem sie sich vor ihn stellen oder
     zum ausweichen bereit machen (+5 VTD, 1 Tick)
     - 2W10+20 gg VTD, 4W6+10
@@ -748,9 +751,8 @@ Flammen brennen die Welt nieder und Gruppe wird bewusstlos und wachen an dem gro
 
 ## Ende
 
-Nach Finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
+Nach finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  
 Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum durch magisches Portal.  
-Oder weckt sie auf.
 Charaktere erinnern sich nicht an die Details der ganzen Ereignisse, aber sie haben das Gefühl, dass sie trotzdem etwas mitgenommen haben (haben unterbewusst Erfahrung gewonnen, aber kennen nicht die ganzen Kreaturen).
 --> Ende

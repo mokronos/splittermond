@@ -231,9 +231,13 @@ Beschreibt und leitet Rätsel.
 
 - [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
  Über Ausgangsrichtung ist großes Gesicht mit grüner Zunge, "Gift läuft im Mund zusammen" und streckt Ärmchen nach Gift Flasche in Mitte des Raumes aus
+
+    <img src="images/poisonbottle.avif"  width="auto" height="200" />
+
     > Ziel: Gesicht die Flasche reichen --> trinkt Gift, Türen erscheinen  
-    > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
-    > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
+    > falls Abenteurer die Flasche berühren, (Entschlossenheit+GW)/2 gegen 25, sonst sind sie gezwungen aus ihr zu trinken 2W4 Schaden alle 5 Sekunden
+    > andere Abenteurer können die Flasche entreißen (Stärke + 1W6 gegeneinander)
+    > wenn (Entschlossenheit+GW)/2 probe gegen 28 geschafft, können sie die Flasche dem Gesicht reichen
 
 - [ ] Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
     <img src="images/fountain.jpg"  width="auto" height="200" />
@@ -427,11 +431,6 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > Scheitern bedeutet, dass Abenteurer möglicherweise giftige Pflanzen essen
     > giftige, 2W6 Schaden bei Eintritt in die nächsten 3 Räume
 
-- [ ] Sehr stabile Kiste mit 3 Vorhängeschlössern
-    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
-    > Belohnung des Raumes in Kiste
-    > Tür geht auf wenn Kiste geöffnet
-
 - [x] Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
     > Schlüssel können in der Mitte des Raumes eingesetzt werden, mit kleinen Schildchen mit jeweils Namen der Stadt
     > Stadt Identifizierung: gg. 30 Straßenkunde/Länderkunde mit Hilfe, bei jeder Karte ein mal
@@ -439,6 +438,11 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > muss alle 10 Schlüssel richtig einführen
     > falscher Schlüssel in Schloss, 2W10 Schock Schaden für Abenteurer der den Schlüssel einführt
     > wenn richtig --> Tür öffnet sich
+
+- [ ] Sehr stabile Kiste mit 3 Vorhängeschlössern
+    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
+    > Belohnung des Raumes in Kiste
+    > Tür geht auf wenn Kiste geöffnet
 
 - [ ] Bewohner der gemalten Welt streiten. Müssen überzeugt werden sich nicht umzubringen.
     > haben Ewigkeiten miteinander zusammen gelebt, ihnen ist langweilig

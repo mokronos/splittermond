@@ -566,6 +566,8 @@ Ariandel ist ein Bewohner, Vater der Kirche und wird von Friede überzeugt mit s
 | x | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
 
 ##### Friede
+<img src="images/friedesitting.jpg"  width="auto" height="200" />
+
 ###### Hintergrund
 Ordensschwester der Kirche in der gemalten Welt von Ariandel. Hat mehrere Zyklen von verrotteten und neu gemalten Welten durchlebt.
 Friede ist die Älteste der drei Schwestern, die die schwarze Kirche von Londor gründeten, die anderen sind Yuria und Liliane.

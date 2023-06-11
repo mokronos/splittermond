@@ -143,9 +143,10 @@ Müssen wahrscheinlich begrenzt werden, da sonst zu stark. 1 von jedem pro Spiel
 |1|1mal pro Kampf 1 Wurf von Gegner oder Verbündetem reseten| Stundenglass welches Zeit für ein paar Millisekunden zurücksetzen kann bei Berührung. | <img src="images/hourglass.jpg"  width="auto" height="50" />|
 |2|1mal pro Kampf insta-cast (keine Vorbereitung)|
 |3|Tausch Fokus mit Leben (Max Fokus / 5 Stufen = HP pro Stufe, Fokus = HP*5)|
-|4|Abenteurer erhält doppelten schaden und verteilt doppelten Schaden|
-|5|Magischer Schaden verdoppelt, kein physischer schaden mehr.|
-|6|Blutrausch, -2 Schaden, +1 Schaden für jeden Kill, setzt sich auf 0 wenn Schaden genommen wird.|
+|4|Abenteurer erhält doppelten schaden und verteilt doppelten Schaden| Blauer Kristall der in Waffe einfließt und verstärkt. Verbindet Waffe mit Körper. | <img src="images/doubled.jpg"  width="auto" height="50" />|
+|5|Magischer Schaden verdoppelt, kein physischer schaden mehr.| 
+|6|Blutrausch, -2 Schaden, +1 Schaden für jeden Kill, setzt sich auf 0 wenn Schaden genommen wird.| useless, too late|
+|7|Ring der Schatten| Unsichtbar machen, 2 Ticks zum auslösen, endet bei angriff oder schaden | <img src="images/ringshadow.jpg"  width="auto" height="50" />|
 
 
 **Special:**
@@ -211,10 +212,15 @@ Beschreibt und leitet Rätsel.
     > anderen beiden Türen führen in neue Räume, falls ein Abenteurer in neuen Raum geht, bewirken angriffe nichts mehr  
     > es ist möglich zur zweiten Tür zu wechseln, oder wieder zurück, falls erste noch nicht betreten wurde  
 
-- [ ] Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
+- [x] Knopf aus Stein in Mitte und mysteriösen Symbolen an Wänden (einzelne Zeichen, kein Kontext ausmachbar)
     > Drücke Knopf --> Roter Countdown läuft an Wänden mit magischer Nummer von 10s und piept laut nach jeder Sekunde  
     > Wenn Knopf wieder gedrückt wird --> Countdown reset  
     > Wenn Countdown 0 --> Tür öffnet sich  
+
+- [x] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
+    > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
+    > wenn sie es schaffen, öffnet sich die Tür
+    > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
 - [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
     > neben Schlössern steht entweder "öffnen" oder "schließen" in verschiedenen Sprachen (immer abwechselnd offen, geschlossen, offen, ...)  
@@ -225,14 +231,13 @@ Beschreibt und leitet Rätsel.
 
 - [ ] Raum mit großem Tresor mit 5 Schlössern und einem Großen Rad zum öffnen
  Über Ausgangsrichtung ist großes Gesicht mit grüner Zunge, "Gift läuft im Mund zusammen" und streckt Ärmchen nach Gift Flasche in Mitte des Raumes aus
-    > Ziel: Gesicht die Flasche reichen --> trinkt Gift, Türen erscheinen  
-    > falls Abenteurer die Flasche mit Haut berühren, sind sie gezwungen aus ihr zu trinken 7W4 Schaden  
-    > andere Abenteurer können die Flasche entreißen (falls mit Haut --> gleicher Schaden)  
 
-- [x] Es wird Musik (einfache Melodie) gespielt mit 4 verschiedenen Instrumenten (Trompete, Klavier, Violine, Saxophon). Es liegen eine Gitarre und ein Schlagzeug im Raum.
-    > Abenteurer müssen die gleiche Melodie auf den 2 Instrumenten im selben Rythmus spielen wie die Instrumente
-    > wenn sie es schaffen, öffnet sich die Tür
-    > wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
+    <img src="images/poisonbottle.avif"  width="auto" height="200" />
+
+    > Ziel: Gesicht die Flasche reichen --> trinkt Gift, Türen erscheinen  
+    > falls Abenteurer die Flasche berühren, (Entschlossenheit+GW)/2 gegen 25, sonst sind sie gezwungen aus ihr zu trinken 2W4 Schaden alle 5 Sekunden
+    > andere Abenteurer können die Flasche entreißen (Stärke + 1W6 gegeneinander)
+    > wenn (Entschlossenheit+GW)/2 probe gegen 28 geschafft, können sie die Flasche dem Gesicht reichen
 
 - [ ] Heilraum, Quelle mit klarem Wasser. Relativ offensichtlich dass es OK zu trinken ist.
     <img src="images/fountain.jpg"  width="auto" height="200" />
@@ -241,6 +246,15 @@ Beschreibt und leitet Rätsel.
 
 - [ ] https://www.brainzilla.com/logic/zebra/einsteins-riddle/
     > 10 min Zeitlimit
+
+- [ ] Zahlenreihe
+    > 1,2,4
+    > Können 3 mal neue 3x Zahlenreihen eintragen und checken
+    > sagt einem ob die Reihe der Regel folgt
+    > Regel ist, dass die darauffolgende Zahl größer ist als die vorherige sein muss
+    > Haben 3 Versuche die Regel nach der die Reihe aufgebaut ist zu erraten
+    > Wenn sie es schaffen, öffnet sich die Tür
+    > Wenn sie es nicht schaffen, 2W10 Schaden für alle Abenteurer
 
 - simon says
 - Huhn, Fuchs und Sack mit Getreide vielleicht mit Zeitlimit
@@ -338,16 +352,6 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 5 | 22 | 0 | 6 |
 
-- [ ] Gargoyle:
-
-    <img src="images/gargoyle.png"  width="auto" height="200" />
-
-    - Größe: 2m, Waffe: Klauen und Zähne
-    - Fähigkeit: Feuerbreath, 10 gg VTD, 3W6 Schaden, in einem 5m Radius Umkreis. 10 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 25 | 15 | 3 | 3 |
-
 - [x] Goblin:
 
     <img src="./images/goblinhammer.jpg"  width="auto" height="200" />
@@ -357,6 +361,17 @@ Beschreibt und leitet Rätsel.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
       | 60 | 24 | 3 | 5 |
+
+- [ ] Gargoyle:
+
+    <img src="images/gargoyle.png"  width="auto" height="200" />
+
+    - Größe: 2m, Waffe: Klauen und Zähne
+    - Fähigkeit: Feuerbreath, 15 gg VTD, 3W6 Schaden, in einem 5m Radius Umkreis. 10 ticks.
+    - Fähigkeit: Schwanzstich, 15 gg VTD, 2W6 Schaden und Blutend 3. 8 Ticks.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | 25 | 15 | 3 | 3 |
 
 - [ ] Mimic Chest (dark souls):
     
@@ -368,33 +383,15 @@ Beschreibt und leitet Rätsel.
       |-------|--------|--------|--------|
       | 40 | 25 | 3 | ? |
 
-- [ ] Giftiger Dämon:
-  - Größe: 1,5m, Waffe: Giftige Klauen
-    - Fähigkeit: Giftiger Biss, 25 gg VTD, 3W8 Schaden und Giftstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 20 | 20 | 2 | 3 |
+- [ ] Blinder Wurm in Erde
 
-- [ ] Feuerdrache:
-  - Größe: 4m, Waffe: Feueratem
-    - Fähigkeit: Feuerstoß, 30 gg VTD, 6W6 Schaden und Feuerstatus. 15 ticks Verzögerung wenn getroffen. 20 ticks.
+    - Extrem heller Raum, geblendet 4, -8 auf alle Kampffähigkeiten
+    - Boden ist aus Sand, wie Wüste
+    - wahrnehmungscheck sehen gg. 25, +5 auf Kampffähigkeiten
+    - Fähigkeit: Würgegriff 15 gg VTD, 3W6+5 Schaden und Liegend. 10 ticks.
     - | HP | VTD | SR | INI |
       |-------|--------|--------|--------|
-      | 20 | 25 | 4 | 4 |
-
-- [ ] Eiszauberin:
-  - Größe: 1,7m, Waffe: Eisstab
-    - Fähigkeit: Eisblitz, 25 gg VTD, 4W6 Schaden und Eisstatus. 10 ticks Verzögerung wenn getroffen. 15 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 15 | 25 | 1 | 3 |
-
-- [ ] Blitzdämon:
-  - Größe: 2m, Waffe: Blitzschwert
-    - Fähigkeit: Blitzschlag, 20 gg VTD, 5W6 Schaden und Blitzstatus. 5 ticks Verzögerung wenn getroffen. 10 ticks.
-    - | HP | VTD | SR | INI |
-      |-------|--------|--------|--------|
-      | 20 | 25 | 2 | 3 |
+      | 40 | 25 | 2 | ? |
 
 ### Fähigkeiten Checks
 
@@ -434,11 +431,6 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > Scheitern bedeutet, dass Abenteurer möglicherweise giftige Pflanzen essen
     > giftige, 2W6 Schaden bei Eintritt in die nächsten 3 Räume
 
-- [ ] Sehr stabile Kiste mit 3 Vorhängeschlössern
-    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
-    > Belohnung des Raumes in Kiste
-    > Tür geht auf wenn Kiste geöffnet
-
 - [x] Raum mit 10 Tischen mit Stadtkarten. Haben einen Schlüssel auf jedem Tisch.
     > Schlüssel können in der Mitte des Raumes eingesetzt werden, mit kleinen Schildchen mit jeweils Namen der Stadt
     > Stadt Identifizierung: gg. 30 Straßenkunde/Länderkunde mit Hilfe, bei jeder Karte ein mal
@@ -447,9 +439,14 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
     > falscher Schlüssel in Schloss, 2W10 Schock Schaden für Abenteurer der den Schlüssel einführt
     > wenn richtig --> Tür öffnet sich
 
+- [ ] Sehr stabile Kiste mit 3 Vorhängeschlössern
+    > Check gegen 30/25(mit 1 Schlüssel)/20(mit 2 Schlüsseln) (Hauptprobe + Hilfe) Schlösser und Fallen oder 30 Stärke + 1W6 von allen
+    > Belohnung des Raumes in Kiste
+    > Tür geht auf wenn Kiste geöffnet
+
 - [ ] Bewohner der gemalten Welt streiten. Müssen überzeugt werden sich nicht umzubringen.
     > haben Ewigkeiten miteinander zusammen gelebt, ihnen ist langweilig
-    > sind aber eifersüchtig Dinge mit anderen leuten auszuprobieren
+    > sind aber eifersüchtig Dinge mit anderen Leuten auszuprobieren
 
 ### Mini-Bosse
 
@@ -467,7 +464,7 @@ Kann in jedem Raum alternativ Hand in Wand stecken um Hebel zu betätigen. Man b
       |-------|--------|--------|--------|
       | 15 | 16 | 2 | ? (Abwartefeld) |
 
-- [ ] Crucible Knight
+- [x] Crucible Knight
 
     <img src="images/crucible.jpg_large"  width="auto" height="200" />
 
@@ -561,18 +558,20 @@ Ariandel ist ein Bewohner, Vater der Kirche und wird von Friede überzeugt mit s
 |---|---|---|
 | x | Schriftrolle | Ich male diese Welt, um vor der Grausamkeit der Realität zu schützen.|
 | x| Schriftrolle | Selbst die gemalte Welt zerfällt irgendwann.|
-|  | Schriftrolle/Gael | Das Feuer erneuert die Welt, damit die Bewohner in eine neue Welt umziehen können.|
+|  | Schriftrolle/Gael | Das Feuer reinigt die Welt, um ihren Bewohnern einen Neuanfang zu ermöglichen. |
 | x| Gemälde | Welt von Ariandel.|
 |  | Schriftrolle/Gael | Gael ist (Ich bin) der Hüter des natürlichen Zyklus.|
 | x| Gael | Ich brauche eure Hilfe um Feuer zu entfachen.|
-| x| Schriftrolle/Friede |Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
+| x| Schriftrolle/Friede | Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
 |  | Schriftrolle/Friede | Sie ist müde von der andauernden Veränderung.|
-|  | Schriftrolle/Friede | Lügt: Die Bewohner der jetztigen Welt würden durch das Feuer sterben.|
+|  | Schriftrolle/Friede | Lügt: Das Feuer würde die Bewohner dieser Welt verzehren, ihre Leben in Flammen aufgehen lassen|
 | x | Schriftrolle |Ariandel ist ein Bewohner, Vater der Kirche |
 |  | Schriftrolle | Ariandel wurde von Friede überzeugt, das Feuer mit seinem Blut aufzuhalten.
 | x | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
 
 ##### Friede
+<img src="images/friedesitting.jpg"  width="auto" height="200" />
+
 ###### Hintergrund
 Ordensschwester der Kirche in der gemalten Welt von Ariandel. Hat mehrere Zyklen von verrotteten und neu gemalten Welten durchlebt.
 Friede ist die Älteste der drei Schwestern, die die schwarze Kirche von Londor gründeten, die anderen sind Yuria und Liliane.
@@ -641,54 +640,125 @@ Friede bittet Ariandel seine Augen zu schließen, um den Anblick des Kampfes zu 
 Friede greift die Gruppe an.
 #### Kampf
 
-1. Normale Friede
+##### 0. Generell:
+- Spieler müssen versuchen ihre Ticks so zu manipulieren dass sie kurz nach Friede dran sind, um evtl auf Angriffe reagieren zu können
+- Viele Angriffe sollten 3 Ticks Vorlauf haben, damit Spieler reagieren können (visuell oder ton)
+
+##### 1. Friede
 
 <img src="images/friede.jpg"  width="auto" height="200" />
 
 - Friede greift direkt an. Hat eine lange Sense.
-- Fähigkeit:
-    - Wird unsichtbar und teleportiert sich, kann nicht angegriffen werden. Auf Abwartefeld. Kurz bevor sie wieder auftaucht, wahrnehmungscheck hören gg. 25 --> 5 VTD /30 --> dodge Assasin Angriff. Folgt mit Sensen Assasinen angriff gegen ein random Ziel, 20 gg VTD, 4W10 + 4 Schaden, alle 10 Ticks.
+
+- Fähigkeiten:
+    - Assassinen Fähigkeit:
+        - 3 Ticks, wird unsichtbar und teleportiert sich, kann nicht angegriffen werden
+        - wahrnehmungscheck hören gg. 25 --> 5 VTD
+        - Assasinen Angriff 2W10+25 gg VTD, 4W10+5 Schaden
+        - 2 Ticks
+        - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 4W6+4 Schaden
+        - 5 Ticks.
+    - Frost Angriff:
+        - Springt in luft und Friert Boden ein
+        - Muster:  
+          ooox  
+          ooxx  
+          oxxx  
+          xxxx  
+          oxxx  
+          ooxx  
+          ooox
+        - 20 gg VTD, 2W6+3 Schaden
+        - Verlangsamt, nächsten 2 Aktionen +5 Ticks
+        - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
+        - 7 Ticks
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | 40 | 30 | 2 | ? (Abwartefeld) |
+  | 50 | 30 | 2 | ? (Abwartefeld) |
 
 Als das Blut von Friede in den Behälter mit dem Feuer fließt, öffnet Vater Ariandel seine Augen.
-Der Anblick ihres Leichnams erzürnt ihn, wodurch er sich befreit und den Behälter gegen ihr ungezündetes Blut schlägt, um die Flamme zu entzünden und sie dadurch wiederzubeleben (vllcht bessere Erklärung wie Feuer wiederbelebt).
+Der Anblick ihres Leichnams erzürnt ihn, wodurch er sich von ketten befreit und den Behälter gegen ihr ungezündetes Blut schlägt, um die Flamme zu entzünden und sie dadurch wiederzubeleben (vllcht bessere Erklärung wie Feuer wiederbelebt).
 Jetzt wieder entfacht, kehrt sie aus dem Tod zurück, um an seiner Seite zu kämpfen.
 
-2. Friede mit Vater
+Maybe show cutscene from ds3
+
+##### 2. Friede mit Vater
 
 <img src="images/friedefather.jpg"  width="auto" height="200" /> <img src="images/friedewithfather.jpg"  width="auto" height="200" />
 
 - Friede
-- | HP | VTD | SR | INI |
-  |-------|--------|--------|--------|
-  | 40 | 30 | 2 | ? (Abwartefeld) |
+    - gleiche Fähigkeiten wie Phase 1
 
 - Vater
-- | HP | VTD | SR | INI |
-  |-------|--------|--------|--------|
-  | kombiniert mit Friede | 30 | 2 | ? (Abwartefeld) |
+    - Fähigkeiten:
+        - Kelch Fähigkeit:
+            - Schlägt mit Kelch auf den Boden und macht Feuerschaden im Umkreis von 2 Feldern (3x3) um Feld vor ihm.
+            - Mitte: 2W10+25 gg VTD, 4W6+10
+            - Rand: 2W10+20 gg VTD, 3W6+2
+            - Bewegt sich 1 Feld vorwärts, alle 2 Ticks. Bis zu 3mal hintereinander.
+        - Feuer Atem:
+            - Schießt Feuerstrahl
+            - 2W10+17 gg VTD, 3W6+5
+            - 6 Ticks
+        - Lava Regen:
+            - kippt Kelch um und lässt Lava auf den Boden fließen
+            - Lava macht 2W6 Schaden alle 3 Ticks, hält 9 Ticks an (oder brennend 2/3?)
+            - Breitet sich 1 Feld (nicht diagonal) pro 3 Ticks aus
 
-Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feuer schwarz mit dem Dunklen in einem letzten Kampf.
+    - | HP | VTD | SR | INI |
+      |-------|--------|--------|--------|
+      | kombiniert mit Friede,70 | 25 | 4 | ? (Abwartefeld) |
 
+Möglichkeit Vater Ariandel zu überzeugen, dass Friede schlechtes im Sinn hat.
+Kann dann in Phase 2 mit gegen Friede kämpfen.
+Phase 3 wird er dann von Friede getötet als sie aufersteht.
 
-3. Darkflame Friede
+Nachdem sie das zweite Mal fällt, erhebt sich Friede erneut und färbt ihr Feuer schwarz in einem letzten Kampf.
+
+##### 3. Darkflame Friede
 
 <img src="images/friedeblack.jpg"  width="auto" height="200" />
 
+- Schwarze Flamme AoE:
+    - 3 Ticks Vorlauf, erhebt sich und fokussiert dunkle Energie (schaut auf einen Spieler)
+    - macht großen AoE auf Spieler
+    - 4m Umkreis um Ziel
+    - 2W10+20 gg VTD, 4W6+10
+    - danach zielführende kleine Flammen auf alle Spieler
+    - 2W10+15 gg VTD, 1W10
+    - 7 Ticks
+- Frost Aoe:
+    - Springt in Luft und friert Boden ein
+    - Teppich muster bis ende des Raumes (trennt Raum)
+    - 20 gg VTD, 2W6+3 Schaden
+    - Verlangsamt, nächsten 2 Aktionen +5 Ticks
+    - Muster explodiert nach 20 Friede Ticks, 2W6 Schaden
+    - 7 Ticks
+- Guillotine:
+    - Sichel leuchtet blau auf, 3 Ticks
+    - Dash auf meist geschwächten Spieler und spiest ihn auf
+    - Spieler können versuchen das Opfer zu schützen, indem sie sich vor ihn stellen oder
+    zum ausweichen bereit machen (+5 VTD, 1 Tick)
+    - 2W10+20 gg VTD, 4W6+10
+    - 7 Ticks
+- Heilung:
+    - 3 Ticks Vorbereitung, schwarze Flamme unter Friede wird größer
+    - Heilt sich selbst und schleudert alle Spieler weg mit schwarzer Flamme
+    - Spieler in 2m Umkreis haben liegend 2 Status
+    - 2W10+5 Heilung
+    - 4 Ticks
+
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | 50 | 35 | 2 | ? (Abwartefeld) |
+  | 70 | 32 | 3 | ? (Abwartefeld) |
 
 Flammen brennen die Welt nieder und Gruppe wird bewusstlos und wachen an dem großen Tisch auf.
 
 ## Ende
 
-Nach Finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
+Nach finalem Boss werden alle kurz bewusstlos und wachen an dem großen Tisch auf.  
 Belohnung: Große Kiste mit 10 Lunaren für jeden (Sind magisch in den Rucksäcken der Abenteurer)  
 Fee gratuliert den Abenteurern, bietet Essen an und führt sie in anderem Raum durch magisches Portal.  
-Oder weckt sie auf.
 Charaktere erinnern sich nicht an die Details der ganzen Ereignisse, aber sie haben das Gefühl, dass sie trotzdem etwas mitgenommen haben (haben unterbewusst Erfahrung gewonnen, aber kennen nicht die ganzen Kreaturen).
 --> Ende

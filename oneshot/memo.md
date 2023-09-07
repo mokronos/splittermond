@@ -62,3 +62,9 @@ rooms
         - 0 hp
 
 !!! finish story before final boss
+
+- mimic 0hp, dunkle seelen
+- language tresor
+- poison face
+- wurm 0 hp
+

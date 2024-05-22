@@ -1778,10 +1778,10 @@ zutaten für:
 talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
 
 
-200ep + ?ep --> ?ep
+200ep + 0ep --> 200ep
 FAZIT: oneshot
 
-========================================================================?.?.2022
+========================================================================07.02.2022
 
 splitterpunkte:
 o o o o o o
@@ -1840,20 +1840,181 @@ feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
 6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
 - rauchwand, pflanzenwachstum, rosentrunk(schlaf), heil 4hp, heil 4hp, 
 
-1 chillisamen angepflanzt mit walderde (2mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+1 chillisamen angepflanzt mit walderde (3mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
 
 
-3 Gnome jagen
-bekommen super coole stadt, für x, aber haben x nicht erledigt --> müssen sie jagen
+Hexen jagen
 + 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
 falls wir es nicht schaffen, 25 jahre gefängnis
 weissagung: 3 tyrannen fallen und stadt geht unter
 --> darkatsmir ist die richtige stadt
 
++ Dihahn vertraut mir bisschen mehr (2 Wochen die Stadt erkundet)
 
 zutaten für:
 talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
 
+krokodilgalle ist schlecht (wegstreichen)
 
-200ep + ?ep --> ?ep
+
+200ep + 40ep --> 240ep
+FAZIT: Sind in Vorstadt und suchen Kind für Hexen
+
+========================================================================26.02.2022
+
+splitterpunkte:
+o o o o o o
+
+hp:
+x o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 1 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+v e e e e e
+v e e e e e
+v v o e e e
+o o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+3 taschen für tränke in mantel innen. 3 ticks zum nutzen statt 5
+- erinnerungstrank, Intuitionstrank, pflanzenwachstum
+6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
+- rauchwand, pflanzenwachstum, rosentrunk(schlaf), heil 6hp, heil 4hp, heil 4hp, 
+
+1 chillisamen angepflanzt mit walderde (3mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+
+
+Hexen jagen
++ 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
+falls wir es nicht schaffen, 25 jahre gefängnis
+weissagung: 3 tyrannen fallen und stadt geht unter
+--> darkatsmir ist die richtige stadt
+
++ Dihahn vertraut mir bisschen mehr (2 Wochen die Stadt erkundet)
+
+zutaten für:
+talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
+
+krokodilgalle ist schlecht (wegstreichen)
+
+
+200ep + 5ep --> 205ep
+FAZIT: Haben wassergeist besiegt und suchen Hexen weiter
+
+========================================================================22.05.2022
+
+splitterpunkte:
+o o o o o o
+
+hp:
+x o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+o o o o o o o
+--> 1 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+v e e e e e
+v e e e e e
+v v o e e e
+o o o o o o
+o o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+3 taschen für tränke in mantel innen. 3 ticks zum nutzen statt 5
+- erinnerungstrank, Intuitionstrank, pflanzenwachstum
+6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
+- rauchwand, pflanzenwachstum, rosentrunk(schlaf), heil 6hp, heil 4hp, heil 4hp, 
+
+1 chillisamen angepflanzt mit walderde (3mal mit flamme versorgt | 0 Blätter, 0 Knospe, 0 Chilli(warm))
+
+
+Hexen jagen
++ 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
+falls wir es nicht schaffen, 25 jahre gefängnis
+weissagung: 3 tyrannen fallen und stadt geht unter
+--> darkatsmir ist die richtige stadt
+
++ Dihahn vertraut mir bisschen mehr (2 Wochen die Stadt erkundet)
+
+zutaten für:
+talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
+
+krokodilgalle ist schlecht (wegstreichen)
+- hexen haben es nur auf schwangere abgesehen, alle anderen sind sicher
++ groser heiltrank, manatrank, grüner trank (klettert glas hoch)
+
+205ep + ?ep --> ?ep
 FAZIT: ??

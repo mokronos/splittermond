@@ -68,3 +68,9 @@ rooms
 - poison face
 - wurm 0 hp
 
+
+# Friede
+- hp 0
+
+# Friede und Vater
+- hp 3

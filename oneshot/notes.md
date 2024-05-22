@@ -564,7 +564,7 @@ Ariandel ist ein Bewohner, Vater der Kirche und wird von Friede überzeugt mit s
 | x| Gael | Ich brauche eure Hilfe um Feuer zu entfachen.|
 | x| Schriftrolle/Friede | Friede fühlt sich in dieser gemalten Welt wohl und will nicht, dass sie neu anfängt.
 |  | Schriftrolle/Friede | Sie ist müde von der andauernden Veränderung.|
-|  | Schriftrolle/Friede | Lügt: Das Feuer würde die Bewohner dieser Welt verzehren, ihre Leben in Flammen aufgehen lassen|
+|  | Schriftrolle/Friede | Das Feuer würde die Bewohner dieser Welt verzehren, ihre Leben in Flammen aufgehen lassen|
 | x | Schriftrolle |Ariandel ist ein Bewohner, Vater der Kirche |
 |  | Schriftrolle | Ariandel wurde von Friede überzeugt, das Feuer mit seinem Blut aufzuhalten.
 | x | Schriftrolle | Ariandel muss sein Blut opfern, da dieses verwendet wurde, um Welt zu malen.|
@@ -654,9 +654,9 @@ Friede greift die Gruppe an.
     - Assassinen Fähigkeit:
         - 3 Ticks, wird unsichtbar und teleportiert sich, kann nicht angegriffen werden
         - wahrnehmungscheck hören gg. 25 --> 5 VTD
-        - Assasinen Angriff 2W10+25 gg VTD, 4W10+5 Schaden
+        - Assasinen Angriff 2W10+20 gg VTD, 3W10+5 Schaden
         - 2 Ticks
-        - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 4W6+4 Schaden
+        - Folgt mit Sensen Assasinen angriff gegen ein anderes random Ziel, 2W10+20 gg VTD, 3W6 Schaden
         - 5 Ticks.
     - Frost Angriff:
         - Springt in luft und Friert Boden ein
@@ -675,7 +675,7 @@ Friede greift die Gruppe an.
 
 - | HP | VTD | SR | INI |
   |-------|--------|--------|--------|
-  | 50 | 30 | 2 | ? (Abwartefeld) |
+  | 50 | 25 | 2 | ? (Abwartefeld) |
 
 Als das Blut von Friede in den Behälter mit dem Feuer fließt, öffnet Vater Ariandel seine Augen.
 Der Anblick ihres Leichnams erzürnt ihn, wodurch er sich von ketten befreit und den Behälter gegen ihr ungezündetes Blut schlägt, um die Flamme zu entzünden und sie dadurch wiederzubeleben (vllcht bessere Erklärung wie Feuer wiederbelebt).
@@ -694,7 +694,7 @@ Maybe show cutscene from ds3
     - Fähigkeiten:
         - Kelch Fähigkeit:
             - Schlägt mit Kelch auf den Boden und macht Feuerschaden im Umkreis von 2 Feldern (3x3) um Feld vor ihm.
-            - Mitte: 2W10+25 gg VTD, 4W6+10
+            - Mitte: 2W10+25 gg VTD, 4W6+2
             - Rand: 2W10+20 gg VTD, 3W6+2
             - Bewegt sich 1 Feld vorwärts, alle 2 Ticks. Bis zu 3mal hintereinander.
         - Feuer Atem:

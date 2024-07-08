@@ -2610,7 +2610,7 @@ FAZIT: Chillen in Dorf in Young yang
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-39. [??.??.2024]
+39. [01.07.2024]
 
 splitterpunkte:
 
@@ -2646,10 +2646,10 @@ waffe : -wert:19
 
 temporary:
 
-- VTD: 23(natural) + 2(schild) + 4(rüstung) + [3(magische rüstung)] + [2(steinhaut)] = 29
-- SR: 1(natural) + [3(steinhaut)] + 4(rüstung) = 5
-- Beh.: 2(schild) + 3(rüstung) = 5 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (5/2 = 2 malus auf gsw)
-- Tick Zuschlag: 3(rüstung) = 3
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + [2(steinhaut)] = 25
+- SR: 1(natural) + [3(steinhaut)] + [4(rüstung)] = 2
+- Beh.: 2(schild) + [3(rüstung)] = 2 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
 
 
 Wahrnehmung:
@@ -2688,8 +2688,6 @@ Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
 
 - Xemail hatte Frau Lissandra, die durch Ritual für ihn gestorben ist.
 - Sehen auf letzter seite des Orakelbuchs, dass er durch "uns" durch ein portal gekickt wird.
-+ Zerissener zwischen den Welten Stufe3
-- Konzentration 3 Malus (-8)
 
 - Dinge in Rucksack geblieben
     - Ring mit Schildrune
@@ -2698,7 +2696,9 @@ Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
     - Handwerkshammer
     - Angel und Schnur
 
+- Rüstung, auser helm verloren
+
 + Langes Gewandt
 
-308ep + ?ep --> ???ep
-FAZIT: ???
+308ep + 0ep --> 308ep
+FAZIT: In geisterwelt in wald (bisschen verirrt, sanduhr bei 40%)

@@ -2702,3 +2702,96 @@ Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
 
 308ep + 0ep --> 308ep
 FAZIT: In geisterwelt in wald (bisschen verirrt, sanduhr bei 40%)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+40. [10.9.2024]
+
+splitterpunkte:
+
+o o o o
+
+LP:
+
+x x x x o o o o o o o | [(o o o o o o)]
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+o o o o o o o o o o o
+
+focus:
+
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+o o o o o
+o o o o o
+o o o o o
+o o o o o 
+o o o o o
+o
+
+Verteidigungswirbel!! 
+Klingenwirbel!!
+waffe : -wert:19
+	-dmg: 2w6 [(+3)]
+	-gschw: 10 + 3(Tick-Zuschlag|Rüstung) = 13
+
+0 malus
+
+
+temporary:
+
+- VTD: 23(natural) + 2(schild) + [4(rüstung)] + [3(magische rüstung)] + 2(steinhaut) = 27
+- SR: 1(natural) + 3(steinhaut) + [4(rüstung)] = 4
+- Beh.: 2(schild) + [3(rüstung)] = 2 --> malus auf bewegungsfähigkeiten (zb. akrobatik) (2/2 = 1 malus auf gsw)
+- Tick Zuschlag: [3(rüstung)] = 0
+
+
+Wahrnehmung:
+ +3 bei Orientierung (Orientierungssinn)
+ (+3 bei Sicht(Zauber))
+Zähigkeit:
+ +3 bei Zähigkeitsproben (Giftresistenz)
+Handwerk:
+ +3 bei Holzhandwerk(Handwerkshammer)
+ +2 bei jedem Handwerk(Handwerksset | Zangen, Hammer, Zollstock) 1x benutzt
+
+Schutzmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+Stärkungsmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+
+Schwert Griff Bänder: T-Rex(dunkelgrün), Schwertdommel, Einhorn(weiß)
+Artefakte: Schwert, Rüstung, Schild, Reittier (alle 3 Teile unterschiedliche schmiedekunst)
+
+Main quest:
+Xemail (typ in tempelgemälde) hat uns im traum vernichtet.
+Habe Schild und Schwert.
+Rüstung in zhou jiang. 2-3 Jahre mit normaler Reise.
+
+Idee für Schild:
+- verstärken und vergrößern (magisch am rand vergrößert) + heilen
+- schildstoß, magischer Stoß, Schallwelle
+- Zauber schon in Schild, kann aber nicht auslösen, ritual nötig
+- vllcht gem socket in handschuh, der dann auf schild überträgt
+
+Zwerg mit vulkanziege mit Diamant Wappen (königswappen)
+
++ notiz zur versorgung von gebrochenem Bein mit "holzprothese"
++ Edelstein Sockel in Handschuh eingearbeitet, der Zauber auf Schild übertragen kann
+
+- Xemail hatte Frau Lissandra, die durch Ritual für ihn gestorben ist.
+- Sehen auf letzter seite des Orakelbuchs, dass er durch "uns" durch ein portal gekickt wird.
+
+- Dinge in Rucksack geblieben
+    - Ring mit Schildrune
+    - Zanger(Hammer/Zange)
+    - Handwerksset
+    - Handwerkshammer
+    - Angel und Schnur
+
+- Rüstung, auser helm verloren
+
+308ep + 10ep --> 318ep
+FAZIT: Stehen in Pampa mit Kind (Dorf war Illusion)

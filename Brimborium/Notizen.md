@@ -2474,6 +2474,101 @@ Für mich selbst, immer noch wie Lodenmantel (wie davor), weil das perfekt ist.
 275ep + 10ep --> 285ep
 FAZIT: Hexen verwandeln caressa und dalyan
 
+======================================================================== 14.07.2024
+
+splitterpunkte:
+o o o o x x
+
+hp:
+x x x x x x x
+x x x x x x x
+x x x x x x x
+o x x x x x x
+o o o o o o o
+--> 4 malus
+
+fokus:
+o: frei, k: kanalisiert, v: verzehrt, e: erschöpft
+
+
+v v v v v v
+e e e e e e
+e e e e e e
+e e e e e e
+e o o o o o
+o
+
+
+Straßenkunde:
+ +3 in Stadt (Gerüchte aufschnappen)
+Wahrnehmung:
+ +3 in Stadt (Umgebungssinne(Stadt))
+ +2 bei Sicht/Gehör (Scharfe Sicht/Gehör)
+Entschlossenheit:
+ +3 bei Konzentrationsproben(Konzentrationsstärke)
+
+
+Beherrschungsmagie:
+ +2 bei Beherrschungszaubern gegen geistigen Widerstand (Willensbrecher)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Feuermagie:
+ +1 Schaden für Feuerzauber von Typus Schaden (Flammenherz)
+ +2 Fertigkeit wenn gegen verteidigung
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -1 Fokus(verzehrter) um Verstärkung auszulösen
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Kampfmagie:
+ -1 Fokus(kanalisierter oder erschöpfter)(Sparsamer Zauber)
+ -kann Modifikationen für Angriffe im Kampfgetümmel ignorieren (Gezielte Zauber)
+Schicksalsmagie:
+ -kann Zauber mit Reichweite "Zauberer" auch bei "Berührung" zaubern (Hand des Zauberers)
+
++0 auf fertigkeiten (segnung)
+feuerstrahl: 2W10 + 2 + 20 = 2W10 + 22 (gegen VTD)
+feuerstrahl schaden: 2W6 + 5 + 1 + EG = 2W6 + 6 + EG
+
+
+3 taschen für tränke in mantel innen. 3 ticks zum nutzen statt 5
+- erinnerungstrank, Intuitionstrank
+6 extra außentaschen an rucksack (auf beiden seiten 3) 3 ticks zum nutzen statt 5
+- pflanzenwachstum, Fokustrank, heil 4hp alt
+
+1 chillipflanze angepflanzt mit walderde (6mal mit flamme versorgt | 0 Blätter, 1 Knospe, 0 Chilli(warm))
+
+
+Hexen jagen
++ 1 Pakt mit Belbezos(1 Solar)(nur brim und juvius)
+falls wir es nicht schaffen, 25 jahre gefängnis
+weissagung: 3 tyrannen fallen und stadt geht unter
+--> darkatsmir ist die richtige stadt
+
++ Dihahn vertraut mir bisschen mehr (2 Wochen die Stadt erkundet)
+
+zutaten für:
+talenttransfer (- tränen)--> 1 juvius hat mir 8 tränen gegeben
+
+krokodilgalle ist schlecht (wegstreichen)
++ grüner trank (klettert glass hoch)
++ 2 Lunare
++ 1 Phiole Salamanderblut(blau)
++ 5 Brokkoli
+
+- Baumwandlersaft
+- Rosentrunk(schlaf)
+- 3x heilkraut
+
++ 3 Kältetränke
++ 3 Öltränke (riechen gut)
++ Mantel sieht jetzt immer so aus wie andere mich am schönsten sehen
+
++ 70 Lunare
+
+- Haben pakt erfüllt (hexen gekilled --> Azamos hat sie abgeholt)
+- Eltern befreit
+
+285ep + 15ep --> 300ep
+FAZIT: Schein zum Eltern befreit
+
 ======================================================================== ??.??.2024
 
 splitterpunkte:
@@ -2562,5 +2657,5 @@ krokodilgalle ist schlecht (wegstreichen)
 
 - Denken, dass wir pakt erfüllt haben. Haben paket verschickt in hexenzauber
 
-285ep + ?ep --> ?ep
+300ep + ?ep --> ?ep
 FAZIT: ???
